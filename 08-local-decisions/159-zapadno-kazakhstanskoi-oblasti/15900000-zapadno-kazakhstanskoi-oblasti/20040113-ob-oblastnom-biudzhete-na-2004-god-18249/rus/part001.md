@@ -1,0 +1,4204 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/18249/rus/13.01.2004
+---
+
+> *Приложение N 1*  
+> *к решению областного маслихата*  
+> *N 4-2 от 13 января 2004 года*
+
+## Областной бюджет на 2003 год
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td colspan="2">Категория</td>
+<td colspan="2">Класс</td>
+<td colspan="3">Подкласс</td>
+<td colspan="2">Специфика</td>
+<td>Наименование</td>
+<td colspan="2">Областной</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="3">3</td>
+<td colspan="2">4</td>
+<td>6</td>
+<td colspan="2">7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>ПОСТУПЛЕНИЯ</td>
+<td colspan="2">17 601 546</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>I. ДОХОДЫ</td>
+<td colspan="2">14 679 989</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>HАЛОГОВЫЕ ПОСТУПЛЕHИЯ</td>
+<td colspan="2">14 670 390</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Подоходный налог</td>
+<td colspan="2">7 349 790</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
+<td>Индивидуальный подоходный налог</td>
+<td colspan="2">7 349 790</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Социальный налог</td>
+<td colspan="2">7 062 532</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
+<td>Социальный налог</td>
+<td colspan="2">7 062 532</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td>Социальный налог</td>
+<td colspan="2">7 062 532</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">258 068</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
+<td>Поступления за использование природных и других ресурсов</td>
+<td colspan="2">258 068</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">16</td>
+<td>Плата за загрязнение окружающей среды</td>
+<td colspan="2">258 068</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>НЕНАЛОГОВЫЕ ПОСТУПЛЕНИЯ</td>
+<td colspan="2">9 599</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Доходы от предпринимательской деятельности и собственности</td>
+<td colspan="2">9 599</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
+<td>Фактическая прибыль ведомственных предприятий от реализации товаров и услуг с прибылью</td>
+<td colspan="2">5 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">02</td>
+<td>Доля прибыли коммунальных государственных предприятий</td>
+<td colspan="2">5 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
+<td>Неналоговые поступления от юридических лиц и финансовых учреждений</td>
+<td colspan="2">4 599</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">15</td>
+<td>Поступление дивидендов на пакеты акций, являющихся коммунальной собственностью</td>
+<td colspan="2">4 599</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>II. ПОЛУЧЕННЫЕ ОФИЦИАЛЬНЫЕ ТРАНСФЕРТЫ</td>
+<td colspan="2">2 741 717</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>ПОЛУЧЕННЫЕ ОФИЦИАЛЬНЫЕ ТРАНСФЕРТЫ</td>
+<td colspan="2">2 741 717</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Трансферты из нижестоящих органов государственного управления</td>
+<td colspan="2">131 339</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
+<td>Трансферты из районных (городских) бюджетов</td>
+<td colspan="2">131 339</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">03</td>
+<td>Бюджетное изъятие из районных (городских) бюджетов</td>
+<td colspan="2">131 339</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">2 610 378</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
+<td>Трансферты из республиканского бюджета</td>
+<td colspan="2">2 610 378</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td>Текущие</td>
+<td colspan="2">115 912</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">02</td>
+<td>Капитальные</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">03</td>
+<td>Субвенция</td>
+<td colspan="2">2 494 466</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">04</td>
+<td>Целевые инвестиционные трансферты</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>III. ВОЗВРАТ КРЕДИТОВ</td>
+<td colspan="2">179 840</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>ВОЗВРАТ КРЕДИТОВ</td>
+<td colspan="2">179 840</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Возврат внутренних кредитов</td>
+<td colspan="2">179 840</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td>Возврат кредитов, выданных из местного бюджета юридическим лицам</td>
+<td colspan="2">179 840</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">02</td>
+<td>Возврат кредитов, выданных для развития малого предпринимательства</td>
+<td colspan="2">293</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">03</td>
+<td>Возврат кредитов, выданных сельхозтоваропроизводителям</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">04</td>
+<td>Возврат кредитов, выданных для поддержки и развития отраслей экономики</td>
+<td colspan="2">67 250</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">05</td>
+<td>Возврат кредитов, выданных на местные инвестиционные проекты</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">06</td>
+<td>Возврат прочих кредитов</td>
+<td colspan="2">112 297</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td>Возврат местными исполнительными органами районов, городов кредитов, выданных из областного</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td>Возврат кредитов, выданных на покрытие кассового разрыва</td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Функциональная группа</td>
+<td colspan="2">Подфункция</td>
+<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="2">Программа</td>
+<td colspan="3">Наименование</td>
+<td>Сумма</td>
+</tr>
+<tr>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">РАСХОДЫ</td>
+<td>17 109 546</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">IV. ЗАТРАТЫ</td>
+<td>16 774 731</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Государственные услуги общего характера</td>
+<td>330 379</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>190 998</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">103</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат маслихата</td>
+<td>10 902</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности маслихата</td>
+<td>10 902</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Создание информационных систем</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>180 096</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности акима</td>
+<td>180 096</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Создание информационных систем аппарата акима</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Финансовая деятельность</td>
+<td>139 381</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">259</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган коммунальной собственности, финансируемый из местного бюджета</td>
+<td>14 836</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа коммунальной собственности, финансируемого из местного бюджета</td>
+<td>8 161</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Организация приватизации коммунальной собственности</td>
+<td>6 675</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Создание информационных систем органов коммунальной собственности</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">260</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган финансов, финансируемый из местного бюджета</td>
+<td>124 545</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа финансов, финансируемого из местного бюджета</td>
+<td>124 545</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Создание информационных систем органов финансов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Обеспечение оценки имущества для налогообложения</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Оборона</td>
+<td>402 749</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Военные нужды</td>
+<td>7 130</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>7 130</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Мероприятия по приписке и призыву на военную службу</td>
+<td>7 130</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Организация работы по чрезвычайным ситуациям</td>
+<td>395 619</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>395 619</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Мероприятия по мобилизационной подготовке на местном уровне</td>
+<td>30 102</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Ликвидация чрезвычайных ситуаций на местном уровне</td>
+<td>365 517</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Общественный порядок и безопасность</td>
+<td>804 622</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Правоохранительная деятельность</td>
+<td>804 622</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">251</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+<td>804 622</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа внутренних дел, финансируемого из местного бюджета</td>
+<td>772 353</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Охрана общественного порядка и обеспечение общественной безопасности на местном уровне</td>
+<td>31 746</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Поощрение граждан, участвующих в охране общественного порядка</td>
+<td>523</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Развитие объектов органов внутренних дел</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Создание информационных систем органов внутренних дел</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Образование</td>
+<td>1 158 311</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Дошкольное воспитание и обучение</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Детское дошкольное воспитание и обучение на местном уровне</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Начальное общее, основное общее, среднее общее образование</td>
+<td>735 678</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>735 678</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Общеобразовательное обучение на местном уровне</td>
+<td>387 842</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Информатизация системы среднего образования на местном уровне</td>
+<td>22 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Приобретение и доставка учебников для обновления библиотечных фондов государственных учреждений среднего образования</td>
+<td>134 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Дополнительное образование для детей и юношества на местном уровне</td>
+<td>189 686</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Проведение школьных олимпиад на местном уровне</td>
+<td>2 150</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Начальное профессиональное образование</td>
+<td>229 436</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>229 436</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">11</td>
+<td colspan="3">Начальное профессиональное образование на местном уровне</td>
+<td>229 436</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Среднее профессиональное образование</td>
+<td>160 767</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>34 514</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Подготовка специалистов со средним профессиональным образованием на местном уровне</td>
+<td>34 514</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>126 253</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">12</td>
+<td colspan="3">Подготовка специалистов со средним профессиональным образованием на местном уровне</td>
+<td>126 253</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Дополнительное профессиональное образование</td>
+<td>29 080</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">251</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+<td>3 500</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">7</td>
+<td colspan="3">Повышение квалификации и переподготовка кадров органов внутренних дел</td>
+<td>3 500</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>1 474</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Повышение квалификации и переподготовка кадров государственных учреждений</td>
+<td>1 474</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>24 106</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">13</td>
+<td colspan="3">Повышение квалификации и переподготовка кадров государственных учреждений</td>
+<td>24 106</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие услуги в области образования</td>
+<td>3 350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>3 350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Оказание психолого-медико-педагогической консультативной помощи населению по обследованию психического здоровья детей и подростков</td>
+<td>3 350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">15</td>
+<td colspan="3">Реабилитация и социальная адаптация детей и подростков с проблемами в развитии</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">16</td>
+<td colspan="3">Развитие объектов образования</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Здравоохранение</td>
+<td>3 397 055</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Больницы широкого профиля</td>
+<td>1 008 950</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>1 008 950</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Оказание стационарной медицинской помощи по направлению специалистов первичной медико- санитарной помощи и организаций здравоохранения</td>
+<td>1 008 950</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Охрана здоровья населения</td>
+<td>459 071</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>163 600</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Производство крови (заменителей) на местном уровне</td>
+<td>70 065</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Охрана материнства и детства</td>
+<td>84 735</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">7</td>
+<td colspan="3">Пропаганда здорового образа жизни на местном уровне</td>
+<td>8 800</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">17</td>
+<td colspan="3">Реабилитация детей на местном уровне</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">278</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган санитарно-эпидемиологического надзора, финансируемый из местного бюджета</td>
+<td>295 471</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа санитарно-эпидемиологического надзора, финансируемого из местного бюджета</td>
+<td>129 571</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Обеспечение санитарно-эпидемиологического благополучия</td>
+<td>165 900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Борьба с эпидемиями на местном уровне</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Специализированная медицинская помощь</td>
+<td>864 139</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>864 139</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Оказание медицинской помощи лицам, страдающим социально-значимыми заболеваниями и заболеваниями, представляющими опасность для окружающих</td>
+<td>864 139</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Поликлиники</td>
+<td>707 896</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">251</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Оказание медицинской помощи сотрудникам органов внутренних дел, членам их семей в амбулаторно-поликлинических организациях</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>707 896</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Оказание первичной медико-санитарной помощи населению</td>
+<td>707 896</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Другие виды медицинской помощи</td>
+<td>177 473</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">251</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+<td>36 453</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Оказание стационарной медицинской помощи сотрудникам органов внутренних дел, членам их семей</td>
+<td>36 453</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>141 020</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">10</td>
+<td colspan="3">Оказание скорой и неотложной помощи</td>
+<td>121 003</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">12</td>
+<td colspan="3">Оказание медицинской помощи населению в чрезвычайных ситуациях</td>
+<td>20 017</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие услуги в области здравоохранения</td>
+<td>179 526</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">254</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+<td>179 526</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа здравоохранения, финансируемого из местного бюджета</td>
+<td>18 463</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Обеспечение специализированными продуктами детского и лечебного питания отдельных категорий граждан</td>
+<td>79 138</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">15</td>
+<td colspan="3">Проведение патологоанатомического вскрытия</td>
+<td>19 650</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">16</td>
+<td colspan="3">Обеспечение лекарственными средствами населения по видам заболеваний на местном уровне</td>
+<td>62 275</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">17</td>
+<td colspan="3">Развитие объектов здравоохранения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">18</td>
+<td colspan="3">Создание информационных систем здравоохранения</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Социальное обеспечение и социальная помощь</td>
+<td>978 198</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Социальное обеспечение</td>
+<td>935 805</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">258</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган труда и социальной защиты населения, финансируемый из местного бюджета</td>
+<td>757 830</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Специальные государственные пособия</td>
+<td>529 174</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Социальное обеспечение престарелых и инвалидов общего типа</td>
+<td>228 656</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>177 975</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">18</td>
+<td colspan="3">Социальное обеспечение детей</td>
+<td>177 975</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Социальная помощь</td>
+<td>8 900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">258</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган труда и социальной защиты населения, финансируемый из местного бюджета</td>
+<td>8 900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">10</td>
+<td colspan="3">Программа занятости</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">11</td>
+<td colspan="3">Оказание ритуальных услуг по захоронению умерших Героев Советского Союза, &quot;Халык кахарманы&quot;, Героев Социалистического труда, награжденных Орденом Славы трех степеней и орденом &quot;Отан&quot; из числа участников и инвалидов войны</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">12</td>
+<td colspan="3">Оказание социальной помощи специалистам здравоохранения, образования, социального обеспечения, культуры, проживающим в сельской местности, по приобретению топлива</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">13</td>
+<td colspan="3">Государственная адресная социальная помощь</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Жилищная помощь</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">15</td>
+<td colspan="3">Социальные выплаты отдельным категориям граждан по решению местных представительных органов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">16</td>
+<td colspan="3">Социальная поддержка инвалидов на местном уровне</td>
+<td>8 850</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">19</td>
+<td colspan="3">Социальная поддержка обучающихся и воспитанников организаций образования очной формы обучения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие услуги в области социальной помощи и социального обеспечения</td>
+<td>33 493</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">258</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган труда и социальной защиты населения, финансируемый из местного бюджета</td>
+<td>33 493</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа труда и социальной защиты населения, финансируемого из местного бюджета</td>
+<td>28 201</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
+<td>5 292</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Создание информационных систем органов труда и социальной защиты населения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Развитие объектов социального обеспечения</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Жилищно-коммунальное хозяйство</td>
+<td>156 628</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Водоснабжение</td>
+<td>156 628</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">274</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+<td>156 628</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Функционирование системы водоснабжения и водоотведения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">15</td>
+<td colspan="3">Развитие системы водоснабжения</td>
+<td>156 628</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Благоустройство населенных пунктов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">274</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">18</td>
+<td colspan="3">Обеспечение санитарного состояния населенных пунктов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">19</td>
+<td colspan="3">Содержание мест захоронений и захоронение безродных</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">20</td>
+<td colspan="3">Проведение работ по благоустройству населенных пунктов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">21</td>
+<td colspan="3">Проведение работ по озеленению населенных пунктов</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Культура, спорт, туризм и информационное пространство</td>
+<td>656 167</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Деятельность в области культуры</td>
+<td>275 565</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>275 565</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">20</td>
+<td colspan="3">Обеспечение культурного досуга населения на местном уровне</td>
+<td>181 228</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">21</td>
+<td colspan="3">Увековечение памяти деятелей государства на местном уровне</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">22</td>
+<td colspan="3">Хранение историко- культурных ценностей на местном уровне</td>
+<td>79 337</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">23</td>
+<td colspan="3">Сохранение исторического и культурного наследия, содействие развитию исторических, национальных и культурных традиций и обычаев населения</td>
+<td>15 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">30</td>
+<td colspan="3">Развитие объектов культуры</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Спорт и туризм</td>
+<td>153 377</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>153 377</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">26</td>
+<td colspan="3">Проведение спортивных мероприятий на местном уровне</td>
+<td>147 377</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">27</td>
+<td colspan="3">Мероприятия по туристской деятельности на местном уровне</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">28</td>
+<td colspan="3">Развитие объектов спорта</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Информационное пространство</td>
+<td>202 618</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">261</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган управления архивами, финансируемый из местного бюджета</td>
+<td>29 039</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа управления архивами, финансируемого из местного бюджета</td>
+<td>4 044</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Обеспечение сохранности архивного фонда, печатных изданий и их специальное использование на местном уровне</td>
+<td>24 995</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Развитие объектов архивов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>47 919</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">29</td>
+<td colspan="3">Обеспечение общедоступности информации на местном уровне</td>
+<td>47 919</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">264</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган анализа общественных отношений и внутренней политики, финансируемый из местного бюджета</td>
+<td>125 660</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Проведение государственной информационной политики на местном уровне</td>
+<td>105 410</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Развитие государственного и других языков</td>
+<td>2 250</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Участие в проведении государственной политики по обеспечению внутриполитической стабильности</td>
+<td>18 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие услуги по организации культуры, спорта и информационного пространства</td>
+<td>24 607</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">264</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган анализа общественных отношений и внутренней политики, финансируемый из местного бюджета</td>
+<td>24 607</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа анализа общественных отношений и внутренней политики, финансируемого из местного бюджета</td>
+<td>18 607</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Проведение региональной молодежной политики</td>
+<td>6 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Создание информационных систем органов анализа общественных отношений и внутренней политики</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Сельское, водное, лесное, рыбное хозяйство и охрана окружающей среды</td>
+<td>419 197</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Сельское хозяйство</td>
+<td>108 180</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">7</td>
+<td colspan="3">Землеустройство</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Зонирование земель</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">257</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+<td>108 180</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Оказание содействия ветеринарным мероприятиям на местном уровне</td>
+<td>76 300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Выполнение работ по борьбе с вредителями и болезнями растений</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Поддержка семенных репродукторов в растениеводстве</td>
+<td>8 280</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Поддержка племенного животноводства на местном уровне</td>
+<td>23 600</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Лесное хозяйство</td>
+<td>117 660</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">257</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+<td>117 660</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">13</td>
+<td colspan="3">Охрана лесов и животного мира</td>
+<td>117 660</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Воспроизводство лесов и лесоразведение</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Охрана окружающей среды</td>
+<td>162 179</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">256</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган по природопользованию и охране окружающей среды финансируемый из местного бюджета</td>
+<td>162 179</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа по природопользованию и охране окружающей среды, финансируемого из местного бюджета</td>
+<td>5 315</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Проведение мероприятий по охране окружающей среды на местном уровне</td>
+<td>156 864</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Развитие охраны окружающей среды</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие услуги в области сельского, водного, лесного, рыбного хозяйства и охраны окружающей среды</td>
+<td>31 178</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">257</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+<td>31 178</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа сельского хозяйства, по охране лесов и животного мира, финансируемого из местного бюджета</td>
+<td>31 178</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Развитие информационно- маркетинговой системы сельского хозяйства</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">16</td>
+<td colspan="3">Развитие объектов сельского хозяйства</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Промышленность и строительство</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Строительство</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">273</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган инфраструктуры и строительства, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">11</td>
+<td colspan="3">Разработка генеральных планов застройки населенных пунктов</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Транспорт и связь</td>
+<td>1 287 932</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Автомобильный транспорт</td>
+<td>1 207 932</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">274</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+<td>1 207 932</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">24</td>
+<td colspan="3">Организация межрайонного (межгородского) пассажирского транспортного сообщения</td>
+<td>18 917</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">25</td>
+<td colspan="3">Развитие транспортной инфраструктуры</td>
+<td>334 342</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">26</td>
+<td colspan="3">Обеспечение функционирования автомобильных дорог местного значения, улиц городов и иных населенных пунктов</td>
+<td>854 673</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Воздушный транспорт</td>
+<td>80 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">274</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+<td>80 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">27</td>
+<td colspan="3">Субсидирование регулярных внутренних авиаперевозок по решению местных исполнительных органов</td>
+<td>80 000</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие</td>
+<td>734 254</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Поддержка предпринимательской деятельности и защита конкуренции</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">272</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Организация поддержки малого предпринимательства на местном уровне</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие</td>
+<td>734 254</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>283 490</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">10</td>
+<td colspan="3">Резерв местного исполнительного органа по выполнению обязательств местных исполнительных органов по решениям судов</td>
+<td>20 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">11</td>
+<td colspan="3">Резерв местного исполнительного органа для ликвидации чрезвычайных ситуаций природного и техногенного характера и иных непредвиденных расходов</td>
+<td>117 343</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">12</td>
+<td colspan="3">Представительские затраты</td>
+<td>6 147</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">13</td>
+<td colspan="3">Взносы в уставный фонд коммунальных государственных предприятий</td>
+<td>140 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">14</td>
+<td colspan="3">Участие регионов в мероприятиях республиканского значения</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">263</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+<td>39 338</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа образования, культуры, спорта и туризма, финансируемого из местного бюджета</td>
+<td>39 338</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Создание информационных систем органов образования, культуры, спорта, туризма и информационного пространства</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">272</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемый из местного бюджета</td>
+<td>61 038</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемого из местного бюджета</td>
+<td>61 038</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Создание информационных систем органов экономики, поддержки малого и среднего бизнеса, государственных закупок</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Поддержка инновационной деятельности</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Разработка и экспертиза технико-экономических обоснований местных инвестиционных проектов</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">273</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган инфраструктуры и строительства, финансируемый из местного бюджета</td>
+<td>335 384</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа инфраструктуры и строительства, финансируемого из местного бюджета</td>
+<td>9 064</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Развитие объектов коммунальной собственности</td>
+<td>326 320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Создание информационных систем органов инфраструктуры и строительства</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">274</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+<td>15 004</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Обеспечение деятельности исполнительного органа жилищно-коммунального, дорожного хозяйства и транспорта, финансируемого из местного бюджета</td>
+<td>15 004</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="3">Создание информационных систем органов жилищно-коммунального, дорожного хозяйства и транспорта</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Обслуживание долга</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Обслуживание долга</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">260</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган финансов, финансируемый из местного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">8</td>
+<td colspan="3">Обслуживание долга местных исполнительных органов</td>
+<td>0</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Официальные трансферты</td>
+<td>6 449 239</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Официальные трансферты</td>
+<td>6 449 239</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">260</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган финансов, финансируемый из местного бюджета</td>
+<td>6 449 239</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">3</td>
+<td colspan="3">Трансферты из местных бюджетов</td>
+<td>205 071</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">4</td>
+<td colspan="3">Бюджетные изъятия</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Субвенции</td>
+<td>6 244 168</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">V. КРЕДИТЫ</td>
+<td>334 815</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Сельское хозяйство</td>
+<td>52 415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Сельское хозяйство</td>
+<td>52 415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">257</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+<td>52 415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3">Кредитование сельхозтоваропроизводителей</td>
+<td>52 415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">10</td>
+<td colspan="3">Кредитование сельскохозяйственных товаропроизводителей на проведение весенне-полевых и уборочных работ</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие</td>
+<td>282 400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие</td>
+<td>282 400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">105</td>
+<td colspan="3"></td>
+<td colspan="3">Аппарат акима</td>
+<td>120 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">15</td>
+<td colspan="3">Специальный резерв местного исполнительного органа области для кредитования нижестоящих бюджетов на покрытие кассового разрыва</td>
+<td>120 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">272</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемый из местного бюджета</td>
+<td>162 400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3">Кредитование для развития малого предпринимательства на местном уровне</td>
+<td>80 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Кредитование для поддержки и развития отраслей экономики</td>
+<td>82 400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">VI. ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
+<td>492 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">VII. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
+<td>-492 000</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="3">Общее финансирование</td>
+<td>8 000</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">1</td>
+<td colspan="2">6</td>
+<td colspan="3">0</td>
+<td colspan="3">Прочее внутренее финансирование</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">1</td>
+<td colspan="2">6</td>
+<td colspan="3">1</td>
+<td colspan="3">Кредиты из республиканского бюджета</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">3</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="3">Прочее финансирование</td>
+<td>8 000</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">3</td>
+<td colspan="2">1</td>
+<td colspan="3">0</td>
+<td colspan="3">Поступления от приватизации объектов государственной собственности</td>
+<td>8 000</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">3</td>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">Поступления от приватизации объектов коммунальной собственности</td>
+<td>8 000</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Финансирование</td>
+<td>-500 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Погашение основного долга</td>
+<td>-500 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">260</td>
+<td colspan="3"></td>
+<td colspan="3">Исполнительный орган финансов, финансируемый из местного бюджета</td>
+<td>-500 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">6</td>
+<td colspan="3">Погашение долга местного исполнительного органа</td>
+<td>-500 000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Остатки бюджетных средств, направляемых на финансирование дефицита бюджета</td>
+<td></td>
+</tr>
+</table>
+
+> *Приложение N 2*  
+> *к решению областного маслихата*  
+> *N 4-2 от 13 января 2004 года*
+
+## Объемы поступлений в областной бюджет на 2004 год от акционерных обществ
+
+<table>
+<tr>
+<td>Наименование платежей</td>
+<td>Сумма, тыс. тенге</td>
+</tr>
+<tr>
+<td>Поступление дивидентов на пакеты акций, являющихся коммунальной собственностью</td>
+<td>4 599</td>
+</tr>
+</table>
+
+> *Приложение N 3*  
+> *к решению областного маслихата*  
+> *N 4-2 от 13 января 2004 года*
+
+## Расходы местных бюджетов на реализацию Закона Республики Казахстан от 11 июля 2002 года "О социальной и медико-педагогической коррекционной поддержке детей с ограниченными возможностями"
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>Наименование</td>
+<td>Сумма</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Акжаикский</td>
+<td>687</td>
+</tr>
+<tr>
+<td>Бокейординский</td>
+<td>1 236</td>
+</tr>
+<tr>
+<td>Бурлинский</td>
+<td>3 830</td>
+</tr>
+<tr>
+<td>Жангалинский</td>
+<td>412</td>
+</tr>
+<tr>
+<td>Жанибекский</td>
+<td>275</td>
+</tr>
+<tr>
+<td>Зеленовский</td>
+<td>549</td>
+</tr>
+<tr>
+<td>Казталовский</td>
+<td>687</td>
+</tr>
+<tr>
+<td>Каратобинский</td>
+<td>549</td>
+</tr>
+<tr>
+<td>Сырымский</td>
+<td>686</td>
+</tr>
+<tr>
+<td>Таскалинский</td>
+<td>412</td>
+</tr>
+<tr>
+<td>Теректинский</td>
+<td>687</td>
+</tr>
+<tr>
+<td>Чингирлауский</td>
+<td>412</td>
+</tr>
+<tr>
+<td>г. Уральск</td>
+<td>11 256</td>
+</tr>
+<tr>
+<td>Всего</td>
+<td>21 678</td>
+</tr>
+</table>
+
+> *Приложение N 4*  
+> *к решению областного маслихата*  
+> *N 4-2 от 13 января 2004 года*
+
+## Расходы местных бюджетов на оказание гарантированного объема бесплатной медицинской помощи в 2004 году
+
+> *тыс. тенге*
+
+<table>
+<tr>
+<td>Наименование</td>
+<td>Всего</td>
+<td>в том числе дополнительные затраты</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>Акжаикский</td>
+<td>185 453</td>
+<td>42 904</td>
+</tr>
+<tr>
+<td>Бокейординский</td>
+<td>103 400</td>
+<td>18 404</td>
+</tr>
+<tr>
+<td>Бурлинский</td>
+<td>218 688</td>
+<td>48 161</td>
+</tr>
+<tr>
+<td>Жангалинский</td>
+<td>94 168</td>
+<td>16 587</td>
+</tr>
+<tr>
+<td>Жанибекский</td>
+<td>101 953</td>
+<td>20 347</td>
+</tr>
+<tr>
+<td>Зеленовский</td>
+<td>203 305</td>
+<td>39 166</td>
+</tr>
+<tr>
+<td>Казталовский</td>
+<td>165 961</td>
+<td>43 516</td>
+</tr>
+<tr>
+<td>Каратобинский</td>
+<td>92 951</td>
+<td>21 980</td>
+</tr>
+<tr>
+<td>Сырымский</td>
+<td>121 561</td>
+<td>29 688</td>
+</tr>
+<tr>
+<td>Таскалинский</td>
+<td>88 720</td>
+<td>21 722</td>
+</tr>
+<tr>
+<td>Теректинский</td>
+<td>172 911</td>
+<td>30 839</td>
+</tr>
+<tr>
+<td>Чингирлауский</td>
+<td>99 393</td>
+<td>23 816</td>
+</tr>
+<tr>
+<td>Собственно-областной</td>
+<td>2 712 965</td>
+<td>350 208</td>
+</tr>
+<tr>
+<td>Всего</td>
+<td>4 361 429</td>
+<td>707 338</td>
+</tr>
+</table>
+
+> *Приложение N 5*  
+> *к решению областного маслихата*  
+> *N 4-2 от 13 января 2004 года*
+
+## Перечень текущих бюджетных программ областного бюджета на 2004 год
+
+<table>
+<tr>
+<td>Функциональная группа</td>
+<td>Подфункция</td>
+<td>Администратор бюджетных программ</td>
+<td>Программа</td>
+<td>Наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>РАСХОДЫ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>IV. ЗАТРАТЫ</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>103</td>
+<td></td>
+<td>Аппарат маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности маслихата</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>105</td>
+<td></td>
+<td>Аппарат акима</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности акима</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Финансовая деятельность</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>259</td>
+<td></td>
+<td>Исполнительный орган коммунальной собственности, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа коммунальной собственности, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Организация приватизации коммунальной собственности</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td>Исполнительный орган финансов, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа финансов, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>Обеспечение оценки имущества для налогообложения</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Оборона</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Военные нужды</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>105</td>
+<td></td>
+<td>Аппарат акима</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Мероприятия по приписке и призыву на военную службу</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Организация работы по чрезвычайным ситуациям</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>105</td>
+<td></td>
+<td>Аппарат акима</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Мероприятия по мобилизационной подготовке на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Ликвидация чрезвычайных ситуаций на местном уровне</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Общественный порядок и безопасность</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Правоохранительная деятельность</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>251</td>
+<td></td>
+<td>Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа внутренних дел, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Охрана общественного порядка и обеспечение общественной безопасности на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Поощрение граждан, участвующих в охране общественного порядка</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Образование</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Дошкольное воспитание и обучение</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Детское дошкольное воспитание и обучение на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Начальное общее, основное общее, среднее общее образование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Общеобразовательное обучение на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Информатизация системы среднего образования на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Приобретение и доставка учебников для обновления библиотечных фондов государственных учреждений среднего образования</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Дополнительное образование для детей и юношества на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>Проведение школьных олимпиад на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Начальное профессиональное образование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>Начальное профессиональное образование на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Дополнительное профессиональное образование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>251</td>
+<td></td>
+<td>Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td>Повышение квалификации и переподготовка кадров органов внутренних дел</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Повышение квалификации и переподготовка кадров государственных учреждений</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>13</td>
+<td>Повышение квалификации и переподготовка кадров государственных учреждений</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области образования</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Оказание психолого-медико- педагогической консультативной помощи населению по обследованию психического здоровья детей и подростков</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td>Реабилитация и социальная адаптация детей и подростков с проблемами в развитии</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Здравоохранение</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Больницы широкого профиля</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Оказание стационарной медицинской помощи по направлению специалистов первичной медико-санитарной помощи и организаций здравоохранения</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Охрана здоровья населения</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Производство крови (заменителей) на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Охрана материнства и детства</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td>Пропаганда здорового образа жизни на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>17</td>
+<td>Реабилитация детей на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>278</td>
+<td></td>
+<td>Исполнительный орган санитарно- эпидемиологического надзора, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа санитарно- эпидемиологического надзора, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Обеспечение санитарно-эпидемиологического благополучия</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Борьба с эпидемиями на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Специализированная медицинская помощь</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Оказание медицинской помощи лицам, страдающим социально-значимыми заболеваниями и заболеваниями, представляющими опасность для окружающих</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Поликлиники</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>251</td>
+<td></td>
+<td>Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Оказание медицинской помощи сотрудникам органов внутренних дел, членам их семей в амбулаторно-поликлинических организациях</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>Оказание первичной медико-санитарной помощи населению</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Другие виды медицинской помощи</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>251</td>
+<td></td>
+<td>Исполнительный орган внутренних дел, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>Оказание стационарной медицинской помощи сотрудникам органов внутренних дел, членам их семей</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>Оказание скорой и неотложной помощи</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td>Оказание медицинской помощи населению в чрезвычайных ситуациях</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области здравоохранения</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td>Исполнительный орган здравоохранения, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа здравоохранения, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Обеспечение специализированными продуктами детского и лечебного питания отдельных категорий граждан</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td>Проведение патологоанатомического вскрытия</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>16</td>
+<td>Обеспечение лекарственными средствами населения по видам заболеваний на местном уровне</td>
+</tr>
+<tr>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Социальное обеспечение и социальная помощь</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Социальное обеспечение</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>258</td>
+<td></td>
+<td>Исполнительный орган труда и социальной защиты населения,финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Специальные государственные пособия</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>Социальное обеспечение престарелых и инвалидов общего типа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>18</td>
+<td>Социальное обеспечение детей</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Социальная помощь</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>258</td>
+<td></td>
+<td>Исполнительный орган труда и социальной защиты населения,финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>Программа занятости</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>Оказание ритуальных услуг по захоронению умерших Героев Советского Союза, &quot;Халык кахарманы&quot;, Героев Социалистического труда, награжденных Орденом Славы трех степеней и орденом &quot;Отан&quot; из числа участников и инвалидов войны</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td>Оказание социальной помощи специалистам здравоохранения, образования, социального обеспечения, культуры, проживающим в сельской местности, по приобретению топлива</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>13</td>
+<td>Государственная адресная социальная помощь</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Жилищная помощь</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td>Социальные выплаты отдельным категориям граждан по решению местных представительных органов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>16</td>
+<td>Социальная поддержка инвалидов на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>19</td>
+<td>Социальная поддержка обучающихся и воспитанников организаций образования очной формы обучения</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области социальной помощи и социального обеспечения</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>258</td>
+<td></td>
+<td>Исполнительный орган труда и социальной защиты населения,финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа труда и социальной защиты населения, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Водоснабжение</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Функционирование системы водоснабжения и водоотведения</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>18</td>
+<td>Обеспечение санитарного состояния населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>19</td>
+<td>Содержание мест захоронений и захоронение безродных</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+<td>Проведение работ по благоустройству населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>21</td>
+<td>Проведение работ по озеленению населенных пунктов</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Культура, спорт, туризм и информационное пространство</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Деятельность в области культуры</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+<td>Обеспечение культурного досуга населения на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>21</td>
+<td>Увековечение памяти деятелей государства на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>22</td>
+<td>Хранение историко-культурных ценностей на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>23</td>
+<td>Сохранение исторического и культурного наследия, содействие развитию исторических, национальных и культурных традиций и обычаев населения</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Спорт и туризм</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+<td>Проведение спортивных мероприятий на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>27</td>
+<td>Мероприятия по туристской деятельности на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Информационное пространство</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>261</td>
+<td></td>
+<td>Исполнительный орган управления архивами, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа управления архивами, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Обеспечение сохранности архивного фонда, печатных изданий и их специальное использование на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>29</td>
+<td>Обеспечение общедоступности информации на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>264</td>
+<td></td>
+<td>Исполнительный орган анализа общественных отношений и внутренней политики, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Проведение государственной информационной политики на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Развитие государственного и других языков</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Участие в проведении государственной политики по обеспечению внутриполитической стабильности</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги по организации культуры, спорта и информационного пространства</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>264</td>
+<td></td>
+<td>Исполнительный орган анализа общественных отношений и внутренней политики, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа анализа общественных отношений и внутренней политики, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Проведение региональной молодежной политики</td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Сельское, водное, лесное, рыбное хозяйство и охрана окружающей среды</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Сельское хозяйство</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>105</td>
+<td></td>
+<td>Аппарат акима</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td>Землеустройство</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Зонирование земель</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>257</td>
+<td></td>
+<td>Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Оказание содействия ветеринарным мероприятиям на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Выполнение работ по борьбе с вредителями и болезнями растений</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Поддержка семенных репродукторов в растениеводстве</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Поддержка племенного животноводства на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Лесное хозяйство</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>257</td>
+<td></td>
+<td>Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>13</td>
+<td>Охрана лесов и животного мира</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Воспроизводство лесов и лесоразведение</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Охрана окружающей среды</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>256</td>
+<td></td>
+<td>Исполнительный орган по природопользованию и охране окружающей среды финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа по природопользованию и охране окружающей среды, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Проведение мероприятий по охране окружающей среды на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства и охраны окружающей среды</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>257</td>
+<td></td>
+<td>Исполнительный орган сельского хозяйства, по охране лесов и животного мира, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа сельского хозяйства, по охране лесов и животного мира, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Промышленность и строительство</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Строительство</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>273</td>
+<td></td>
+<td>Исполнительный орган инфраструктуры и строительства, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>Разработка генеральных планов застройки населенных пунктов</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Транспорт и связь</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Автомобильный транспорт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>24</td>
+<td>
+Организация межрайонного
+(межгородского) пассажирского транспортного сообщения
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+<td>Обеспечение функционирования автомобильных дорог местного значения, улиц городов и иных населенных пунктов</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Воздушный транспорт</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>27</td>
+<td>Субсидирование регулярных внутренних авиаперевозок по решению местных исполнительных органов</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Поддержка предпринимательской деятельности и защита конкуренции</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>272</td>
+<td></td>
+<td>Исполнительный орган экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Организация поддержки малого предпринимательства на местном уровне</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>105</td>
+<td></td>
+<td>Аппарат акима</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>Резерв местного исполнительного органа по выполнению обязательств местных исполнительных органов по решениям судов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>Резерв местного исполнительного органа для ликвидации чрезвычайных ситуаций природного и техногенного характера и иных непредвиденных расходов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td>Представительские затраты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>13</td>
+<td>Взносы в уставный фонд коммунальных государственных предприятий</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td>Участие регионов в мероприятиях республиканского значения</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>15</td>
+<td>Специальный резерв местного исполнительного органа области для кредитования нижестоящих бюджетов на покрытие кассового разрыва</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>263</td>
+<td></td>
+<td>Исполнительный орган образования, культуры, спорта и туризма, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа образования, культуры, спорта и туризма, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>272</td>
+<td></td>
+<td>Исполнительный орган экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа экономики, поддержки малого и среднего бизнеса, государственных закупок, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Поддержка инновационной деятельности</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Разработка и экспертиза технико-экономических обоснований местных инвестиционных проектов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>273</td>
+<td></td>
+<td>Исполнительный орган инфраструктуры и строительства, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа инфраструктуры и строительства, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Исполнительный орган жилищно-коммунального, дорожного хозяйства и транспорта, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Обеспечение деятельности исполнительного органа жилищно-коммунального, дорожного хозяйства и транспорта, финансируемого из местного бюджета</td>
+</tr>
+<tr>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Обслуживание долга</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Обслуживание долга</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td>Исполнительный орган финансов, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>8</td>
+<td>Обслуживание долга местных исполнительных органов</td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Официальные трансферты</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Официальные трансферты</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td>Исполнительный орган финансов, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из местных бюджетов</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Бюджетные изъятия</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>Субвенции</td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Финансирование</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Погашение основного долга</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>260</td>
+<td></td>
+<td>Исполнительный орган финансов, финансируемый из местного бюджета</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>Погашение долга местного исполнительного органа</td>
+</tr>
+</table>
