@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
+source: https://zan.gov.kz/client/#!/doc/49573/kaz/15.04.2010
 ---
 
 ## 2012 жылдың аудандық бюджеті
@@ -962,7 +962,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>08</td>
-<td>Елді -мекендерде көшелерді жарықтандыру</td>
+<td>Елді-мекендерде көшелерді жарықтандыру</td>
 <td>11828</td>
 </tr>
 <tr>
@@ -1847,14 +1847,14 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 
 5 қосымша
 
-> *Ескерту. 5 қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихаттың 2010.02.24 N 19-2 Шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихаттың 2010.04.15 N 20-1 Шешімімен.*
 
 ## 2010-2012 жылға арналған аудандық бюджеттен қаржыландырылатын ауылдық (селолық) округ әкімі аппаратының бағдарламалары
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сумма</td>
+<td rowspan="5">Сомасы</td>
 </tr>
 <tr>
 <td></td>
@@ -1863,7 +1863,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="3">Бюджеттік бағдарлама әкімшісі</td>
 </tr>
 <tr>
 <td></td>
@@ -1892,7 +1892,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>90060</td>
+<td>92 484</td>
 </tr>
 <tr>
 <td></td>
@@ -1900,7 +1900,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>90060</td>
+<td>92 484</td>
 </tr>
 <tr>
 <td></td>
@@ -1908,7 +1908,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>ӨКІЛДІ, АТҚАРУШЫ ЖӘНЕ БАСҚА ОРГАНДАР</td>
-<td>90060</td>
+<td>92 484</td>
 </tr>
 <tr>
 <td></td>
@@ -1916,15 +1916,15 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппаратының жұмыс істеуі</td>
-<td>90060</td>
+<td>92 484</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>001</td>
-<td>Қаладағы аудан,аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округтің әкімі аппаратының қызметін қамтамасыз ету</td>
-<td>89950</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округтің әкімі аппаратының қызметін қамтамасыз ету</td>
+<td>92 374</td>
 </tr>
 <tr>
 <td></td>
@@ -1940,7 +1940,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>6623</td>
+<td>6 781</td>
 </tr>
 <tr>
 <td></td>
@@ -1948,7 +1948,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Алғабас</td>
-<td>6417</td>
+<td>6 582</td>
 </tr>
 <tr>
 <td></td>
@@ -1956,7 +1956,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Бұлан</td>
-<td>6306</td>
+<td>6 438</td>
 </tr>
 <tr>
 <td></td>
@@ -1964,15 +1964,15 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Бұлдырты</td>
-<td>8152</td>
+<td>8 670</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жетікөл</td>
-<td>8252</td>
+<td>Жетіколь</td>
+<td>8 417</td>
 </tr>
 <tr>
 <td></td>
@@ -1980,7 +1980,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жосалы</td>
-<td>6284</td>
+<td>6 439</td>
 </tr>
 <tr>
 <td></td>
@@ -1988,7 +1988,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>14384</td>
+<td>14 641</td>
 </tr>
 <tr>
 <td></td>
@@ -1996,7 +1996,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Елтай</td>
-<td>5879</td>
+<td>6 014</td>
 </tr>
 <tr>
 <td></td>
@@ -2004,7 +2004,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Кособа</td>
-<td>6528</td>
+<td>6 696</td>
 </tr>
 <tr>
 <td></td>
@@ -2012,7 +2012,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Сарой</td>
-<td>6487</td>
+<td>6 652</td>
 </tr>
 <tr>
 <td></td>
@@ -2020,7 +2020,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Талдыбұлак</td>
-<td>6378</td>
+<td>6 543</td>
 </tr>
 <tr>
 <td></td>
@@ -2028,7 +2028,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Шолақ анқаты</td>
-<td>8260</td>
+<td>8 501</td>
 </tr>
 <tr>
 <td></td>
@@ -2123,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Жетікөл</td>
+<td>Жетіколь</td>
 <td>35</td>
 </tr>
 <tr>
@@ -2180,7 +2180,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>9349</td>
+<td>9 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2188,7 +2188,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамсыздандыру</td>
-<td>9349</td>
+<td>9 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2196,7 +2196,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппаратының жұмыс істеуі</td>
-<td>9349</td>
+<td>9 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2204,7 +2204,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td>03</td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>9349</td>
+<td>9 847</td>
 </tr>
 <tr>
 <td></td>
@@ -2220,7 +2220,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>983</td>
+<td>1 034</td>
 </tr>
 <tr>
 <td></td>
@@ -2228,7 +2228,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Алғабас</td>
-<td>684</td>
+<td>719</td>
 </tr>
 <tr>
 <td></td>
@@ -2236,7 +2236,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Бұлан</td>
-<td>775</td>
+<td>815</td>
 </tr>
 <tr>
 <td></td>
@@ -2244,15 +2244,15 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Бұлдырты</td>
-<td>1193</td>
+<td>1 260</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Жетікөл</td>
-<td>487</td>
+<td>Жетіколь</td>
+<td>513</td>
 </tr>
 <tr>
 <td></td>
@@ -2260,7 +2260,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жосалы</td>
-<td>670</td>
+<td>704</td>
 </tr>
 <tr>
 <td></td>
@@ -2268,7 +2268,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>3124</td>
+<td>3 284</td>
 </tr>
 <tr>
 <td></td>
@@ -2276,7 +2276,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Елтай</td>
-<td>717</td>
+<td>753</td>
 </tr>
 <tr>
 <td></td>
@@ -2284,7 +2284,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Кособа</td>
-<td>236</td>
+<td>261</td>
 </tr>
 <tr>
 <td></td>
@@ -2292,7 +2292,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Талдыбұлак</td>
-<td>364</td>
+<td>382</td>
 </tr>
 <tr>
 <td></td>
@@ -2300,7 +2300,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Шолақ анқаты</td>
-<td>116</td>
+<td>122</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2308,15 +2308,15 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>26087</td>
+<td>26 204</td>
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>02</td>
 <td></td>
 <td></td>
-<td>Елдi-мекендердi көркейту</td>
-<td>26087</td>
+<td>Коммуналдық шаруашылық</td>
+<td>117</td>
 </tr>
 <tr>
 <td></td>
@@ -2324,7 +2324,31 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппаратының жұмыс істеуі</td>
-<td>26087</td>
+<td>117</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>014</td>
+<td>Елді-мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>117</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td></td>
+<td></td>
+<td>Елдi-мекендердi көркейту</td>
+<td>26 087</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімі аппаратының жұмыс істеуі</td>
+<td>26 087</td>
 </tr>
 <tr>
 <td></td>
@@ -2332,7 +2356,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td>08</td>
 <td>Елді-мекендерде көшелерді жарықтандыру</td>
-<td>13083</td>
+<td>13 083</td>
 </tr>
 <tr>
 <td></td>
@@ -2379,7 +2403,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td></td>
-<td>Жетікөл</td>
+<td>Жетіколь</td>
 <td>25</td>
 </tr>
 <tr>
@@ -2396,7 +2420,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>12678</td>
+<td>12 678</td>
 </tr>
 <tr>
 <td></td>
@@ -2460,7 +2484,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td>11</td>
 <td>Елді-мекендердi абаттандыру мен көгалдандыру</td>
-<td>12904</td>
+<td>12 904</td>
 </tr>
 <tr>
 <td></td>
@@ -2492,7 +2516,7 @@ source: https://zan.gov.kz/client/#!/doc/49573/kaz/24.02.2010
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>11804</td>
+<td>11 804</td>
 </tr>
 <tr>
 <td></td>
