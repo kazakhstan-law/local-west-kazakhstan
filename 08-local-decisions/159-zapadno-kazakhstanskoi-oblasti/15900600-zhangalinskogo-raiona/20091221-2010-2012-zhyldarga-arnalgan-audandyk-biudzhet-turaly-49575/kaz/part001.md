@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
+source: https://zan.gov.kz/client/#!/doc/49575/kaz/14.05.2010
 ---
 
 ## 2010 жылға арналған аудандық бюджет
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>2 050 308</td>
+<td>2 101 988</td>
 </tr>
 <tr>
 <td>1</td>
@@ -224,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>IV. Трансферттердің түсімдері</td>
-<td>1 641 571</td>
+<td>1 693 251</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1 641 571</td>
+<td>1 693 251</td>
 </tr>
 <tr>
 <td></td>
@@ -240,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>2</td>
 <td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>1 641 571</td>
+<td>1 693 251</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>01</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>329 776</td>
+<td>379 776</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>02</td>
 <td>Нысаналы даму трансферттер</td>
-<td>211 150</td>
+<td>212 830</td>
 </tr>
 <tr>
 <td></td>
@@ -333,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>ІІ. Шығындар</td>
-<td>2 066 919</td>
+<td>2 118 599</td>
 </tr>
 <tr>
 <td>01</td>
@@ -549,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 194 419</td>
+<td>1 244 419</td>
 </tr>
 <tr>
 <td></td>
@@ -581,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 058 612</td>
+<td>1 108 612</td>
 </tr>
 <tr>
 <td></td>
@@ -589,7 +589,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>1 058 612</td>
+<td>1 108 612</td>
 </tr>
 <tr>
 <td></td>
@@ -597,7 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>1 008 935</td>
+<td>1 058 935</td>
 </tr>
 <tr>
 <td></td>
@@ -853,7 +853,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>221 570</td>
+<td>223250</td>
 </tr>
 <tr>
 <td></td>
@@ -909,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>186 550</td>
+<td>188 230</td>
 </tr>
 <tr>
 <td></td>
@@ -933,7 +933,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>176 246</td>
+<td>177 926</td>
 </tr>
 <tr>
 <td></td>
@@ -941,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
-<td>176 246</td>
+<td>177 926</td>
 </tr>
 <tr>
 <td></td>
@@ -1197,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>86 371</td>
+<td>85 237</td>
 </tr>
 <tr>
 <td></td>
@@ -1205,7 +1205,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>49 968</td>
+<td>49 034</td>
 </tr>
 <tr>
 <td></td>
@@ -1285,7 +1285,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>21 000</td>
+<td>20 066</td>
 </tr>
 <tr>
 <td></td>
@@ -1293,7 +1293,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>010</td>
 <td>Ауыл шаруашылығы объектілерін дамыту</td>
-<td>21 000</td>
+<td>20 066</td>
 </tr>
 <tr>
 <td></td>
@@ -1301,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Жер қатынастары</td>
-<td>5 525</td>
+<td>5 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1309,7 +1309,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>463</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td>5 525</td>
+<td>5 325</td>
 </tr>
 <tr>
 <td></td>
@@ -1333,7 +1333,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>003</td>
 <td>Елді мекендерді жер-шаруашылық орналастыру</td>
-<td>200</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1413,7 +1413,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>9 014</td>
+<td>9 668</td>
 </tr>
 <tr>
 <td></td>
@@ -1421,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>9 014</td>
+<td>9 668</td>
 </tr>
 <tr>
 <td></td>
@@ -1429,7 +1429,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>4 902</td>
+<td>5 556</td>
 </tr>
 <tr>
 <td></td>
@@ -1437,7 +1437,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде құрылыс саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>4 902</td>
+<td>5 556</td>
 </tr>
 <tr>
 <td></td>
@@ -1485,7 +1485,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>3 799</td>
+<td>2 383</td>
 </tr>
 <tr>
 <td></td>
@@ -1493,7 +1493,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>3 799</td>
+<td>2 383</td>
 </tr>
 <tr>
 <td></td>
@@ -1501,7 +1501,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан,аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>3 799</td>
+<td>2 383</td>
 </tr>
 <tr>
 <td></td>
@@ -1509,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>013</td>
 <td>Ауылдық маңызы бар қалаларда, кенттерде, ауылдарда (селоларда), ауылдық (селолық) округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>3 799</td>
+<td>2 383</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1517,7 +1517,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>21 519</td>
+<td>23 415</td>
 </tr>
 <tr>
 <td></td>
@@ -1565,7 +1565,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>17 862</td>
+<td>19 758</td>
 </tr>
 <tr>
 <td></td>
@@ -1573,7 +1573,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың)қаржы бөлімі</td>
-<td>11 030</td>
+<td>12 926</td>
 </tr>
 <tr>
 <td></td>
@@ -1581,7 +1581,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>012</td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>3 430</td>
+<td>2 626</td>
 </tr>
 <tr>
 <td></td>
@@ -1589,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/49575/kaz/15.04.2010
 <td></td>
 <td>014</td>
 <td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>7 600</td>
+<td>10 300</td>
 </tr>
 <tr>
 <td></td>
