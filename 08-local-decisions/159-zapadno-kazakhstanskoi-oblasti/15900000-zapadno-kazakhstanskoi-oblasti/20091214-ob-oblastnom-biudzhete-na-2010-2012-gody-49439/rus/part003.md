@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
+source: https://zan.gov.kz/client/#!/doc/49439/rus/30.07.2010
 ---
 
 ## Областной бюджет на 2012 год
@@ -9,8 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
-<td>Сумма</td>
+<th colspan="6">Категория</th>
+<th rowspan="5">Сумма</th>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -28,11 +28,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <th colspan="2">Специфика</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Наименование</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -299,8 +299,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <td></td>
 </tr>
 <tr>
-<td colspan="6">Функциональная группа</td>
-<td>Сумма</td>
+<th colspan="6">Функциональная группа</th>
+<th rowspan="5">Сумма</th>
 </tr>
 <tr>
 <th></th>
@@ -318,11 +318,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <th colspan="2">Программа</th>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th>Наименование</th>
 </tr>
 <tr>
 <td></td>
@@ -3373,8 +3373,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <td>0</td>
 </tr>
 <tr>
-<td colspan="6">Категория</td>
-<td>Сумма</td>
+<th colspan="6">Категория</th>
+<th rowspan="4">Сумма</th>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -3386,10 +3386,10 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <th colspan="3">Подкласс</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td>Наименование</td>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th>Наименование</th>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -3424,8 +3424,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <td>-2 700</td>
 </tr>
 <tr>
-<td colspan="6">Функциональная группа</td>
-<td>Сумма</td>
+<th colspan="6">Функциональная группа</th>
+<th rowspan="5">Сумма</th>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -3443,11 +3443,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <th colspan="2">Программа</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Наименование</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3490,8 +3490,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <td>0</td>
 </tr>
 <tr>
-<td colspan="6">Категория</td>
-<td>Сумма</td>
+<th colspan="6">Категория</th>
+<th rowspan="4">Сумма</th>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -3503,10 +3503,10 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 <th colspan="3">Подкласс</th>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td>Наименование</td>
+<th colspan="2"></th>
+<th></th>
+<th colspan="2"></th>
+<th>Наименование</th>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -3552,7 +3552,7 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 
 > *Приложение 4*  
 > *к решению маслихата*  
-> *от 14 декабря 2009 года № 16-1*
+> *от 14 декабря 2009 года N 16-1*
 
 ## Перечень бюджетных программ не подлежащих секвестрированию в процессе исполнения областного бюджета на 2010 год
 
@@ -3719,7 +3719,7 @@ source: https://zan.gov.kz/client/#!/doc/49439/rus/14.06.2010
 
 > *Приложение 5*  
 > *к решению маслихата*  
-> *от 14 декабря 2009 года № 16-1*
+> *от 14 декабря 2009 года N 16-1*
 
 ## Перечень бюджетных программ не подлежащих секвестрированию в процессе исполнения районных (городского) бюджетов на 2010 год
 
