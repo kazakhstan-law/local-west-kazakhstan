@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50094/kaz/20.05.2010
+source: https://zan.gov.kz/client/#!/doc/50094/kaz/05.08.2010
 ---
 
 ## 2012 жылға арналған аудандық бюджет
