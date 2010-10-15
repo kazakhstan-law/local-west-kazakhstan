@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
+source: https://zan.gov.kz/client/#!/doc/49439/kaz/15.10.2010
 ---
 
 ## 2012 жылға арналған облыстық бюджет
@@ -9,8 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 
 <table>
 <tr>
-<th colspan="6">Санаты</th>
-<th rowspan="5">Сома</th>
+<td colspan="6">Санаты</td>
+<td>Сома</td>
 </tr>
 <tr>
 <th></th>
@@ -28,11 +28,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <th colspan="2">Ерекшелiгi</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2"></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -299,8 +299,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <td></td>
 </tr>
 <tr>
-<th colspan="6">Функционалдық топ</th>
-<th rowspan="5">Сома</th>
+<td colspan="6">Функционалдық топ</td>
+<td>Сома</td>
 </tr>
 <tr>
 <th></th>
@@ -318,11 +318,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
-<th></th>
-<th colspan="2"></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3373,8 +3373,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <td>0</td>
 </tr>
 <tr>
-<th colspan="6">Санаты</th>
-<th rowspan="4">Сома</th>
+<td colspan="6">Санаты</td>
+<td>Сома</td>
 </tr>
 <tr>
 <th></th>
@@ -3424,8 +3424,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <td>-2 700</td>
 </tr>
 <tr>
-<th colspan="6">Функционалдық топ</th>
-<th rowspan="5">Сома</th>
+<td colspan="6">Функционалдық топ</td>
+<td>Сома</td>
 </tr>
 <tr>
 <th></th>
@@ -3443,11 +3443,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="2"></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3490,8 +3490,8 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <td>0</td>
 </tr>
 <tr>
-<th colspan="6">Санаты</th>
-<th rowspan="4">Сома</th>
+<td colspan="6">Санаты</td>
+<td>Сома</td>
 </tr>
 <tr>
 <th></th>
@@ -3503,10 +3503,10 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <th colspan="4">Iшкi сыныбы</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="3"></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>06</td>
@@ -3552,7 +3552,7 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 
 > *Мәслихаттың*  
 > *2009 жылғы 14 желтоқсандағы*  
-> *N 16-1 шешіміне 4 қосымша*
+> *№ 16-1 шешіміне 4 қосымша*
 
 ## 2010 жылға арналған облыстық бюджеттің орындау процесінде секвестрлендіруге жатпайтын бюджеттік бағдарламалар тізбесі
 
@@ -3712,7 +3712,7 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 
 > *Мәслихаттың*  
 > *2009 жылғы 14 желтоқсандағы*  
-> *N 16-1 шешіміне 5 қосымша*
+> *№ 16-1 шешіміне 5 қосымша*
 
 ## 2010 жылға арналған аудандық (қалалық) бюджеттердің орындау процесінде секвестрлендіруге жатпайтын бюджеттік бағдарламалар тізбесі
 
@@ -3736,11 +3736,11 @@ source: https://zan.gov.kz/client/#!/doc/49439/kaz/30.07.2010
 <th colspan="2">Бағдарлама</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атауы</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>04</td>
