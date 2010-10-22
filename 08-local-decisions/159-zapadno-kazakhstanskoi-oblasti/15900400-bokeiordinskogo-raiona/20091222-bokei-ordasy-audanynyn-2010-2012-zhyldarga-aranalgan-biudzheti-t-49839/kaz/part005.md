@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49839/kaz/09.08.2010
+source: https://zan.gov.kz/client/#!/doc/49839/kaz/22.10.2010
 ---
 
 ## Ауылдық округтердің бюджеттік бағдарламалары
