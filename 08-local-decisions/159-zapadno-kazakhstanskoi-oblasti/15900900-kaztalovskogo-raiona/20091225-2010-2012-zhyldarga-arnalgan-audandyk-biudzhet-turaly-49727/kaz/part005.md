@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
+source: https://zan.gov.kz/client/#!/doc/49727/kaz/25.10.2010
 ---
 
 ## 2010-2012 жылдарға арналған аудандық бюджеттің орындалу барысында секвестірлеуге жатпайтын бюджеттік бағдарламалар тізбесі
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>138843</td>
+<td>141915</td>
 </tr>
 <tr>
 <td></td>
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>138843</td>
+<td>141915</td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>138843</td>
+<td>141915</td>
 </tr>
 <tr>
 <td></td>
@@ -71,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>001</td>
 <td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің әкімі аппаратының қызметін қамтамасыз ету</td>
-<td>138603</td>
+<td>141466</td>
 </tr>
 <tr>
 <td></td>
@@ -87,7 +87,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>11528</td>
+<td>11727</td>
 </tr>
 <tr>
 <td></td>
@@ -103,7 +103,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бостандық ауылдық округі</td>
-<td>8392</td>
+<td>8648</td>
 </tr>
 <tr>
 <td></td>
@@ -111,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>9053</td>
+<td>9289</td>
 </tr>
 <tr>
 <td></td>
@@ -119,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>8266</td>
+<td>8346</td>
 </tr>
 <tr>
 <td></td>
@@ -127,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>8074</td>
+<td>8141</td>
 </tr>
 <tr>
 <td></td>
@@ -135,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>7591</td>
+<td>7684</td>
 </tr>
 <tr>
 <td></td>
@@ -143,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>8452</td>
+<td>8594</td>
 </tr>
 <tr>
 <td></td>
@@ -151,7 +151,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>13086</td>
+<td>13477</td>
 </tr>
 <tr>
 <td></td>
@@ -167,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>7564</td>
+<td>7761</td>
 </tr>
 <tr>
 <td></td>
@@ -175,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>8651</td>
+<td>8751</td>
 </tr>
 <tr>
 <td></td>
@@ -183,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>7360</td>
+<td>7397</td>
 </tr>
 <tr>
 <td></td>
@@ -191,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>8214</td>
+<td>8408</td>
 </tr>
 <tr>
 <td></td>
@@ -199,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>8163</td>
+<td>8228</td>
 </tr>
 <tr>
 <td></td>
@@ -207,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>8289</td>
+<td>9095</td>
 </tr>
 <tr>
 <td></td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>023</td>
 <td>Мемлекеттік органдарды материалдық-техникалық жарақтандыру</td>
-<td>240</td>
+<td>449</td>
 </tr>
 <tr>
 <td></td>
@@ -223,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>соның ішінде:</td>
-<td>240</td>
+<td>449</td>
 </tr>
 <tr>
 <td></td>
@@ -231,7 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>240</td>
+<td>449</td>
 </tr>
 <tr>
 <td>5</td>
@@ -407,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>21848</td>
+<td>21459</td>
 </tr>
 <tr>
 <td></td>
@@ -415,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>21848</td>
+<td>21459</td>
 </tr>
 <tr>
 <td></td>
@@ -423,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>21848</td>
+<td>21459</td>
 </tr>
 <tr>
 <td></td>
@@ -431,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>21848</td>
+<td>21459</td>
 </tr>
 <tr>
 <td></td>
@@ -447,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>5245</td>
+<td>4913</td>
 </tr>
 <tr>
 <td></td>
@@ -527,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>604</td>
+<td>584</td>
 </tr>
 <tr>
 <td></td>
@@ -543,7 +543,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>744</td>
+<td>707</td>
 </tr>
 <tr>
 <td></td>
@@ -575,15 +575,15 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>37300</td>
+<td>41947</td>
 </tr>
 <tr>
 <td></td>
-<td>02</td>
+<td>01</td>
 <td></td>
 <td></td>
-<td>Коммуналдық шаруашылық</td>
-<td>2019</td>
+<td>Тұрғын үй шаруашылығы</td>
+<td>2429</td>
 </tr>
 <tr>
 <td></td>
@@ -591,7 +591,31 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>2019</td>
+<td>2429</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>007</td>
+<td>Аудандық маңызы бар қаланың, кенттің, ауылдың (селоның), ауылдық (селолық) округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдастыру</td>
+<td>2429</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td>1819</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>1819</td>
 </tr>
 <tr>
 <td></td>
@@ -599,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>2019</td>
+<td>1819</td>
 </tr>
 <tr>
 <td></td>
@@ -607,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>соның ішінде:</td>
-<td>2019</td>
+<td>1819</td>
 </tr>
 <tr>
 <td></td>
@@ -631,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>300</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -655,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>35281</td>
+<td>37699</td>
 </tr>
 <tr>
 <td></td>
@@ -663,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>35281</td>
+<td>37699</td>
 </tr>
 <tr>
 <td></td>
@@ -671,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>008</td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>9583</td>
+<td>9557</td>
 </tr>
 <tr>
 <td></td>
@@ -687,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>2698</td>
+<td>3117</td>
 </tr>
 <tr>
 <td></td>
@@ -743,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>400</td>
+<td>210</td>
 </tr>
 <tr>
 <td></td>
@@ -759,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>400</td>
+<td>210</td>
 </tr>
 <tr>
 <td></td>
@@ -799,7 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>400</td>
+<td>335</td>
 </tr>
 <tr>
 <td></td>
@@ -815,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>6988</td>
+<td>10032</td>
 </tr>
 <tr>
 <td></td>
@@ -831,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>626</td>
+<td>707</td>
 </tr>
 <tr>
 <td></td>
@@ -839,7 +863,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>400</td>
+<td>657</td>
 </tr>
 <tr>
 <td></td>
@@ -847,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бостандық ауылдық округі</td>
-<td>400</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -855,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>400</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -879,7 +903,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>400</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -887,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>460</td>
+<td>736</td>
 </tr>
 <tr>
 <td></td>
@@ -903,7 +927,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>700</td>
+<td>900</td>
 </tr>
 <tr>
 <td></td>
@@ -911,7 +935,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>400</td>
+<td>797</td>
 </tr>
 <tr>
 <td></td>
@@ -919,7 +943,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>400</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -927,7 +951,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>400</td>
+<td>776</td>
 </tr>
 <tr>
 <td></td>
@@ -935,7 +959,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>400</td>
+<td>619</td>
 </tr>
 <tr>
 <td></td>
@@ -943,7 +967,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>400</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -951,7 +975,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>400</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -1103,7 +1127,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>18238</td>
+<td>17638</td>
 </tr>
 <tr>
 <td></td>
@@ -1159,7 +1183,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>2400</td>
+<td>1400</td>
 </tr>
 <tr>
 <td></td>
@@ -1183,7 +1207,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>2613</td>
+<td>3013</td>
 </tr>
 <tr>
 <td></td>
@@ -1247,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 > *2009 жылғы 25 желтоқсандағы*  
 > *N 24-2 шешіміне N 6 қосымша*
 
-> *Ескерту. 6 қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихаттың 2010.09.16 N 32-4 Шешімімен.*
+> *Ескерту. 6 қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихаттың 2010.10.25 N 33-1 Шешімімен.*
 
 ## Мектептер бойынша 464003 - "Жалпы білім беру" бағдарламасының бюджет қаражатының бөлінуі
 
@@ -1286,7 +1310,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>1 665 689</td>
+<td>1 667 392</td>
 </tr>
 <tr>
 <td></td>
@@ -1302,7 +1326,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бостандық орта жалпы білім беретін мектебі</td>
-<td>61 919</td>
+<td>63 343</td>
 </tr>
 <tr>
 <td></td>
@@ -1310,7 +1334,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қараөзен мектеп-лицейі</td>
-<td>51 776</td>
+<td>52 840</td>
 </tr>
 <tr>
 <td></td>
@@ -1318,7 +1342,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Молдашев ат. орта жалпы білім беретін мектебі</td>
-<td>65 417</td>
+<td>65 091</td>
 </tr>
 <tr>
 <td></td>
@@ -1326,7 +1350,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Мендалиев ат. орта жалпы білім беретін мектебі</td>
-<td>88 662</td>
+<td>88 564</td>
 </tr>
 <tr>
 <td></td>
@@ -1334,7 +1358,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Казталов орта жалпы білім беретін мектебі</td>
-<td>71 603</td>
+<td>71 815</td>
 </tr>
 <tr>
 <td></td>
@@ -1342,7 +1366,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>А.Оразбаева ат. орта жалпы білім беретін мектебі</td>
-<td>78 460</td>
+<td>78 500</td>
 </tr>
 <tr>
 <td></td>
@@ -1350,7 +1374,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Тереңкөл орта жалпы білім беретін мектебі</td>
-<td>53 756</td>
+<td>53 742</td>
 </tr>
 <tr>
 <td></td>
@@ -1358,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қайынды орта жалпы білім беретін мектебі</td>
-<td>38 511</td>
+<td>38 551</td>
 </tr>
 <tr>
 <td></td>
@@ -1366,7 +1390,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Ақпәтер орта жалпы білім беретін мектебі</td>
-<td>58 190</td>
+<td>58 179</td>
 </tr>
 <tr>
 <td></td>
@@ -1374,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Қарасу орта жалпы білім беретін мектебі</td>
-<td>62 888</td>
+<td>63 143</td>
 </tr>
 <tr>
 <td></td>
@@ -1382,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Талдыапан орта жалпы білім беретін мектебі</td>
-<td>197 525</td>
+<td>197 213</td>
 </tr>
 <tr>
 <td></td>
@@ -1390,7 +1414,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Есетов ат. орта жалпы білім беретін мектебі</td>
-<td>55 469</td>
+<td>55 449</td>
 </tr>
 <tr>
 <td></td>
@@ -1398,7 +1422,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Көктерек жалпы орта білім беретін мектебі</td>
-<td>59 169</td>
+<td>59 254</td>
 </tr>
 <tr>
 <td></td>
@@ -1406,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бірік орта жалпы білім беретін мектебі</td>
-<td>65 483</td>
+<td>65 685</td>
 </tr>
 <tr>
 <td></td>
@@ -1414,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Ғ.Қараш ат. Қараоба гимназиясы</td>
-<td>72 877</td>
+<td>73 068</td>
 </tr>
 <tr>
 <td></td>
@@ -1422,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Бегалиев ат. орта жалпы білім беретін мектебі</td>
-<td>51 354</td>
+<td>51 066</td>
 </tr>
 <tr>
 <td></td>
@@ -1430,7 +1454,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Богатырев орта жалпы білім беретін мектебі</td>
-<td>84 076</td>
+<td>84 187</td>
 </tr>
 <tr>
 <td></td>
@@ -1438,7 +1462,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Мирон орта жалпы білім беретін мектебі</td>
-<td>24 155</td>
+<td>24 699</td>
 </tr>
 <tr>
 <td></td>
@@ -1446,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Жанажол орта білім беретін мектебі</td>
-<td>165 242</td>
+<td>165 002</td>
 </tr>
 <tr>
 <td></td>
@@ -1454,7 +1478,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Құсайнов ат. орта жалпы білім беретін мектебі</td>
-<td>32 391</td>
+<td>32 422</td>
 </tr>
 <tr>
 <td></td>
@@ -1462,6 +1486,6 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/16.09.2010
 <td></td>
 <td></td>
 <td>Білім беру бөлімі (метод.кабинет, бухгалтерия және 6 мектеп)</td>
-<td>226 766</td>
+<td>225 529</td>
 </tr>
 </table>
