@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49667/rus/10.08.2010
+source: https://zan.gov.kz/client/#!/doc/49667/rus/05.11.2010
 ---
 
 ## Бюджет города Уральска на 2012 год
