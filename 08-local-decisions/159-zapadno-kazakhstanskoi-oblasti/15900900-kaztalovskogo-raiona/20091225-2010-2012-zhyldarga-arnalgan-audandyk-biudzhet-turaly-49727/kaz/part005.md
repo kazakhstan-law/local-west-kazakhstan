@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
+source: https://zan.gov.kz/client/#!/doc/49727/kaz/10.12.2010
 ---
 
 ## 2010-2012 жылдарға арналған аудандық бюджеттің орындалу барысында секвестірлеуге жатпайтын бюджеттік бағдарламалар тізбесі
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>142226</td>
+<td>141550</td>
 </tr>
 <tr>
 <td></td>
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>142226</td>
+<td>141550</td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>142226</td>
+<td>141550</td>
 </tr>
 <tr>
 <td></td>
@@ -71,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td>001</td>
 <td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің әкімі аппаратының қызметін қамтамасыз ету</td>
-<td>141777</td>
+<td>141101</td>
 </tr>
 <tr>
 <td></td>
@@ -95,7 +95,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>8075</td>
+<td>8202</td>
 </tr>
 <tr>
 <td></td>
@@ -103,7 +103,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Бостандық ауылдық округі</td>
-<td>8648</td>
+<td>8712</td>
 </tr>
 <tr>
 <td></td>
@@ -111,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>9289</td>
+<td>9577</td>
 </tr>
 <tr>
 <td></td>
@@ -119,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>8346</td>
+<td>8131</td>
 </tr>
 <tr>
 <td></td>
@@ -127,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>8141</td>
+<td>8205</td>
 </tr>
 <tr>
 <td></td>
@@ -135,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>7684</td>
+<td>7509</td>
 </tr>
 <tr>
 <td></td>
@@ -143,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>8594</td>
+<td>8737</td>
 </tr>
 <tr>
 <td></td>
@@ -159,7 +159,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>8060</td>
+<td>7756</td>
 </tr>
 <tr>
 <td></td>
@@ -167,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>7801</td>
+<td>7751</td>
 </tr>
 <tr>
 <td></td>
@@ -175,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>8751</td>
+<td>8631</td>
 </tr>
 <tr>
 <td></td>
@@ -183,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>7397</td>
+<td>7058</td>
 </tr>
 <tr>
 <td></td>
@@ -191,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>8408</td>
+<td>8129</td>
 </tr>
 <tr>
 <td></td>
@@ -199,7 +199,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>8228</td>
+<td>8243</td>
 </tr>
 <tr>
 <td></td>
@@ -207,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>9095</td>
+<td>9200</td>
 </tr>
 <tr>
 <td></td>
@@ -1311,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 > *2009 жылғы 25 желтоқсандағы*  
 > *N 24-2 шешіміне N 6 қосымша*
 
-> *Ескерту. 6 қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихаттың 2010.11.11 N 34-1 Шешімімен.*
+> *Ескерту. 6 қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихаттың 2010.12.10 N 36-1 Шешімімен.*
 
 ## Мектептер бойынша 464003 - "Жалпы білім беру" бағдарламасының бюджет қаражатының бөлінуі
 
@@ -1350,7 +1350,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>1 736 784</td>
+<td>1735784</td>
 </tr>
 <tr>
 <td></td>
@@ -1366,7 +1366,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Бостандық орта жалпы білім беретін мектебі</td>
-<td>65 364</td>
+<td>65364</td>
 </tr>
 <tr>
 <td></td>
@@ -1374,7 +1374,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қараөзен мектеп-лицейі</td>
-<td>57 803</td>
+<td>57803</td>
 </tr>
 <tr>
 <td></td>
@@ -1382,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Молдашев ат. орта жалпы білім беретін мектебі</td>
-<td>67 102</td>
+<td>67102</td>
 </tr>
 <tr>
 <td></td>
@@ -1390,7 +1390,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Мендалиев ат. орта жалпы білім беретін мектебі</td>
-<td>96 155</td>
+<td>95155</td>
 </tr>
 <tr>
 <td></td>
@@ -1398,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Казталов орта жалпы білім беретін мектебі</td>
-<td>76 218</td>
+<td>76218</td>
 </tr>
 <tr>
 <td></td>
@@ -1406,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>А.Оразбаева ат. орта жалпы білім беретін мектебі</td>
-<td>79 586</td>
+<td>79586</td>
 </tr>
 <tr>
 <td></td>
@@ -1414,7 +1414,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Тереңкөл орта жалпы білім беретін мектебі</td>
-<td>58 459</td>
+<td>58459</td>
 </tr>
 <tr>
 <td></td>
@@ -1422,7 +1422,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қайынды орта жалпы білім беретін мектебі</td>
-<td>39 357</td>
+<td>39357</td>
 </tr>
 <tr>
 <td></td>
@@ -1430,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Ақпәтер орта жалпы білім беретін мектебі</td>
-<td>61 901</td>
+<td>61901</td>
 </tr>
 <tr>
 <td></td>
@@ -1438,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Қарасу орта жалпы білім беретін мектебі</td>
-<td>70 040</td>
+<td>70040</td>
 </tr>
 <tr>
 <td></td>
@@ -1446,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Талдыапан орта жалпы білім беретін мектебі</td>
-<td>204 815</td>
+<td>204815</td>
 </tr>
 <tr>
 <td></td>
@@ -1454,7 +1454,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Есетов ат. орта жалпы білім беретін мектебі</td>
-<td>62 095</td>
+<td>62095</td>
 </tr>
 <tr>
 <td></td>
@@ -1462,7 +1462,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Көктерек жалпы орта білім беретін мектебі</td>
-<td>66 039</td>
+<td>66039</td>
 </tr>
 <tr>
 <td></td>
@@ -1470,7 +1470,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Бірік орта жалпы білім беретін мектебі</td>
-<td>64 073</td>
+<td>64073</td>
 </tr>
 <tr>
 <td></td>
@@ -1478,7 +1478,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Ғ.Қараш ат. Қараоба гимназиясы</td>
-<td>80 766</td>
+<td>80766</td>
 </tr>
 <tr>
 <td></td>
@@ -1486,7 +1486,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Бегалиев ат. орта жалпы білім беретін мектебі</td>
-<td>55 237</td>
+<td>55237</td>
 </tr>
 <tr>
 <td></td>
@@ -1494,7 +1494,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Богатырев орта жалпы білім беретін мектебі</td>
-<td>83 563</td>
+<td>83563</td>
 </tr>
 <tr>
 <td></td>
@@ -1502,7 +1502,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Мирон орта жалпы білім беретін мектебі</td>
-<td>23 684</td>
+<td>23684</td>
 </tr>
 <tr>
 <td></td>
@@ -1510,7 +1510,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Жанажол орта білім беретін мектебі</td>
-<td>168 288</td>
+<td>168288</td>
 </tr>
 <tr>
 <td></td>
@@ -1518,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Құсайнов ат. орта жалпы білім беретін мектебі</td>
-<td>33 361</td>
+<td>33361</td>
 </tr>
 <tr>
 <td></td>
@@ -1526,6 +1526,6 @@ source: https://zan.gov.kz/client/#!/doc/49727/kaz/11.11.2010
 <td></td>
 <td></td>
 <td>Білім беру бөлімі (метод.кабинет, бухгалтерия және 6 мектеп)</td>
-<td>222 878</td>
+<td>222878</td>
 </tr>
 </table>
