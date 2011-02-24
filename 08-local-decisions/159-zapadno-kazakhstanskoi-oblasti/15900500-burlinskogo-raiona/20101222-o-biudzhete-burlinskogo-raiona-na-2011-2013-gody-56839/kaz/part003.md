@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56839/kaz/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/56839/kaz/24.02.2011
 ---
 
 ## 2013 жылға арналған Бөрлі аудандық бюджеті
