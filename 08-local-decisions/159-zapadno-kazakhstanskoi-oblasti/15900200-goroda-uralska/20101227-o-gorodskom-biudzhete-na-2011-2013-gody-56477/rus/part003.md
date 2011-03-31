@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
+source: https://zan.gov.kz/client/#!/doc/56477/rus/31.03.2011
 ---
 
 ## Бюджет города Уральска на 2013 год
@@ -42,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>І. Доходы</td>
-<td>10 998 661</td>
+<td>13 219 922</td>
 </tr>
 <tr>
 <td>1</td>
@@ -375,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>0</td>
+<td>2 221 261</td>
 </tr>
 <tr>
 <td></td>
@@ -384,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>0</td>
+<td>2 221 261</td>
 </tr>
 <tr>
 <td></td>
@@ -393,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>0</td>
+<td>2 221 261</td>
 </tr>
 </table>
 
@@ -439,7 +439,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>IІ. Затраты</td>
-<td>10 686 594</td>
+<td>12 907 855</td>
 </tr>
 <tr>
 <td>1</td>
@@ -718,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>7 070 613</td>
+<td>8 070 613</td>
 </tr>
 <tr>
 <td></td>
@@ -799,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>80 335</td>
+<td>1 080 335</td>
 </tr>
 <tr>
 <td></td>
@@ -880,7 +880,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>0</td>
+<td>1 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -889,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td>037</td>
 <td></td>
 <td>Строительство и реконструкция объектов образования</td>
-<td>0</td>
+<td>1 000 000</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1069,7 +1069,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1 473 135</td>
+<td>2 694 396</td>
 </tr>
 <tr>
 <td></td>
@@ -1186,7 +1186,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>0</td>
+<td>1 221 261</td>
 </tr>
 <tr>
 <td></td>
@@ -1249,7 +1249,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td></td>
 <td></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>0</td>
+<td>1 221 261</td>
 </tr>
 <tr>
 <td></td>
@@ -1258,7 +1258,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/27.12.2010
 <td>005</td>
 <td></td>
 <td>Развитие коммунального хозяйства</td>
-<td>0</td>
+<td>1 221 261</td>
 </tr>
 <tr>
 <td></td>
