@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56637/kaz/27.12.2010
+source: https://zan.gov.kz/client/#!/doc/56637/kaz/13.04.2011
 ---
 
 ## 2011 жылға арналған аудандық бюджеттің ағымдағы бюджеттік бағдарламалар тізбесі
