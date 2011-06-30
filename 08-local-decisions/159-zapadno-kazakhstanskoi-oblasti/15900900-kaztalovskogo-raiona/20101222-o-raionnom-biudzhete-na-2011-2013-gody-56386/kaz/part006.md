@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56386/kaz/12.04.2011
+source: https://zan.gov.kz/client/#!/doc/56386/kaz/30.06.2011
 ---
 
 ## Мектептерге жалпы білім беру бағдарламасы бойынша бюджет қаражаттары

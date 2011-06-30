@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56386/rus/12.04.2011
+source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 ---
 
 ## Бюджетные средства программы общеобразовательного обучения в школах
