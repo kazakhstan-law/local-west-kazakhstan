@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
+source: https://zan.gov.kz/client/#!/doc/56386/rus/16.08.2011
 ---
 
 ## Бюджетные средства программы общеобразовательного обучения в школах
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Всего</td>
-<td>1657666</td>
+<td>1666513</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>средняя общеобразовательная школа им. Г. Молдашева</td>
-<td>75780</td>
+<td>76630</td>
 </tr>
 <tr>
 <td></td>
@@ -80,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>средняя общеобразовательная школа им. К. Мендалиева</td>
-<td>109378</td>
+<td>109704</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Казталовская средняя общеобразовательная школа</td>
-<td>96345</td>
+<td>98748</td>
 </tr>
 <tr>
 <td></td>
@@ -96,7 +96,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>средняя общеобразовательная школа им. А. Оразбаева</td>
-<td>95202</td>
+<td>95488</td>
 </tr>
 <tr>
 <td></td>
@@ -104,7 +104,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Теренкульская средняя общеобразовательная школа</td>
-<td>55628</td>
+<td>56015</td>
 </tr>
 <tr>
 <td></td>
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Карасуская средняя общеобразовательная школа</td>
-<td>73464</td>
+<td>74131</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Талдыапанская средняя общеобразовательная школа</td>
-<td>74812</td>
+<td>75212</td>
 </tr>
 <tr>
 <td></td>
@@ -144,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>средняя общеобразовательная школа им. С. Есетова</td>
-<td>75620</td>
+<td>75681</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Коктерекская средняя общеобразовательная школа</td>
-<td>70852</td>
+<td>71519</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Брикская средняя общеобразовательная школа</td>
-<td>65802</td>
+<td>66061</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Караубинская гимназия им. Г. Караш</td>
-<td>86883</td>
+<td>87163</td>
 </tr>
 <tr>
 <td></td>
@@ -176,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>средняя общеобразовательная школа им. Г. Бегалиева</td>
-<td>60869</td>
+<td>61454</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Богатыревская средняя общеобразовательная школа</td>
-<td>84850</td>
+<td>85305</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td>Жанажолская средняя общеобразовательная школа</td>
-<td>78156</td>
+<td>78669</td>
 </tr>
 <tr>
 <td></td>
@@ -215,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/rus/30.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Отдел образования района (методический кабинет, бухгалтерия и 6 школы)</td>
-<td>226447</td>
+<td>Отдел образования района</td>
+<td>227155</td>
 </tr>
 </table>
