@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
+source: https://zan.gov.kz/client/#!/doc/56386/kaz/12.10.2011
 ---
 
 ## Мектептерге жалпы білім беру бағдарламасы бойынша бюджет қаражаттары
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>1666513</td>
+<td>1 655 015</td>
 </tr>
 <tr>
 <td></td>
@@ -56,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Бостандық орта жалпы білім беретін мектебі</td>
-<td>76012</td>
+<td>75 522</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Қараөзен мектеп-лицейі</td>
-<td>61483</td>
+<td>61 454</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Молдашев ат. орта жалпы білім беретін мектебі</td>
-<td>76630</td>
+<td>75 488</td>
 </tr>
 <tr>
 <td></td>
@@ -80,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Мендалиев ат. орта жалпы білім беретін мектебі</td>
-<td>109704</td>
+<td>108 784</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Казталов орта жалпы білім беретін мектебі</td>
-<td>98748</td>
+<td>95 532</td>
 </tr>
 <tr>
 <td></td>
@@ -96,7 +96,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>А. Оразбаева ат. орта жалпы білім беретін мектебі</td>
-<td>95488</td>
+<td>95 194</td>
 </tr>
 <tr>
 <td></td>
@@ -104,7 +104,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Тереңкөл орта жалпы білім беретін мектебі</td>
-<td>56015</td>
+<td>55 420</td>
 </tr>
 <tr>
 <td></td>
@@ -112,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Қайынды орта жалпы білім беретін мектебі</td>
-<td>47635</td>
+<td>47 259</td>
 </tr>
 <tr>
 <td></td>
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Ақпәтер орта жалпы білім беретін мектебі</td>
-<td>71775</td>
+<td>71 372</td>
 </tr>
 <tr>
 <td></td>
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Қарасу орта жалпы білім беретін мектебі</td>
-<td>74131</td>
+<td>73 710</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Талдыапан орта жалпы білім беретін мектебі</td>
-<td>75212</td>
+<td>74 945</td>
 </tr>
 <tr>
 <td></td>
@@ -144,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Есетов ат. орта жалпы білім беретін мектебі</td>
-<td>75681</td>
+<td>75 409</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Көктерек жалпы орта білім беретін мектебі</td>
-<td>71519</td>
+<td>70 660</td>
 </tr>
 <tr>
 <td></td>
@@ -160,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Бірік орта жалпы білім беретін мектебі</td>
-<td>66061</td>
+<td>65 388</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Ғ. Қараш ат. Қараоба гимназиясы</td>
-<td>87163</td>
+<td>86 359</td>
 </tr>
 <tr>
 <td></td>
@@ -176,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Бегалиев ат. орта жалпы білім беретін мектебі</td>
-<td>61454</td>
+<td>60 525</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Богатырев орта жалпы білім беретін мектебі</td>
-<td>85305</td>
+<td>84 392</td>
 </tr>
 <tr>
 <td></td>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Мирон орта жалпы білім беретін мектебі</td>
-<td>24196</td>
+<td>24 066</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Жанажол орта білім беретін мектебі</td>
-<td>78669</td>
+<td>78 175</td>
 </tr>
 <tr>
 <td></td>
@@ -208,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Құсайнов ат. орта жалпы білім беретін мектебі</td>
-<td>46477</td>
+<td>46 283</td>
 </tr>
 <tr>
 <td></td>
@@ -216,6 +216,6 @@ source: https://zan.gov.kz/client/#!/doc/56386/kaz/16.08.2011
 <td></td>
 <td></td>
 <td>Білім беру бөлімі (методикалық кабинет, бухгалтерия және 6 мектеп)</td>
-<td>227155</td>
+<td>229 078</td>
 </tr>
 </table>
