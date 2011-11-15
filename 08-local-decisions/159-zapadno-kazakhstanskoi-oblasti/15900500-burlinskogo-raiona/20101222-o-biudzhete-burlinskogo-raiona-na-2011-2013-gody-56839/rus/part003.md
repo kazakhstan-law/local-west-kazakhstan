@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56839/rus/12.07.2011
+source: https://zan.gov.kz/client/#!/doc/56839/rus/15.11.2011
 ---
 
 ## Бюджет Бурлинского района на 2013 год
