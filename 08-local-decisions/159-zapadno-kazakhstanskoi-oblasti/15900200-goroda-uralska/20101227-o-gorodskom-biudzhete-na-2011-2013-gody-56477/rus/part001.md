@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
+source: https://zan.gov.kz/client/#!/doc/56477/rus/20.12.2011
 ---
 
 ## Бюджет города Уральска на 2011 год
@@ -42,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>16 148 405</td>
+<td>16 145 246</td>
 </tr>
 <tr>
 <td>1</td>
@@ -402,7 +402,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>6 202 575</td>
+<td>6 199 416</td>
 </tr>
 <tr>
 <td></td>
@@ -411,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>5 904 678</td>
+<td>5 901 519</td>
 </tr>
 <tr>
 <td></td>
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Трансферты из областного бюджета</td>
-<td>5 904 678</td>
+<td>5 901 519</td>
 </tr>
 <tr>
 <td></td>
@@ -484,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>IІ. Затраты</td>
-<td>17 284 615</td>
+<td>17 281 456</td>
 </tr>
 <tr>
 <td>1</td>
@@ -808,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>7 571 038</td>
+<td>7 567 879</td>
 </tr>
 <tr>
 <td></td>
@@ -898,7 +898,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>1 400 197</td>
+<td>1 397 038</td>
 </tr>
 <tr>
 <td></td>
@@ -907,7 +907,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>185 777</td>
+<td>182 618</td>
 </tr>
 <tr>
 <td></td>
@@ -970,7 +970,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td>015</td>
 <td></td>
 <td>Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>72 047</td>
+<td>68 888</td>
 </tr>
 <tr>
 <td></td>
@@ -1195,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 070 138</td>
+<td>6 069 730</td>
 </tr>
 <tr>
 <td></td>
@@ -1411,7 +1411,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1 508 738</td>
+<td>1 508 330</td>
 </tr>
 <tr>
 <td></td>
@@ -1420,7 +1420,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1 364 214</td>
+<td>1 363 806</td>
 </tr>
 <tr>
 <td></td>
@@ -1456,7 +1456,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td>018</td>
 <td>000</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>328 215</td>
+<td>327 807</td>
 </tr>
 <tr>
 <td></td>
@@ -2194,7 +2194,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>299 728</td>
+<td>296 260</td>
 </tr>
 <tr>
 <td></td>
@@ -2203,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>293 020</td>
+<td>289 552</td>
 </tr>
 <tr>
 <td></td>
@@ -2212,7 +2212,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>293 020</td>
+<td>289 552</td>
 </tr>
 <tr>
 <td></td>
@@ -2248,7 +2248,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td>023</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>234 092</td>
+<td>230 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2491,7 +2491,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>60 524</td>
+<td>64 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2500,7 +2500,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>60 524</td>
+<td>64 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2509,7 +2509,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td></td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>60 524</td>
+<td>64 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2518,7 +2518,7 @@ source: https://zan.gov.kz/client/#!/doc/56477/rus/15.11.2011
 <td>006</td>
 <td>000</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>58 459</td>
+<td>62 335</td>
 </tr>
 <tr>
 <td></td>
