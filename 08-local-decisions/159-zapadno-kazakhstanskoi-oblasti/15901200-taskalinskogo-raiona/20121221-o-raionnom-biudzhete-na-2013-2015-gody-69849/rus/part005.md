@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69849/rus/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69849/rus/25.01.2013
 ---
 
 ## Перечень бюджетных программ аульных округов в районном бюджете на 2013 год
