@@ -1,5 +1,5 @@
 ---
-version_id: AI69894_0
+version_id: AI69894_2
 act_code: '69894'
 language: kaz
 title: 2013-2015 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2012-12-21
-version_date: 2012-12-21
+version_date: 2013-01-31
 registry_number: '69894'
-source: https://zan.gov.kz/client/#!/doc/69894/kaz/21.12.2012
+caused_by:
+  code: '70916'
+  title: Сырым аудандық мәслихатының 2012 жылғы 21 желтоқсандағы № 7-3 "2013-2015  жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/70916/kaz
+source: https://zan.gov.kz/client/#!/doc/69894/kaz/31.01.2013
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
