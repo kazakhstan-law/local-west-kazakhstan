@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
+source: https://zan.gov.kz/client/#!/doc/69893/kaz/15.07.2013
 ---
 
 ## Казталов ауданының ауылдық округтерінің 2013 жылға арналған бюджеттік бағдарламалары
@@ -43,20 +43,20 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер көрсету</td>
-<td>169149</td>
-</tr>
-<tr>
-<td></td>
 <td>01</td>
 <td></td>
 <td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>169790</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>169149</td>
+<td>169790</td>
 </tr>
 <tr>
 <td></td>
@@ -64,15 +64,15 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>169149</td>
+<td>169790</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>001</td>
-<td>Қаладағы ауданның, аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің әкімі аппаратының қызметін қамтамасыз ету</td>
-<td>169149</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>169704</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>15759</td>
+<td>15713</td>
 </tr>
 <tr>
 <td></td>
@@ -112,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>10156</td>
+<td>10179</td>
 </tr>
 <tr>
 <td></td>
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>9303</td>
+<td>9045</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>10594</td>
+<td>10480</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>15631</td>
+<td>16183</td>
 </tr>
 <tr>
 <td></td>
@@ -168,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>9878</td>
+<td>9808</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>8449</td>
+<td>8829</td>
 </tr>
 <tr>
 <td></td>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>9972</td>
+<td>9811</td>
 </tr>
 <tr>
 <td></td>
@@ -200,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>9382</td>
+<td>9631</td>
 </tr>
 <tr>
 <td></td>
@@ -211,7 +211,151 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td>10431</td>
 </tr>
 <tr>
-<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>86</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>соның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Казталов ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бірік ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бостандық ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Болашақ ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қараоба ауылдық округі</td>
+<td>86</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қайынды ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қошанкөл ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тереңкөл ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпақтал ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жаңажол ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ақпәтер ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Талдықұдық ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Талдыапан ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қарасу ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көктерек ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қараөзен ауылдық округі</td>
+<td>0</td>
+</tr>
+<tr>
+<td>05</td>
 <td></td>
 <td></td>
 <td></td>
@@ -220,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 </tr>
 <tr>
 <td></td>
-<td>09</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
@@ -239,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>002</td>
-<td>Ерекше жағдайларда сырқатты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
+<td>Ерекше жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына жеткізуді ұйымдастыру</td>
 <td>399</td>
 </tr>
 <tr>
@@ -379,20 +523,20 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td>21</td>
 </tr>
 <tr>
-<td>7</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>45564</td>
+<td>38634</td>
 </tr>
 <tr>
 <td></td>
-<td>03</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>45564</td>
+<td>38634</td>
 </tr>
 <tr>
 <td></td>
@@ -400,7 +544,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>45564</td>
+<td>38634</td>
 </tr>
 <tr>
 <td></td>
@@ -408,7 +552,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td>008</td>
 <td>Елді-мекендерде көшелерді жарықтандыру</td>
-<td>7229</td>
+<td>10329</td>
 </tr>
 <tr>
 <td></td>
@@ -424,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>3284</td>
+<td>5389</td>
 </tr>
 <tr>
 <td></td>
@@ -432,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>200</td>
+<td>240</td>
 </tr>
 <tr>
 <td></td>
@@ -440,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Бостандық ауылдық округі</td>
-<td>200</td>
+<td>282</td>
 </tr>
 <tr>
 <td></td>
@@ -448,7 +592,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>200</td>
+<td>347</td>
 </tr>
 <tr>
 <td></td>
@@ -456,7 +600,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>200</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -464,7 +608,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>200</td>
+<td>296</td>
 </tr>
 <tr>
 <td></td>
@@ -472,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>200</td>
+<td>414</td>
 </tr>
 <tr>
 <td></td>
@@ -496,7 +640,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>200</td>
+<td>246</td>
 </tr>
 <tr>
 <td></td>
@@ -504,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>200</td>
+<td>270</td>
 </tr>
 <tr>
 <td></td>
@@ -528,7 +672,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>200</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -536,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>200</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -696,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td>010</td>
 <td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
-<td>435</td>
+<td>1173</td>
 </tr>
 <tr>
 <td></td>
@@ -800,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>0</td>
+<td>386</td>
 </tr>
 <tr>
 <td></td>
@@ -808,7 +952,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>40</td>
+<td>392</td>
 </tr>
 <tr>
 <td></td>
@@ -840,7 +984,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td>011</td>
 <td>Елді-мекендерді абаттандыру мен көгалдандыру</td>
-<td>37700</td>
+<td>26932</td>
 </tr>
 <tr>
 <td></td>
@@ -856,7 +1000,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>20000</td>
+<td>15500</td>
 </tr>
 <tr>
 <td></td>
@@ -880,7 +1024,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>200</td>
+<td>232</td>
 </tr>
 <tr>
 <td></td>
@@ -920,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/69893/kaz/26.12.2012
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>15000</td>
+<td>8700</td>
 </tr>
 <tr>
 <td></td>
