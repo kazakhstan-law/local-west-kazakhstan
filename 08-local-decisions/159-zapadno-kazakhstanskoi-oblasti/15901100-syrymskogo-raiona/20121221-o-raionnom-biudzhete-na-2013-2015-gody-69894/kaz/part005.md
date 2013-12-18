@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/69894/kaz/18.12.2013
 ---
 
 ## 2013 жылғы ауылдық (селолық) округтердің бюджеттік бағдарламаларының тізбесі
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>179933</td>
+<td>163310</td>
 </tr>
 <tr>
 <td></td>
@@ -54,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>179933</td>
+<td>163310</td>
 </tr>
 <tr>
 <td></td>
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімі аппараты</td>
-<td>179933</td>
+<td>163310</td>
 </tr>
 <tr>
 <td></td>
@@ -70,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округтің әкімі аппаратының қызметін қамтамасыз ету</td>
-<td>123963</td>
+<td>123935</td>
 </tr>
 <tr>
 <td></td>
@@ -94,7 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Алғабас</td>
-<td>9928</td>
+<td>10072</td>
 </tr>
 <tr>
 <td></td>
@@ -110,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Бұлдырты</td>
-<td>11229</td>
+<td>11228</td>
 </tr>
 <tr>
 <td></td>
@@ -118,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Жетікөл</td>
-<td>11454</td>
+<td>11352</td>
 </tr>
 <tr>
 <td></td>
@@ -134,7 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>19265</td>
+<td>19629</td>
 </tr>
 <tr>
 <td></td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Қособа</td>
-<td>8455</td>
+<td>8125</td>
 </tr>
 <tr>
 <td></td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Талдыбұлақ</td>
-<td>8830</td>
+<td>8745</td>
 </tr>
 <tr>
 <td></td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Шолақанқаты</td>
-<td>11733</td>
+<td>11715</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>55970</td>
+<td>39375</td>
 </tr>
 <tr>
 <td></td>
@@ -190,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>320</td>
+<td>770</td>
 </tr>
 <tr>
 <td></td>
@@ -198,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Алғабас</td>
-<td>200</td>
+<td>700</td>
 </tr>
 <tr>
 <td></td>
@@ -214,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Бұлдырты</td>
-<td>200</td>
+<td>700</td>
 </tr>
 <tr>
 <td></td>
@@ -222,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Жетікөл</td>
-<td>300</td>
+<td>750</td>
 </tr>
 <tr>
 <td></td>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>53981</td>
+<td>34586</td>
 </tr>
 <tr>
 <td></td>
@@ -247,6 +247,14 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td>Елтай</td>
 <td>170</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қособа</td>
+<td>450</td>
 </tr>
 <tr>
 <td></td>
@@ -262,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Шолақанқаты</td>
-<td>398</td>
+<td>848</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +654,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>13073</td>
+<td>11505</td>
 </tr>
 <tr>
 <td></td>
@@ -654,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>13073</td>
+<td>11505</td>
 </tr>
 <tr>
 <td></td>
@@ -686,15 +694,15 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>13073</td>
+<td>11505</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>040</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>13073</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>11505</td>
 </tr>
 <tr>
 <td></td>
@@ -774,6 +782,6 @@ source: https://zan.gov.kz/client/#!/doc/69894/kaz/08.11.2013
 <td></td>
 <td></td>
 <td>Шолақанқаты</td>
-<td>5542</td>
+<td>3974</td>
 </tr>
 </table>
