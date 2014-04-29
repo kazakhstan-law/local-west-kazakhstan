@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/76597/rus/29.04.2014
 ---
 
 ## Районный бюджет на 2016 год
@@ -1912,6 +1912,8 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 
 ## Бюджетные программы сельских округов Казталовского района на 2014 год
 
+> *Сноска. Приложение 5 в редакции решения Казталовского районного маслихата Западно-Казахстанской области от 29.04.2014 № 24-1 (вводится в действие с 01.01.2014).*
+
 тысяч тенге
 
 <table>
@@ -1955,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>194511</td>
+<td>200352</td>
 </tr>
 <tr>
 <td></td>
@@ -1963,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>194511</td>
+<td>200352</td>
 </tr>
 <tr>
 <td></td>
@@ -1971,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>194511</td>
+<td>200352</td>
 </tr>
 <tr>
 <td></td>
@@ -1979,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>190268</td>
+<td>197408</td>
 </tr>
 <tr>
 <td></td>
@@ -1995,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Казталовский сельский округ</td>
-<td>15926</td>
+<td>17921</td>
 </tr>
 <tr>
 <td></td>
@@ -2003,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Брикский сельский округ</td>
-<td>10596</td>
+<td>10857</td>
 </tr>
 <tr>
 <td></td>
@@ -2011,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Бостандыкский сельский округ</td>
-<td>11333</td>
+<td>11624</td>
 </tr>
 <tr>
 <td></td>
@@ -2019,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>12386</td>
+<td>12736</td>
 </tr>
 <tr>
 <td></td>
@@ -2027,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Караубинский сельский округ</td>
-<td>11309</td>
+<td>11732</td>
 </tr>
 <tr>
 <td></td>
@@ -2035,7 +2037,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Каиндинский сельский округ</td>
-<td>10548</td>
+<td>10752</td>
 </tr>
 <tr>
 <td></td>
@@ -2043,7 +2045,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Кушанкульский сельский округ</td>
-<td>12787</td>
+<td>13114</td>
 </tr>
 <tr>
 <td></td>
@@ -2051,7 +2053,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Теренкульский сельский округ</td>
-<td>10773</td>
+<td>11004</td>
 </tr>
 <tr>
 <td></td>
@@ -2059,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Жалпакталский сельский округ</td>
-<td>16231</td>
+<td>16476</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Жанажолский сельский округ</td>
-<td>11061</td>
+<td>11292</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Акпатерский сельский округ</td>
-<td>10692</td>
+<td>10915</td>
 </tr>
 <tr>
 <td></td>
@@ -2083,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Талдыкудукский сельский округ</td>
-<td>11095</td>
+<td>11517</td>
 </tr>
 <tr>
 <td></td>
@@ -2091,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Талдыапанский сельский округ</td>
-<td>10008</td>
+<td>10193</td>
 </tr>
 <tr>
 <td></td>
@@ -2099,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Карасуский сельский округ</td>
-<td>11379</td>
+<td>11605</td>
 </tr>
 <tr>
 <td></td>
@@ -2107,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Куктерекский сельский округ</td>
-<td>12632</td>
+<td>13439</td>
 </tr>
 <tr>
 <td></td>
@@ -2115,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Караузеньский сельский округ</td>
-<td>11512</td>
+<td>12231</td>
 </tr>
 <tr>
 <td></td>
@@ -2123,7 +2125,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>4243</td>
+<td>2944</td>
 </tr>
 <tr>
 <td></td>
@@ -2147,7 +2149,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>123</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2155,7 +2157,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Жалпакталский сельский округ</td>
-<td>3682</td>
+<td>2506</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2307,7 +2309,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>36673</td>
+<td>35675</td>
 </tr>
 <tr>
 <td></td>
@@ -2315,7 +2317,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>36673</td>
+<td>35675</td>
 </tr>
 <tr>
 <td></td>
@@ -2323,7 +2325,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>36673</td>
+<td>35675</td>
 </tr>
 <tr>
 <td></td>
@@ -2331,7 +2333,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>12868</td>
+<td>14605</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,7 +2349,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Казталовский сельский округ</td>
-<td>5949</td>
+<td>6372</td>
 </tr>
 <tr>
 <td></td>
@@ -2355,7 +2357,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Брикский сельский округ</td>
-<td>260</td>
+<td>338</td>
 </tr>
 <tr>
 <td></td>
@@ -2411,7 +2413,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Жалпакталский сельский округ</td>
-<td>2441</td>
+<td>3617</td>
 </tr>
 <tr>
 <td></td>
@@ -2443,7 +2445,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Талдыапанский сельский округ</td>
-<td>300</td>
+<td>360</td>
 </tr>
 <tr>
 <td></td>
@@ -2475,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>800</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
@@ -2499,7 +2501,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Караубинский сельский округ</td>
-<td>200</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2539,7 +2541,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>22915</td>
+<td>20380</td>
 </tr>
 <tr>
 <td></td>
@@ -2555,7 +2557,7 @@ source: https://zan.gov.kz/client/#!/doc/76597/rus/27.12.2013
 <td></td>
 <td></td>
 <td>Казталовский сельский округ</td>
-<td>18723</td>
+<td>16188</td>
 </tr>
 <tr>
 <td></td>
