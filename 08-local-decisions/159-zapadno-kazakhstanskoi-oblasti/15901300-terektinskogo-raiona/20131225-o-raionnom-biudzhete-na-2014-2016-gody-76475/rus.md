@@ -1,5 +1,5 @@
 ---
-version_id: '76475_48190'
+version_id: '76475_273853'
 act_code: '76475'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159013000002'
 approval_date: 2013-12-25
-version_date: 2014-02-05
+version_date: 2014-04-29
 registry_number: '76475'
 caused_by:
-  code: '77606'
-  title: О внесении изменений в решение Теректинского районного маслихата от 25 декабря 2013 года №17-2 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/77606/rus
-source: https://zan.gov.kz/client/#!/doc/76475/rus/05.02.2014
+  code: '79865'
+  title: О внесении изменений и дополнений в решение Теректинского районного маслихата от 25 декабря 2013 года № 17-2 "О районном бюджете на 2014-2016 годы"
+  link: https://zan.gov.kz/client/#!/doc/79865/rus
+source: https://zan.gov.kz/client/#!/doc/76475/rus/29.04.2014
 ---
 
 # О районном бюджете на 2014-2016 годы
