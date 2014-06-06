@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76600/rus/29.04.2014
+source: https://zan.gov.kz/client/#!/doc/76600/rus/06.06.2014
 ---
 
 # О районном бюджете на 2014-2016 годы
