@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76295/kaz/25.04.2014
+source: https://zan.gov.kz/client/#!/doc/76295/kaz/07.08.2014
 ---
 
 > *Орал қалалық мәслихатының 2013 жылғы 24 желтоқсандағы № 19-6 шешіміне*  
