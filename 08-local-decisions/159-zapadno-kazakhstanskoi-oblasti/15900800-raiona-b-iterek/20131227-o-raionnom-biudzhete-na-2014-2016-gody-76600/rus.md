@@ -1,5 +1,5 @@
 ---
-version_id: '76600_273008'
+version_id: '76600_273010'
 act_code: '76600'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159008000002'
 approval_date: 2013-12-27
-version_date: 2014-06-06
+version_date: 2014-09-15
 registry_number: '76600'
 caused_by:
-  code: '80666'
+  code: '83165'
   title: О внесении изменений в решение Зеленовского районного маслихата от 27 декабря 2013 года № 20-2 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/80666/rus
-source: https://zan.gov.kz/client/#!/doc/76600/rus/06.06.2014
+  link: https://zan.gov.kz/client/#!/doc/83165/rus
+source: https://zan.gov.kz/client/#!/doc/76600/rus/15.09.2014
 ---
 
 # О районном бюджете на 2014-2016 годы

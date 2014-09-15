@@ -1,5 +1,5 @@
 ---
-version_id: '76600_273007'
+version_id: '76600_273009'
 act_code: '76600'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159008000002'
 approval_date: 2013-12-27
-version_date: 2014-06-06
+version_date: 2014-09-15
 registry_number: '76600'
 caused_by:
-  code: '80666'
+  code: '83165'
   title: Зеленов аудандық мәслихаттың 2013 жылғы 27 желтоқсандағы № 20-2 "2014-2016 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/80666/kaz
-source: https://zan.gov.kz/client/#!/doc/76600/kaz/06.06.2014
+  link: https://zan.gov.kz/client/#!/doc/83165/kaz
+source: https://zan.gov.kz/client/#!/doc/76600/kaz/15.09.2014
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы
