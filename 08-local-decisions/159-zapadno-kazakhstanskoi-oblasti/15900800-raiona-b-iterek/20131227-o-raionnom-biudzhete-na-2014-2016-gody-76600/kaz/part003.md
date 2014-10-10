@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76600/kaz/15.09.2014
+source: https://zan.gov.kz/client/#!/doc/76600/kaz/10.10.2014
 ---
 
 > *2013 жылғы 27 желтоқсандағы № 20-2 Зеленов аудандық мәслихатының шешіміне*  
