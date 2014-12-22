@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76475/kaz/08.10.2014
+source: https://zan.gov.kz/client/#!/doc/76475/kaz/22.12.2014
 ---
 
 > *2013 жылғы 25 желтоқсандағы №17-2 мәслихат шешіміне*  
