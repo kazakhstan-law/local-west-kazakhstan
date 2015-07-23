@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85977/rus/22.05.2015
+source: https://zan.gov.kz/client/#!/doc/85977/rus/23.07.2015
 ---
 
 > *Приложение 3 к решению Чингирлауского*  
