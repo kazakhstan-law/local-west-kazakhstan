@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85966/kaz/12.08.2015
+source: https://zan.gov.kz/client/#!/doc/85966/kaz/18.09.2015
 ---
 
 > *Ақжайық аудандық мәслихатының 2014 жылғы*  
