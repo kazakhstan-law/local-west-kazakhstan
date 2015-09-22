@@ -1,19 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
+source: https://zan.gov.kz/client/#!/doc/86064/kaz/22.09.2015
 ---
 
-> *Сырым аудандық мәслихатының*  
-> *2015 жылғы 6 тамыздағы*  
-> *№29-2 шешіміне 2-қосымша*
+> *Сырым аудандық мәслихатының 2015 жылғы 22 қыркүйектегі №30-1 шешіміне 2-қосымша*
 
-> *Сырым аудандық мәслихатының*  
-> *2014 жылғы 26 желтоқсандағы*  
-> *№25-2 шешіміне 5-қосымша*
+> *Сырым аудандық мәслихатының 2014 жылғы 26 желтоқсандағы №25-2 шешіміне 5-қосымша*
 
 # 2015 жылғы ауылдық округ әкімінің бюджетінен қаржыландырылатын бюджеттік бағдарламалар тізбесі
 
-> *Ескерту. 5 қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 06.08.2015 №29-2 (01.01.2014 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 22.09.2015 №30-1 (01.01.2015 бастап қолданысқа енгізіледі) шешімімен.*
 
 > *мың теңге*
 
@@ -27,12 +23,12 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td>Сомасы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -40,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>179653</td>
+<td>179656</td>
 </tr>
 <tr>
 <td>01</td>
@@ -48,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -56,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>145436</td>
+<td>146051</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>28675</td>
+<td>28066</td>
 </tr>
 <tr>
 <td></td>
@@ -144,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Елтай</td>
-<td>9584</td>
+<td>9888</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Қособа</td>
-<td>10884</td>
+<td>11804</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>10440</td>
+<td>10190</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Талдыбұлақ</td>
-<td>2750</td>
+<td>2500</td>
 </tr>
 <tr>
 <td>05</td>
@@ -240,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -264,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>002</td>
 <td>Шұғыл жағдайларда сырқаты ауыр адамдарды дәрігерлік көмек көрсететін ең жақын денсаулық сақтау ұйымына дейін жеткізуді ұйымдастыру</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -328,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Елтай</td>
-<td>35</td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Шолақаңқаты</td>
-<td>35</td>
+<td>0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -368,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -376,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -384,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -392,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2990</td>
+<td>3483</td>
 </tr>
 <tr>
 <td></td>
@@ -408,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>260</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
@@ -416,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Алғабас</td>
-<td>260</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
@@ -424,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Бұлан</td>
-<td>260</td>
+<td>410</td>
 </tr>
 <tr>
 <td></td>
@@ -440,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Жетікөл</td>
-<td>340</td>
+<td>390</td>
 </tr>
 <tr>
 <td></td>
@@ -448,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Жосалы</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -456,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Елтай</td>
-<td>240</td>
+<td>183</td>
 </tr>
 <tr>
 <td></td>
@@ -464,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Қособа</td>
-<td>220</td>
+<td>270</td>
 </tr>
 <tr>
 <td></td>
@@ -472,14 +468,6 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Сарой</td>
-<td>170</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Талдыбұлақ</td>
 <td>220</td>
 </tr>
 <tr>
@@ -487,8 +475,16 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td></td>
+<td>Талдыбұлақ</td>
+<td>270</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Шолақаңқаты</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -496,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>4700</td>
+<td>4615</td>
 </tr>
 <tr>
 <td></td>
@@ -512,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>300</td>
+<td>215</td>
 </tr>
 <tr>
 <td></td>
@@ -608,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>15687</td>
+<td>14972</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтөбе</td>
-<td>500</td>
+<td>585</td>
 </tr>
 <tr>
 <td></td>
@@ -672,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/kaz/06.08.2015
 <td></td>
 <td></td>
 <td>Жымпиты</td>
-<td>12867</td>
+<td>12067</td>
 </tr>
 <tr>
 <td></td>

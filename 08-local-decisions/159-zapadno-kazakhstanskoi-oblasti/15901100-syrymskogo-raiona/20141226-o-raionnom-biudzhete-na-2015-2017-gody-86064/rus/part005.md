@@ -1,19 +1,15 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
+source: https://zan.gov.kz/client/#!/doc/86064/rus/22.09.2015
 ---
 
-> *Приложение 2 к решению*  
-> *Сырымского районного маслихата*  
-> *№29-2 от 6 августа 2015 года*
+> *Приложение 2 к решению Сырымского районного маслихата №30-1 от 22 сентября 2015 года*
 
-> *Приложение 5 к решению*  
-> *Сырымского районного маслихата*  
-> *№25-2 от 26 декабря 2014 года*
+> *Приложение 5 к решению Сырымского районного маслихата №25-2 от 26 декабря 2014 года*
 
 # Перечень бюджетных программ, финансируемых из бюджетов акима сельского округа в 2015 году
 
-> *Сноска. Приложение 5 - в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 06.08.2015 №29-2 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 5 - в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 22.09.2015 №30-1 (вводится в действие с 01.01.2015).*
 
 > *тысяч тенге*
 
@@ -27,12 +23,12 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td>Сумма</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>2</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -40,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>179653</td>
+<td>179656</td>
 </tr>
 <tr>
 <td>01</td>
@@ -48,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -56,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>155876</td>
+<td>156241</td>
 </tr>
 <tr>
 <td></td>
@@ -72,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>145436</td>
+<td>146051</td>
 </tr>
 <tr>
 <td></td>
@@ -136,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Жымпитинский</td>
-<td>28675</td>
+<td>28066</td>
 </tr>
 <tr>
 <td></td>
@@ -144,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Елтайский</td>
-<td>9584</td>
+<td>9888</td>
 </tr>
 <tr>
 <td></td>
@@ -152,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Кособинский</td>
-<td>10884</td>
+<td>11804</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>10440</td>
+<td>10190</td>
 </tr>
 <tr>
 <td></td>
@@ -232,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Талдыбулакский</td>
-<td>2750</td>
+<td>2500</td>
 </tr>
 <tr>
 <td>05</td>
@@ -240,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Здравоохранение</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -248,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Прочие услуги в области здравоохранения</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -256,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -264,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>002</td>
 <td>Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td>400</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
@@ -290,6 +286,9 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td>Алгабасский</td>
 <td>40</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td></td>
 <td></td>
@@ -328,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Елтайский</td>
-<td>35</td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Шолаканкатинский</td>
-<td>35</td>
+<td>0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -368,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -376,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -384,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>23377</td>
+<td>23070</td>
 </tr>
 <tr>
 <td></td>
@@ -392,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>2990</td>
+<td>3483</td>
 </tr>
 <tr>
 <td></td>
@@ -408,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтобинский</td>
-<td>260</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
@@ -416,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Алгабасский</td>
-<td>260</td>
+<td>310</td>
 </tr>
 <tr>
 <td></td>
@@ -424,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Буланский</td>
-<td>260</td>
+<td>410</td>
 </tr>
 <tr>
 <td></td>
@@ -440,7 +439,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Жетыкульский</td>
-<td>340</td>
+<td>390</td>
 </tr>
 <tr>
 <td></td>
@@ -448,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Жосалинский</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -456,7 +455,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Елтайский</td>
-<td>240</td>
+<td>183</td>
 </tr>
 <tr>
 <td></td>
@@ -464,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Кособинский</td>
-<td>220</td>
+<td>270</td>
 </tr>
 <tr>
 <td></td>
@@ -472,14 +471,6 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Саройский</td>
-<td>170</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Талдыбулакский</td>
 <td>220</td>
 </tr>
 <tr>
@@ -487,8 +478,16 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td></td>
+<td>Талдыбулакский</td>
+<td>270</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Шолаканкатинский</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -496,7 +495,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>4700</td>
+<td>4615</td>
 </tr>
 <tr>
 <td></td>
@@ -512,7 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтобинский</td>
-<td>300</td>
+<td>215</td>
 </tr>
 <tr>
 <td></td>
@@ -608,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>15687</td>
+<td>14972</td>
 </tr>
 <tr>
 <td></td>
@@ -624,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Аралтобинский</td>
-<td>500</td>
+<td>585</td>
 </tr>
 <tr>
 <td></td>
@@ -672,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/86064/rus/06.08.2015
 <td></td>
 <td></td>
 <td>Жымпитинский</td>
-<td>12867</td>
+<td>12067</td>
 </tr>
 <tr>
 <td></td>
