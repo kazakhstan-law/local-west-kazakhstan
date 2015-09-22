@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85772/kaz/05.08.2015
+source: https://zan.gov.kz/client/#!/doc/85772/kaz/22.09.2015
 ---
 
 > *Орал қалалық мәслихатының*  
