@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96881/kaz/08.04.2016
+source: https://zan.gov.kz/client/#!/doc/96881/kaz/22.07.2016
 ---
 
 > *2015 жылғы 14 желтоқсандағы Батыс Қазақстан облыстық мәслихаттың №29-2 шешіміне*  
