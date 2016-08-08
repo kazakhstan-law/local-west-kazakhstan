@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98162/kaz/29.04.2016
+source: https://zan.gov.kz/client/#!/doc/98162/kaz/08.08.2016
 ---
 
 > *2015 жылғы 25 желтоқсандағы №32-2 Теректі аудандық мәслихатының шешіміне*  
