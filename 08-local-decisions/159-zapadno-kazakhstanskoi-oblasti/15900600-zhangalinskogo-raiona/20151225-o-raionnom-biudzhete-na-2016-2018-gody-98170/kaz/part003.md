@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98170/kaz/10.08.2016
+source: https://zan.gov.kz/client/#!/doc/98170/kaz/28.09.2016
 ---
 
 > *Аудандық мәслихаттың 2015 жылғы*  
