@@ -1,13 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
+source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.10.2016
 ---
 
-> *Казталов аудандық мәслихатының 2015 жылғы 24 желтоқсандағы №39-6 шешіміне 5-қосымша*
+> *Казталов аудандық мәслихатының*  
+> *2015 жылғы 24 желтоқсандағы*  
+> *№ 39 - 6 шешіміне 5 – қосымша*
 
 # Казталов ауданының ауылдық округтерінің 2016 жылға арналған бюджеттік бағдарламалары
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихатының 05.08.2016 №5-3 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихатының 05.10.2016 №6-1 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 > *мың тенге*
 
@@ -52,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>254455</td>
+<td>261965</td>
 </tr>
 <tr>
 <td></td>
@@ -60,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>254455</td>
+<td>261965</td>
 </tr>
 <tr>
 <td></td>
@@ -68,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>254455</td>
+<td>261965</td>
 </tr>
 <tr>
 <td></td>
@@ -76,7 +78,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>254455</td>
+<td>261965</td>
 </tr>
 <tr>
 <td></td>
@@ -92,7 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>21104</td>
+<td>23319</td>
 </tr>
 <tr>
 <td></td>
@@ -100,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>15368</td>
+<td>15779</td>
 </tr>
 <tr>
 <td></td>
@@ -108,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Бостандық ауылдық округі</td>
-<td>15091</td>
+<td>15352</td>
 </tr>
 <tr>
 <td></td>
@@ -116,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>17993</td>
+<td>18086</td>
 </tr>
 <tr>
 <td></td>
@@ -124,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>13023</td>
+<td>13256</td>
 </tr>
 <tr>
 <td></td>
@@ -132,7 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>16764</td>
+<td>17026</td>
 </tr>
 <tr>
 <td></td>
@@ -140,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>13078</td>
+<td>13205</td>
 </tr>
 <tr>
 <td></td>
@@ -156,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>25219</td>
+<td>25951</td>
 </tr>
 <tr>
 <td></td>
@@ -164,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>15235</td>
+<td>16127</td>
 </tr>
 <tr>
 <td></td>
@@ -172,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>13957</td>
+<td>14090</td>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>13803</td>
+<td>13993</td>
 </tr>
 <tr>
 <td></td>
@@ -188,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>13352</td>
+<td>13930</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>16263</td>
+<td>16496</td>
 </tr>
 <tr>
 <td></td>
@@ -204,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>15812</td>
+<td>16870</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>14320</td>
+<td>14412</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td>022</td>
 <td>Мемлекеттiк органның күрделі шығыстары</td>
-<td>34220</td>
+<td>34300</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>23494</td>
+<td>23794</td>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>2750</td>
+<td>2530</td>
 </tr>
 <tr>
 <td>05</td>
@@ -412,7 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>56951</td>
+<td>57621</td>
 </tr>
 <tr>
 <td></td>
@@ -420,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>56951</td>
+<td>57621</td>
 </tr>
 <tr>
 <td></td>
@@ -428,7 +430,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>56951</td>
+<td>57621</td>
 </tr>
 <tr>
 <td></td>
@@ -436,7 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>26845</td>
+<td>27249</td>
 </tr>
 <tr>
 <td></td>
@@ -500,7 +502,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>700</td>
+<td>754</td>
 </tr>
 <tr>
 <td></td>
@@ -516,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Жалпақтал ауылдық округі</td>
-<td>4915</td>
+<td>5265</td>
 </tr>
 <tr>
 <td></td>
@@ -684,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>24650</td>
+<td>24916</td>
 </tr>
 <tr>
 <td></td>
@@ -700,7 +702,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Казталов ауылдық округі</td>
-<td>12230</td>
+<td>12496</td>
 </tr>
 <tr>
 <td></td>
@@ -828,7 +830,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>34503</td>
+<td>34205</td>
 </tr>
 <tr>
 <td></td>
@@ -836,7 +838,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>34503</td>
+<td>34205</td>
 </tr>
 <tr>
 <td></td>
@@ -844,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>34503</td>
+<td>34205</td>
 </tr>
 <tr>
 <td></td>
@@ -852,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>34503</td>
+<td>34205</td>
 </tr>
 <tr>
 <td></td>
@@ -884,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>2896</td>
+<td>2889</td>
 </tr>
 <tr>
 <td></td>
@@ -916,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/97518/kaz/05.08.2016
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>1482</td>
+<td>1191</td>
 </tr>
 <tr>
 <td></td>
