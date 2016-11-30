@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98173/kaz/31.10.2016
+source: https://zan.gov.kz/client/#!/doc/98173/kaz/30.11.2016
 ---
 
 > *Жәнібек аудандық мәслихаттың 2015 жылғы 25 желтоқсандағы №41-1 шешіміне 3-қосымша*
