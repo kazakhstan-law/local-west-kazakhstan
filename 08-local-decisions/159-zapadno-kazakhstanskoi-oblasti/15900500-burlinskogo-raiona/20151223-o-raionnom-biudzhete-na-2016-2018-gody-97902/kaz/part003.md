@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97902/kaz/06.10.2016
+source: https://zan.gov.kz/client/#!/doc/97902/kaz/02.12.2016
 ---
 
 > *Бөрлі аудандық мәслихаттың 2015 жылғы 23 желтоқсандағы №32-3 шешіміне 3-қосымша*
