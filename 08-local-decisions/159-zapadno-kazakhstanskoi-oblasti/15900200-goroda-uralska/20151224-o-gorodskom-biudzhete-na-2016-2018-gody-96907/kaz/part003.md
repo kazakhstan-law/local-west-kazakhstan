@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96907/kaz/28.09.2016
+source: https://zan.gov.kz/client/#!/doc/96907/kaz/05.12.2016
 ---
 
 > *Орал қалалық мәслихатының 2015 жылғы 24 желтоқсандағы № 40-3 шешіміне*  
