@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
+source: https://zan.gov.kz/client/#!/doc/109095/kaz/08.06.2017
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
@@ -1915,6 +1915,8 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 
 # 2017 жылға арналған Қаратөбе ауданы бойынша ауылдық округтер әкімі аппаратының бюджеттік бағдарламаларының тізбесі
 
+> *Ескерту. 5-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 08.06.2017 № 11-3 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td>№</td>
@@ -1932,7 +1934,7 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <tr>
 <td>1</td>
 <td>Қаратөбе ауылдық округі</td>
-<td>25079</td>
+<td>25499</td>
 <td></td>
 <td>1445</td>
 <td></td>
@@ -1940,12 +1942,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td>5000</td>
-<td>38944</td>
+<td>39364</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Аққозы ауылдық округі</td>
-<td>11371</td>
+<td>11791</td>
 <td>58</td>
 <td></td>
 <td></td>
@@ -1953,12 +1955,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td>11737</td>
+<td>12157</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Егіндікөл ауылдық округі</td>
-<td>14062</td>
+<td>14482</td>
 <td>55</td>
 <td></td>
 <td></td>
@@ -1966,12 +1968,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td>11355</td>
-<td>25847</td>
+<td>26267</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Жусандой ауылдық округі</td>
-<td>13613</td>
+<td>14033</td>
 <td>63</td>
 <td></td>
 <td></td>
@@ -1979,12 +1981,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td>14190</td>
+<td>14610</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Қаракөл ауылдық округі</td>
-<td>12377</td>
+<td>12797</td>
 <td>59</td>
 <td></td>
 <td></td>
@@ -1992,12 +1994,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td>12778</td>
+<td>13198</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Қоскөл ауылдық округі</td>
-<td>12022</td>
+<td>12442</td>
 <td>59</td>
 <td></td>
 <td></td>
@@ -2005,12 +2007,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td>12761</td>
+<td>13181</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Саралжын ауылдық округі</td>
-<td>14503</td>
+<td>14923</td>
 <td>62</td>
 <td></td>
 <td></td>
@@ -2018,12 +2020,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td></td>
 <td></td>
 <td></td>
-<td>15212</td>
+<td>15632</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Сулыкөл ауылдық округі</td>
-<td>14820</td>
+<td>15240</td>
 <td>65</td>
 <td></td>
 <td></td>
@@ -2031,12 +2033,12 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td>86</td>
 <td></td>
 <td></td>
-<td>15541</td>
+<td>15961</td>
 </tr>
 <tr>
 <td></td>
 <td>Жиыны:</td>
-<td>117847</td>
+<td>121207</td>
 <td>421</td>
 <td>1445</td>
 <td></td>
@@ -2044,6 +2046,6 @@ source: https://zan.gov.kz/client/#!/doc/109095/kaz/14.03.2017
 <td>86</td>
 <td></td>
 <td>16355</td>
-<td>147010</td>
+<td>150370</td>
 </tr>
 </table>
