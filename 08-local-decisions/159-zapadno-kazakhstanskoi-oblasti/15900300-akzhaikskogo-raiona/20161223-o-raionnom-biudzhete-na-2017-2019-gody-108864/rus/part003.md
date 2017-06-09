@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108864/rus/10.03.2017
+source: https://zan.gov.kz/client/#!/doc/108864/rus/09.06.2017
 ---
 
 > *Приложение 3 к решению Акжаикского районного маслихата*  
