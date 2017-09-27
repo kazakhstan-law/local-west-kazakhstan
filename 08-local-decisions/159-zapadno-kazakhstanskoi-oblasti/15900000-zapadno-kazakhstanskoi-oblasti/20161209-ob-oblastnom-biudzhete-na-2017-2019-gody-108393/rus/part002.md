@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108393/rus/01.06.2017
+source: https://zan.gov.kz/client/#!/doc/108393/rus/27.09.2017
 ---
 
 > *Приложение 2*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108393/rus/01.06.2017
 > *маслихата*  
 > *от 9 декабря 2016 года №8-2*
 
-# Областной бюджет на 2018 год
+## Областной бюджет на 2018 год
 
 <table>
 <tr>
