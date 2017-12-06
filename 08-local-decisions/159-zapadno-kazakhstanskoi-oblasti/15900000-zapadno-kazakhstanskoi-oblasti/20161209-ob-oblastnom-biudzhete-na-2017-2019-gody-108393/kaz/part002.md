@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108393/kaz/27.09.2017
+source: https://zan.gov.kz/client/#!/doc/108393/kaz/06.12.2017
 ---
 
 > *2016 жылғы 9 желтоқсандағы*  
