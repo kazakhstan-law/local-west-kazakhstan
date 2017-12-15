@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109014/kaz/17.10.2017
+source: https://zan.gov.kz/client/#!/doc/109014/kaz/15.12.2017
 ---
 
 > *2016 жылғы 23 желтоқсандағы № 7-1*  
