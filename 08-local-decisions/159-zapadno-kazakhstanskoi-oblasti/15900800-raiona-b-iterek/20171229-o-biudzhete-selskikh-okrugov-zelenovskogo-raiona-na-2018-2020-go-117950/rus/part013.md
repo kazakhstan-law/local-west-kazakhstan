@@ -1,13 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
+source: https://zan.gov.kz/client/#!/doc/117950/rus/26.02.2018
 ---
 
 > *Приложение 13*  
-> *к решению Зеленовского районного маслихата*  
+> *к решению Зеленовского*  
+> *районного маслихата*  
 > *от 29 декабря 2017 года 16-2*
 
 ## Бюджет Мичуринского сельского округа на 2018 год
+
+> *Сноска. Приложение 13 - в редакции решения Зеленовского районного маслихата Западно-Казахстанской области от 26.02.2018 № 19-2 (вводится в действие с 1 января 2018 года).*
 
 > *тысяч тенге*
 
@@ -55,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Налоговые поступления</td>
-<td>29 294</td>
+<td>21 504</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Подоходный налог</td>
-<td>12 653</td>
+<td>4 863</td>
 </tr>
 <tr>
 <td></td>
@@ -73,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td>12 653</td>
+<td>4 863</td>
 </tr>
 <tr>
 <td></td>
@@ -154,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td></td>
@@ -163,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td></td>
@@ -172,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/rus/29.12.2017
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td colspan="15">Функциональная группа</td>

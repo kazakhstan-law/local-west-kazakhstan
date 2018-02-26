@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
+source: https://zan.gov.kz/client/#!/doc/117950/kaz/26.02.2018
 ---
 
 > *Зеленов аудандық мәслихатының*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 > *13-қосымша*
 
 ## 2018 жылға арналған Мичурин ауылдық округінің бюджеті
+
+> *Ескерту. 13-қосымша жаңа редакцияда - Батыс Қазақстан облысы Зеленов аудандық мәслихатының 26.02.2018 № 19-2 шешімімен (2018 жылғы 1 қаңтардан бастап қолданысқа енгізіледі).*
 
 > *мың теңге*
 
@@ -56,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>29 294</td>
+<td>21 504</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -65,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td>12 653</td>
+<td>4 863</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -74,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>12 653</td>
+<td>4 863</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -155,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -164,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -173,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/117950/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>0</td>
+<td>7 790</td>
 </tr>
 <tr>
 <td colspan="13">Функционалдық топ</td>
