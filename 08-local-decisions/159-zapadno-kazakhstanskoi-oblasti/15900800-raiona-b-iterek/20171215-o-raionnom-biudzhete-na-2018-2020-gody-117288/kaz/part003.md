@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117288/kaz/09.02.2018
+source: https://zan.gov.kz/client/#!/doc/117288/kaz/28.03.2018
 ---
 
 > *Зеленов аудандық мәслихатының*  
