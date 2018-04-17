@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
+source: https://zan.gov.kz/client/#!/doc/118057/kaz/17.04.2018
 ---
 
 > *2017 жылғы 29 желтоқсандағы*  
@@ -1944,12 +1944,13 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 </tr>
 </table>
 
-> *2017 жылғы 29 желтоқсандағы*  
-> *аудандық мәслихаттың*  
-> *№ 18-1 шешіміне*  
-> *13-қосымша*
+> *Аудандық мәслихаттың*  
+> *17 жылғы 29 желтоқсандағы*  
+> *№ 18-1 шешіміне 13-қосымша*
 
 ## 2018 жылға арналған Мастексай ауылдық округінің бюджеті
+
+> *Ескерту. 13-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 17.04.2018 № 21-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1992,7 +1993,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>27 296</td>
+<td>27 646</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2088,7 +2089,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>24 486</td>
+<td>24 836</td>
 </tr>
 <tr>
 <td></td>
@@ -2096,7 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>24 486</td>
+<td>24 836</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2105,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>24 486</td>
+<td>24 836</td>
 </tr>
 </table>
 
@@ -2159,7 +2160,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>27 296</td>
+<td>27 646</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2168,7 +2169,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>14 164</td>
+<td>14 514</td>
 </tr>
 <tr>
 <td></td>
@@ -2177,7 +2178,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>14 164</td>
+<td>14 514</td>
 </tr>
 <tr>
 <td></td>
@@ -2186,7 +2187,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 164</td>
+<td>14 514</td>
 </tr>
 <tr>
 <td></td>
@@ -2195,7 +2196,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2">001</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>14 164</td>
+<td>14 514</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2390,6 +2391,48 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td>0</td>
 </tr>
 <tr>
+<td colspan="9">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="8">Функционалдық кіші топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Қаржы активтерін сатып алу</td>
+<td>0</td>
+</tr>
+<tr>
 <td colspan="9">Санаты</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
@@ -2527,6 +2570,48 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/29.12.2017
 <td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органы алатын қарыздар</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="9">Функционалдық топ</td>
+<td rowspan="5">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="8">Функционалдық кіші топ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="3">5</th>
+<th>6</th>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Қарыздарды өтеу</td>
 <td>0</td>
 </tr>
 <tr>
