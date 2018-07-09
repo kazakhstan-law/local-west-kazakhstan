@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117327/kaz/27.03.2018
+source: https://zan.gov.kz/client/#!/doc/117327/kaz/09.07.2018
 ---
 
 > *Жәнібек аудандық мәслихаттың 2017 жылғы*  
