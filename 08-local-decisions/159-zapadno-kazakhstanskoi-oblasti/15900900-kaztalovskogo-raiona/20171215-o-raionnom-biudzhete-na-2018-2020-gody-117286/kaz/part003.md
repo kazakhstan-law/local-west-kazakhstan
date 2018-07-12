@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
+source: https://zan.gov.kz/client/#!/doc/117286/kaz/12.07.2018
 ---
 
 > *Казталов аудандық мәслихатының*  
@@ -1939,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 
 ## Казталов ауданының ауылдық округтерінің 2018 жылға арналған бюджеттік бағдарламалары
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихатының 30.03.2018 № 20-4 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Батыс Қазақстан облысы Казталов аудандық мәслихатының 12.07.2018 № 23-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 > *мың тенге*
 
@@ -1984,7 +1984,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -1992,7 +1992,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2008,7 +2008,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2024,7 +2024,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>13985</td>
+<td>14179</td>
 </tr>
 <tr>
 <td></td>
@@ -2032,7 +2032,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>16761</td>
+<td>16915</td>
 </tr>
 <tr>
 <td></td>
@@ -2040,7 +2040,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>16272</td>
+<td>16768</td>
 </tr>
 <tr>
 <td></td>
@@ -2048,7 +2048,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қайынды ауылдық округі</td>
-<td>14904</td>
+<td>15759</td>
 </tr>
 <tr>
 <td></td>
@@ -2056,7 +2056,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>19061</td>
+<td>19472</td>
 </tr>
 <tr>
 <td></td>
@@ -2064,7 +2064,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>14258</td>
+<td>15032</td>
 </tr>
 <tr>
 <td></td>
@@ -2072,7 +2072,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>15592</td>
+<td>16193</td>
 </tr>
 <tr>
 <td></td>
@@ -2080,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>13753</td>
+<td>13975</td>
 </tr>
 <tr>
 <td></td>
@@ -2088,7 +2088,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>16444</td>
+<td>16766</td>
 </tr>
 <tr>
 <td></td>
@@ -2096,7 +2096,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>14511</td>
+<td>14795</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қарасу ауылдық округі</td>
-<td>15424</td>
+<td>16408</td>
 </tr>
 <tr>
 <td></td>
@@ -2112,7 +2112,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Көктерек ауылдық округі</td>
-<td>17918</td>
+<td>18601</td>
 </tr>
 <tr>
 <td></td>
@@ -2120,7 +2120,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>15789</td>
+<td>16126</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2256,7 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2264,7 +2264,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2272,7 +2272,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2280,7 +2280,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12904</td>
+<td>12463</td>
 </tr>
 <tr>
 <td></td>
@@ -2296,7 +2296,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Бірік ауылдық округі</td>
-<td>678</td>
+<td>639</td>
 </tr>
 <tr>
 <td></td>
@@ -2304,7 +2304,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>850</td>
+<td>1048</td>
 </tr>
 <tr>
 <td></td>
@@ -2312,7 +2312,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>522</td>
+<td>503</td>
 </tr>
 <tr>
 <td></td>
@@ -2336,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>704</td>
+<td>655</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Ақпәтер ауылдық округі</td>
-<td>750</td>
+<td>603</td>
 </tr>
 <tr>
 <td></td>
@@ -2360,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Талдықұдық ауылдық округі</td>
-<td>682</td>
+<td>613</td>
 </tr>
 <tr>
 <td></td>
@@ -2368,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>1093</td>
+<td>1073</td>
 </tr>
 <tr>
 <td></td>
@@ -2392,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>2245</td>
+<td>1949</td>
 </tr>
 <tr>
 <td></td>
@@ -2400,7 +2400,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2564</td>
+<td>8301</td>
 </tr>
 <tr>
 <td></td>
@@ -2432,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараоба ауылдық округі</td>
-<td>200</td>
+<td>615</td>
 </tr>
 <tr>
 <td></td>
@@ -2448,7 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қошанкөл ауылдық округі</td>
-<td>200</td>
+<td>546</td>
 </tr>
 <tr>
 <td></td>
@@ -2456,7 +2456,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Тереңкөл ауылдық округі</td>
-<td>214</td>
+<td>990</td>
 </tr>
 <tr>
 <td></td>
@@ -2488,7 +2488,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапан ауылдық округі</td>
-<td>200</td>
+<td>2500</td>
 </tr>
 <tr>
 <td></td>
@@ -2512,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Қараөзен ауылдық округі</td>
-<td>200</td>
+<td>2100</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2520,7 +2520,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2528,7 +2528,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2536,7 +2536,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2544,7 +2544,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2568,7 +2568,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>442</td>
+<td>437</td>
 </tr>
 <tr>
 <td></td>
@@ -2664,7 +2664,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2672,7 +2672,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2680,15 +2680,15 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>040</td>
-<td>«Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>41279</td>
+<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2704,7 +2704,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Болашақ ауылдық округі</td>
-<td>9102</td>
+<td>8402</td>
 </tr>
 <tr>
 <td></td>
@@ -2720,7 +2720,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/kaz/30.03.2018
 <td></td>
 <td></td>
 <td>Жаңажол ауылдық округі</td>
-<td>7576</td>
+<td>6777</td>
 </tr>
 <tr>
 <td></td>

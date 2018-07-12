@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
+source: https://zan.gov.kz/client/#!/doc/117286/rus/12.07.2018
 ---
 
 > *Приложение 3*  
@@ -1939,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 
 ## Бюджетные программы сельских округов Казталовского района на 2018 год
 
-> *Сноска. Приложение 6 - в редакции решения Казталовского районного маслихата Западно-Казахстанской области от 30.03.2018 № 20-4 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 6 - в редакции решения Казталовского районного маслихата Западно-Казахстанской области от 12.07.2018 № 23-1 (вводится в действие с 01.01.2018).*
 
 > *тысяч тенге*
 
@@ -1984,7 +1984,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -1992,7 +1992,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2000,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2008,7 +2008,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>204672</td>
+<td>210989</td>
 </tr>
 <tr>
 <td></td>
@@ -2024,7 +2024,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Брикский сельский округ</td>
-<td>13985</td>
+<td>14179</td>
 </tr>
 <tr>
 <td></td>
@@ -2032,7 +2032,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>16761</td>
+<td>16915</td>
 </tr>
 <tr>
 <td></td>
@@ -2040,7 +2040,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караубинский сельский округ</td>
-<td>16272</td>
+<td>16768</td>
 </tr>
 <tr>
 <td></td>
@@ -2048,7 +2048,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Каиндинский сельский округ</td>
-<td>14904</td>
+<td>15759</td>
 </tr>
 <tr>
 <td></td>
@@ -2056,7 +2056,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Кушанкульский сельский округ</td>
-<td>19061</td>
+<td>19472</td>
 </tr>
 <tr>
 <td></td>
@@ -2064,7 +2064,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Теренкульский сельский округ</td>
-<td>14258</td>
+<td>15032</td>
 </tr>
 <tr>
 <td></td>
@@ -2072,7 +2072,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Жанажолский сельский округ</td>
-<td>15592</td>
+<td>16193</td>
 </tr>
 <tr>
 <td></td>
@@ -2080,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Акпатерский сельский округ</td>
-<td>13753</td>
+<td>13975</td>
 </tr>
 <tr>
 <td></td>
@@ -2088,7 +2088,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыкудукский сельский округ</td>
-<td>16444</td>
+<td>16766</td>
 </tr>
 <tr>
 <td></td>
@@ -2096,7 +2096,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапанский сельский округ</td>
-<td>14511</td>
+<td>14795</td>
 </tr>
 <tr>
 <td></td>
@@ -2104,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Карасуский сельский округ</td>
-<td>15424</td>
+<td>16408</td>
 </tr>
 <tr>
 <td></td>
@@ -2112,7 +2112,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Куктерекский сельский округ</td>
-<td>17918</td>
+<td>18601</td>
 </tr>
 <tr>
 <td></td>
@@ -2120,7 +2120,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караузеньский сельский округ</td>
-<td>15789</td>
+<td>16126</td>
 </tr>
 <tr>
 <td>05</td>
@@ -2256,7 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2264,7 +2264,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2272,7 +2272,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>15468</td>
+<td>20764</td>
 </tr>
 <tr>
 <td></td>
@@ -2280,7 +2280,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>12904</td>
+<td>12463</td>
 </tr>
 <tr>
 <td></td>
@@ -2296,7 +2296,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Брикский сельский округ</td>
-<td>678</td>
+<td>639</td>
 </tr>
 <tr>
 <td></td>
@@ -2304,7 +2304,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>850</td>
+<td>1048</td>
 </tr>
 <tr>
 <td></td>
@@ -2312,7 +2312,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караубинский сельский округ</td>
-<td>522</td>
+<td>503</td>
 </tr>
 <tr>
 <td></td>
@@ -2336,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Теренкульский сельский округ</td>
-<td>704</td>
+<td>655</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Акпатерский сельский округ</td>
-<td>750</td>
+<td>603</td>
 </tr>
 <tr>
 <td></td>
@@ -2360,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыкудукский сельский округ</td>
-<td>682</td>
+<td>613</td>
 </tr>
 <tr>
 <td></td>
@@ -2368,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапанский сельский округ</td>
-<td>1093</td>
+<td>1073</td>
 </tr>
 <tr>
 <td></td>
@@ -2392,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караузеньский сельский округ</td>
-<td>2245</td>
+<td>1949</td>
 </tr>
 <tr>
 <td></td>
@@ -2400,7 +2400,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2564</td>
+<td>8301</td>
 </tr>
 <tr>
 <td></td>
@@ -2432,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караубинский сельский округ</td>
-<td>200</td>
+<td>615</td>
 </tr>
 <tr>
 <td></td>
@@ -2448,7 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Кушанкульский сельский округ</td>
-<td>200</td>
+<td>546</td>
 </tr>
 <tr>
 <td></td>
@@ -2456,7 +2456,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Теренкульский сельский округ</td>
-<td>214</td>
+<td>990</td>
 </tr>
 <tr>
 <td></td>
@@ -2488,7 +2488,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Талдыапанский сельский округ</td>
-<td>200</td>
+<td>2500</td>
 </tr>
 <tr>
 <td></td>
@@ -2512,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Караузеньский сельский округ</td>
-<td>200</td>
+<td>2100</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2520,7 +2520,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2528,7 +2528,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2536,7 +2536,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2544,7 +2544,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td>3943</td>
+<td>3938</td>
 </tr>
 <tr>
 <td></td>
@@ -2568,7 +2568,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>442</td>
+<td>437</td>
 </tr>
 <tr>
 <td></td>
@@ -2664,7 +2664,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2672,7 +2672,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2680,7 +2680,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2688,7 +2688,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>41279</td>
+<td>39780</td>
 </tr>
 <tr>
 <td></td>
@@ -2704,7 +2704,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Болашакский сельский округ</td>
-<td>9102</td>
+<td>8402</td>
 </tr>
 <tr>
 <td></td>
@@ -2720,7 +2720,7 @@ source: https://zan.gov.kz/client/#!/doc/117286/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Жанажолский сельский округ</td>
-<td>7576</td>
+<td>6777</td>
 </tr>
 <tr>
 <td></td>
