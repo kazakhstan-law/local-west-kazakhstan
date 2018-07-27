@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
+source: https://zan.gov.kz/client/#!/doc/118057/rus/27.07.2018
 ---
 
 > *Приложение 1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 
 ## Бюджет Жангалинского сельского округа на 2018 год
 
-> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 17.04.2018 № 21-1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 27.07.2018 № 25-1 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Поступления</td>
-<td>46 776</td>
+<td>91 881</td>
 </tr>
 <tr>
 <td>1</td>
@@ -148,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>18 324</td>
+<td>63 429</td>
 </tr>
 <tr>
 <td></td>
@@ -156,7 +156,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>18 324</td>
+<td>63 429</td>
 </tr>
 <tr>
 <td></td>
@@ -164,7 +164,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>18 324</td>
+<td>63 429</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -216,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>46 776</td>
+<td>91 881</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>22 295</td>
+<td>22 441</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -234,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>22 295</td>
+<td>22 441</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>22 295</td>
+<td>22 441</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -252,7 +252,52 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>22 295</td>
+<td>22 441</td>
+</tr>
+<tr>
+<td colspan="3">04</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Образование</td>
+<td>42 959</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Дошкольное воспитание и обучение</td>
+<td>42 959</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">124</td>
+<td colspan="3"></td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>42 959</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">004</td>
+<td></td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>42 959</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>015</td>
+<td>За счет средств местного бюджета</td>
+<td>42 959</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -261,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>22 481</td>
+<td>24 481</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -297,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>20 981</td>
+<td>22 981</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -306,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20 981</td>
+<td>22 981</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -315,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">008</td>
 <td></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>6 984</td>
+<td>8 984</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2087,7 +2132,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 
 ## Бюджет Жанаказанского сельского округа на 2018 год
 
-> *Сноска. Приложение 4 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 17.04.2018 № 21-1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 4 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 27.07.2018 № 25-1 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -2130,7 +2175,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Поступления</td>
-<td>16 832</td>
+<td>24 321</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2226,7 +2271,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>13 581</td>
+<td>21 070</td>
 </tr>
 <tr>
 <td></td>
@@ -2234,7 +2279,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>13 581</td>
+<td>21 070</td>
 </tr>
 <tr>
 <td></td>
@@ -2242,7 +2287,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>13 581</td>
+<td>21 070</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -2294,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>16 832</td>
+<td>24 321</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -2303,7 +2348,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>15 282</td>
+<td>15 465</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2312,7 +2357,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>15 282</td>
+<td>15 465</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2321,7 +2366,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15 282</td>
+<td>15 465</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2330,7 +2375,52 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>15 282</td>
+<td>15 465</td>
+</tr>
+<tr>
+<td colspan="3">04</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Образование</td>
+<td>7 343</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Дошкольное воспитание и обучение</td>
+<td>7 343</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">124</td>
+<td colspan="3"></td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>7 343</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">004</td>
+<td></td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>7 343</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>015</td>
+<td>За счет средств местного бюджета</td>
+<td>7 343</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -2420,7 +2510,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>350</td>
+<td>313</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2429,7 +2519,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>350</td>
+<td>313</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2438,7 +2528,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>350</td>
+<td>313</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2447,7 +2537,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">013</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>350</td>
+<td>313</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4189,7 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 
 ## Бюджет Жанажолского сельского округа на 2018 год
 
-> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 17.04.2018 № 21-1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 27.07.2018 № 25-1 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -4232,7 +4322,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Поступления</td>
-<td>26 534</td>
+<td>23 480</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4328,7 +4418,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>24 692</td>
+<td>21 638</td>
 </tr>
 <tr>
 <td></td>
@@ -4336,7 +4426,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>24 692</td>
+<td>21 638</td>
 </tr>
 <tr>
 <td></td>
@@ -4344,7 +4434,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>24 692</td>
+<td>21 638</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -4396,7 +4486,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>26 534</td>
+<td>23 480</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -4405,7 +4495,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>13 493</td>
+<td>13 939</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4414,7 +4504,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>13 493</td>
+<td>13 939</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4423,7 +4513,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>13 493</td>
+<td>13 939</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4432,7 +4522,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>13 493</td>
+<td>13 939</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -4531,7 +4621,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>12 000</td>
+<td>8 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4540,7 +4630,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>12 000</td>
+<td>8 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4549,7 +4639,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>12 000</td>
+<td>8 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4558,7 +4648,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/17.04.2018
 <td colspan="3">040</td>
 <td></td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>12 000</td>
+<td>8 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
