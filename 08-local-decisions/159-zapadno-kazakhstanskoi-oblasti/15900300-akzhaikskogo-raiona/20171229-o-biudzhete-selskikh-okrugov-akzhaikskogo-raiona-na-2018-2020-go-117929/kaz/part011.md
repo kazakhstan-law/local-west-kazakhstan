@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
+source: https://zan.gov.kz/client/#!/doc/117929/kaz/08.11.2018
 ---
 
 > *Ақжайық аудандық мәслихатының 2017 жылғы*  
@@ -1469,12 +1469,13 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 </tr>
 </table>
 
-> *Ақжайық аудандық мәслихатының 2017 жылғы*  
-> *29 желтоқсандағы № 16-1 шешіміне 13-қосымша*
+> *2017 жылғы 29 желтоқсандағы № 16-1*  
+> *Ақжайық аудандық мәслихатының*  
+> *шешіміне 13-қосымша*
 
-## 2018 жылға арналған Тайпақ ауылдық округінің бюджеті
+# 2018 жылға арналған Тайпақ ауылдық округінің бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 20.07.2018 № 22-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 13-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 08.11.2018 № 26-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1521,7 +1522,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>117909</td>
+<td>124409</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1585,7 +1586,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Салықтық емес түсімдер</td>
-<td>0</td>
+<td>3500</td>
 </tr>
 <tr>
 <td></td>
@@ -1602,6 +1603,22 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td></td>
+<td>Басқа да салықтық емес түсімдер</td>
+<td>3500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>17</td>
+<td></td>
+<td>Жергілікті өзін-өзі басқарудың қолма-қол ақшаны бақылау шотынан қаражат қалдықтарының түсімдері</td>
+<td>3500</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1633,7 +1650,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>104334</td>
+<td>107334</td>
 </tr>
 <tr>
 <td></td>
@@ -1641,7 +1658,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>104334</td>
+<td>107334</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,7 +1666,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>3</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
-<td>104334</td>
+<td>107334</td>
 </tr>
 </table>
 
@@ -1698,7 +1715,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>117909</td>
+<td colspan="2">124409</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1706,7 +1723,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>36685</td>
+<td colspan="2">41085</td>
 </tr>
 <tr>
 <td></td>
@@ -1714,7 +1731,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>36685</td>
+<td colspan="2">41085</td>
 </tr>
 <tr>
 <td></td>
@@ -1722,7 +1739,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36685</td>
+<td colspan="2">41085</td>
 </tr>
 <tr>
 <td></td>
@@ -1730,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>31085</td>
+<td colspan="2">34485</td>
 </tr>
 <tr>
 <td></td>
@@ -1738,7 +1755,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>5600</td>
+<td colspan="2">6600</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1746,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td>69569</td>
+<td colspan="2">69569</td>
 </tr>
 <tr>
 <td></td>
@@ -1754,7 +1771,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>69569</td>
+<td colspan="2">69569</td>
 </tr>
 <tr>
 <td></td>
@@ -1762,7 +1779,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>69569</td>
+<td colspan="2">69569</td>
 </tr>
 <tr>
 <td></td>
@@ -1770,7 +1787,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>69569</td>
+<td colspan="2">69569</td>
 </tr>
 <tr>
 <td></td>
@@ -1778,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>040</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1786,7 +1803,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>11655</td>
+<td colspan="2">13755</td>
 </tr>
 <tr>
 <td></td>
@@ -1794,7 +1811,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>11655</td>
+<td colspan="2">13755</td>
 </tr>
 <tr>
 <td></td>
@@ -1802,7 +1819,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11655</td>
+<td colspan="2">13755</td>
 </tr>
 <tr>
 <td></td>
@@ -1810,7 +1827,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>5430</td>
+<td colspan="2">7530</td>
 </tr>
 <tr>
 <td></td>
@@ -1818,7 +1835,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>725</td>
+<td colspan="2">725</td>
 </tr>
 <tr>
 <td></td>
@@ -1826,7 +1843,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>5500</td>
+<td colspan="2">5500</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1834,7 +1851,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1842,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Басқарлар</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1850,7 +1867,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1858,7 +1875,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>040</td>
 <td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1866,7 +1883,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>3) Таза бюджеттік кредиттеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1874,7 +1891,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -1920,7 +1937,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1928,7 +1945,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1936,7 +1953,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>4) Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1944,11 +1961,11 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Қаржы активтерін сатып алу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td colspan="2" rowspan="4">
 Сомасы,
 мың теңге
 </td>
@@ -1974,7 +1991,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th>1</th>
@@ -1990,7 +2007,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -1998,7 +2015,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2006,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2014,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -2060,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Қарыздар түсімдері</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2068,11 +2085,11 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td colspan="2" rowspan="4">
 Сомасы,
 мың теңге
 </td>
@@ -2098,7 +2115,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2106,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
+<th colspan="2">6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -2114,7 +2131,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2122,11 +2139,11 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
+<td colspan="2" rowspan="4">
 Сомасы,
 мың теңге
 </td>
@@ -2152,7 +2169,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2160,7 +2177,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
+<th colspan="2">6</th>
 </tr>
 <tr>
 <td>8</td>
@@ -2168,7 +2185,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2176,7 +2193,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -2184,7 +2201,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -3606,12 +3623,13 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 </tr>
 </table>
 
-> *Ақжайық аудандық мәслихатының 2017 жылғы*  
-> *29 желтоқсандағы № 16-1 шешіміне 16-қосымша*
+> *2017 жылғы 29 желтоқсандағы № 16-1*  
+> *Ақжайық аудандық мәслихатының*  
+> *шешіміне 16-қосымша*
 
 ## 2018 жылға арналған Чапаев ауылдық округінің бюджеті
 
-> *Ескерту. 16-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 20.07.2018 № 22-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 16-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 08.11.2018 № 26-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -3658,7 +3676,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>211287</td>
+<td>211774</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3770,7 +3788,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>180530</td>
+<td>181017</td>
 </tr>
 <tr>
 <td></td>
@@ -3778,7 +3796,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>180530</td>
+<td>181017</td>
 </tr>
 <tr>
 <td></td>
@@ -3786,7 +3804,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>3</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
-<td>180530</td>
+<td>181017</td>
 </tr>
 </table>
 
@@ -3835,7 +3853,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td colspan="2">211287</td>
+<td colspan="2">211774</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3843,7 +3861,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">71170</td>
+<td colspan="2">69221</td>
 </tr>
 <tr>
 <td></td>
@@ -3851,7 +3869,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">71170</td>
+<td colspan="2">69221</td>
 </tr>
 <tr>
 <td></td>
@@ -3859,7 +3877,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">71170</td>
+<td colspan="2">69221</td>
 </tr>
 <tr>
 <td></td>
@@ -3867,7 +3885,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">35118</td>
+<td colspan="2">38569</td>
 </tr>
 <tr>
 <td></td>
@@ -3883,7 +3901,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="2">22000</td>
+<td colspan="2">16600</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3891,7 +3909,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td colspan="2">104067</td>
+<td colspan="2">105717</td>
 </tr>
 <tr>
 <td></td>
@@ -3899,7 +3917,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">101167</td>
+<td colspan="2">102429</td>
 </tr>
 <tr>
 <td></td>
@@ -3907,7 +3925,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">101167</td>
+<td colspan="2">102429</td>
 </tr>
 <tr>
 <td></td>
@@ -3915,7 +3933,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">101167</td>
+<td colspan="2">102429</td>
 </tr>
 <tr>
 <td></td>
@@ -3931,7 +3949,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td colspan="2">2900</td>
+<td colspan="2">3288</td>
 </tr>
 <tr>
 <td></td>
@@ -3939,7 +3957,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">2900</td>
+<td colspan="2">3288</td>
 </tr>
 <tr>
 <td></td>
@@ -3947,7 +3965,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td colspan="2">2900</td>
+<td colspan="2">3288</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3955,7 +3973,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">33054</td>
+<td colspan="2">30294</td>
 </tr>
 <tr>
 <td></td>
@@ -3987,7 +4005,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td colspan="2">31304</td>
+<td colspan="2">28544</td>
 </tr>
 <tr>
 <td></td>
@@ -3995,7 +4013,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">31304</td>
+<td colspan="2">28544</td>
 </tr>
 <tr>
 <td></td>
@@ -4003,7 +4021,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">16050</td>
+<td colspan="2">19050</td>
 </tr>
 <tr>
 <td></td>
@@ -4011,7 +4029,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">1801</td>
+<td colspan="2">1451</td>
 </tr>
 <tr>
 <td></td>
@@ -4019,7 +4037,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td colspan="2">13453</td>
+<td colspan="2">8043</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4027,7 +4045,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td colspan="2">2996</td>
+<td colspan="2">6542</td>
 </tr>
 <tr>
 <td></td>
@@ -4035,7 +4053,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td colspan="2">2996</td>
+<td colspan="2">6542</td>
 </tr>
 <tr>
 <td></td>
@@ -4043,7 +4061,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">2996</td>
+<td colspan="2">6542</td>
 </tr>
 <tr>
 <td></td>
@@ -4051,7 +4069,7 @@ source: https://zan.gov.kz/client/#!/doc/117929/kaz/20.07.2018
 <td></td>
 <td>040</td>
 <td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td colspan="2">2996</td>
+<td colspan="2">6542</td>
 </tr>
 <tr>
 <td></td>
