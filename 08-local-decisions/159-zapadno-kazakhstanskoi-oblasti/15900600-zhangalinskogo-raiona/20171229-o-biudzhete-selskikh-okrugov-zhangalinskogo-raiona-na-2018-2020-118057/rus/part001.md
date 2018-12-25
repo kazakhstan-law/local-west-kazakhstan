@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
+source: https://zan.gov.kz/client/#!/doc/118057/rus/25.12.2018
 ---
 
 > *Приложение 1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 
 ## Бюджет Жангалинского сельского округа на 2018 год
 
-> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 08.11.2018 № 28-1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 25.12.2018 № 29-3 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -39,19 +39,19 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="4">1) Поступления</td>
+<td colspan="4">1) Доходы</td>
 <td>97 637</td>
 </tr>
 <tr>
@@ -201,13 +201,13 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -234,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td colspan="3">04</td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>26 553</td>
+<td>25 433</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -342,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>25 453</td>
+<td>24 333</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -351,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>25 453</td>
+<td>24 333</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">008</td>
 <td></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>14 984</td>
+<td>14 617</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -369,7 +369,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>10 469</td>
+<td>9 716</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -378,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -387,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -396,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -405,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">013</td>
 <td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -452,12 +452,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -518,12 +518,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -560,12 +560,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -634,12 +634,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -700,12 +700,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -742,12 +742,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -4279,7 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 
 ## Бюджет Жанажолского сельского округа на 2018 год
 
-> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 08.11.2018 № 28-1 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 25.12.2018 № 29-3 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -4309,19 +4309,19 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="4">1) Поступления</td>
+<td colspan="4">1) Доходы</td>
 <td>23 685</td>
 </tr>
 <tr>
@@ -4471,13 +4471,13 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4495,7 +4495,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4504,7 +4504,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4513,7 +4513,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4522,7 +4522,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -4531,7 +4531,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4540,7 +4540,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4549,7 +4549,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4558,7 +4558,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">008</td>
 <td></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>541</td>
+<td>821</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4695,12 +4695,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -4761,12 +4761,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4803,12 +4803,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -4877,12 +4877,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -4943,12 +4943,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -4985,12 +4985,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/rus/08.11.2018
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>

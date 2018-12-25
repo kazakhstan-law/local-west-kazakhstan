@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
+source: https://zan.gov.kz/client/#!/doc/118057/kaz/25.12.2018
 ---
 
 > *Аудандық мәслихаттың*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 
 ## 2018 жылға арналған Жаңақала ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 08.11.2018 № 28-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 25.12.2018 № 29-3 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -39,12 +39,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -204,13 +204,13 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td></td>
@@ -237,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td></td>
@@ -246,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td></td>
@@ -255,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">001</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>23 884</td>
+<td>25 036</td>
 </tr>
 <tr>
 <td>04</td>
@@ -309,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>26 553</td>
+<td>25 433</td>
 </tr>
 <tr>
 <td></td>
@@ -345,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>25 453</td>
+<td>24 333</td>
 </tr>
 <tr>
 <td></td>
@@ -354,7 +354,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25 453</td>
+<td>24 333</td>
 </tr>
 <tr>
 <td></td>
@@ -363,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">008</td>
 <td></td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>14 984</td>
+<td>14 617</td>
 </tr>
 <tr>
 <td></td>
@@ -372,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">011</td>
 <td></td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>10 469</td>
+<td>9 716</td>
 </tr>
 <tr>
 <td>12</td>
@@ -381,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td></td>
@@ -390,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td></td>
@@ -399,7 +399,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td></td>
@@ -408,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">013</td>
 <td></td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>1 990</td>
+<td>1 958</td>
 </tr>
 <tr>
 <td></td>
@@ -455,12 +455,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -521,12 +521,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -563,12 +563,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -637,12 +637,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -703,12 +703,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -745,12 +745,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4286,7 +4286,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 
 ## 2018 жылға арналған Жаңажол ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 08.11.2018 № 28-1 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 25.12.2018 № 29-3 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -4316,12 +4316,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4481,13 +4481,13 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td></td>
@@ -4505,7 +4505,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td></td>
@@ -4514,7 +4514,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td></td>
@@ -4523,7 +4523,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td></td>
@@ -4532,7 +4532,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">001</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>14 144</td>
+<td>13 864</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4541,7 +4541,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td></td>
@@ -4550,7 +4550,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td></td>
@@ -4559,7 +4559,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2"></td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>841</td>
+<td>1 121</td>
 </tr>
 <tr>
 <td></td>
@@ -4568,7 +4568,7 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="2">008</td>
 <td></td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>541</td>
+<td>821</td>
 </tr>
 <tr>
 <td></td>
@@ -4705,12 +4705,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4771,12 +4771,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4813,12 +4813,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4887,12 +4887,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4953,12 +4953,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4995,12 +4995,12 @@ source: https://zan.gov.kz/client/#!/doc/118057/kaz/08.11.2018
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
