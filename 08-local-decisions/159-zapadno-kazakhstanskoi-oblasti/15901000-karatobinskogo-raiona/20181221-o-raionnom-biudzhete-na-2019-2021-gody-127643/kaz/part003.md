@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
+source: https://zan.gov.kz/client/#!/doc/127643/kaz/15.03.2019
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
@@ -1822,6 +1822,8 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 
 ## 2019 жылға арналған Қаратөбе ауданы бойынша ауылдық округтер әкімі аппаратының бюджеттік бағдарламаларының тізбесі
 
+> *Ескерту. 5-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 15.03.2019 № 28-3 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td>№</td>
@@ -1839,7 +1841,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <tr>
 <td>1</td>
 <td>Аққозы ауылдық округі</td>
-<td>13347</td>
+<td>14263</td>
 <td>58</td>
 <td></td>
 <td></td>
@@ -1847,12 +1849,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>13904</td>
+<td>14820</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Егіндікөл ауылдық округі</td>
-<td>16255</td>
+<td>17336</td>
 <td>65</td>
 <td></td>
 <td></td>
@@ -1860,12 +1862,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>17084</td>
+<td>18165</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Жусандой ауылдық округі</td>
-<td>14510</td>
+<td>15621</td>
 <td>35</td>
 <td></td>
 <td></td>
@@ -1873,12 +1875,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>15165</td>
+<td>16276</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаракөл ауылдық округі</td>
-<td>14706</td>
+<td>16437</td>
 <td>70</td>
 <td></td>
 <td></td>
@@ -1886,12 +1888,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>15576</td>
+<td>17307</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Қоскөл ауылдық округі</td>
-<td>13409</td>
+<td>13747</td>
 <td>71</td>
 <td></td>
 <td></td>
@@ -1899,12 +1901,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>14395</td>
+<td>14733</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Саралжын ауылдық округі</td>
-<td>15344</td>
+<td>16438</td>
 <td>70</td>
 <td></td>
 <td></td>
@@ -1912,12 +1914,12 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td></td>
 <td></td>
-<td>16154</td>
+<td>17248</td>
 </tr>
 <tr>
 <td></td>
 <td>Жиыны:</td>
-<td>87571</td>
+<td>93842</td>
 <td>369</td>
 <td>0</td>
 <td>0</td>
@@ -1925,6 +1927,6 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>92278</td>
+<td>98549</td>
 </tr>
 </table>

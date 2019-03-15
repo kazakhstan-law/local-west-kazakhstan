@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
+source: https://zan.gov.kz/client/#!/doc/127643/kaz/15.03.2019
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 > *№ 24-4 шешіміне 1-қосымша*
 
 ## 2019 жылға арналған аудандық бюджет
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 15.03.2019 № 28-3 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -41,28 +43,28 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">1) Кірістер</td>
-<td>3581372</td>
+<td>3555109</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>242757</td>
+<td>217624</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td>101895</td>
+<td>77897</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>101895</td>
+<td>77897</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -118,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td>1588</td>
+<td>453</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -139,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
-<td>1255</td>
+<td>120</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -187,7 +189,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="3">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="3">Мұнай секторы ұйымдарынан және Жәбірленушілерге өтемақы қорына түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>930</td>
 </tr>
 <tr>
@@ -230,21 +232,21 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>3334870</td>
+<td>3333740</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3334870</td>
+<td>3333740</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>3334870</td>
+<td>3333740</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -286,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2) Шығындар</td>
-<td>3581372</td>
+<td>3563184</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -294,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>454036</td>
+<td>388033</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -302,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>305772</td>
+<td>200004</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -310,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>112</td>
 <td colspan="2"></td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) мәслихатының аппараты</td>
-<td>31379</td>
+<td>24151</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -318,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>31331</td>
+<td>23975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -326,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>48</td>
+<td>176</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -334,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>122</td>
 <td colspan="2"></td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>121269</td>
+<td>82011</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -342,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>121269</td>
+<td>82011</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -350,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>123</td>
 <td colspan="2"></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>153124</td>
+<td>93842</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -358,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>153124</td>
+<td>93842</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -390,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы өзге де мемлекеттік қызметтер</td>
-<td>147880</td>
+<td>187645</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -398,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>454</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік және ауыл шаруашылығы бөлімі</td>
-<td>27050</td>
+<td>16230</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -406,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде кәсіпкерлікті және ауыл шаруашылығын дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>27050</td>
+<td>16230</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -414,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>458</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>19494</td>
+<td>12470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -422,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>19494</td>
+<td>12470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -430,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>459</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>81336</td>
+<td>41185</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -438,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономикалық саясаттын қалыптастыру мен дамыту, мемлекеттік жоспарлау, бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>29366</td>
+<td>20012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -446,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Жергілікті бюджеттерден берілетін ағымдағы нысаналы трансферттер</td>
-<td>51970</td>
+<td>21173</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -454,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>466</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>20000</td>
+<td>117760</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -462,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">040</td>
 <td colspan="2">Мемлекеттік органдардың объектілерін дамыту</td>
-<td>20000</td>
+<td>117760</td>
 </tr>
 <tr>
 <td colspan="2">02</td>
@@ -566,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Білім беру</td>
-<td>1994017</td>
+<td>2062752</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -598,7 +600,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бастауыш, негізгі орта және жалпы орта бiлiм беру</td>
-<td>1835634</td>
+<td>1841159</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -622,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>1798964</td>
+<td>1804489</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -630,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Жалпы білім беру</td>
-<td>1692842</td>
+<td>1698367</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -646,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Білім беру саласындағы өзге де қызметтер</td>
-<td>103047</td>
+<td>166257</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -654,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>103047</td>
+<td>166257</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -662,7 +664,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде білім беру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>16674</td>
+<td>9471</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -678,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">005</td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) мемлекеттiк бiлiм беру мекемелер үшiн оқулықтар мен оқу-әдістемелік кешендерді сатып алу және жеткiзу</td>
-<td>21600</td>
+<td>84330</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -702,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">067</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>46970</td>
+<td>54653</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -742,7 +744,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>234267</td>
+<td>231355</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -790,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек</td>
-<td>175563</td>
+<td>184217</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -798,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>175563</td>
+<td>184217</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -806,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">002</td>
 <td colspan="2">Жұмыспен қамту бағдарламасы</td>
-<td>65571</td>
+<td>74225</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -830,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">010</td>
 <td colspan="2">Үйден тәрбиеленіп оқытылатын мүгедек балаларды материалдық қамтамасыз ету</td>
-<td>1818</td>
+<td>698</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -838,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">014</td>
 <td colspan="2">Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>24866</td>
+<td>25986</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -862,7 +864,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтік қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>30208</td>
+<td>18642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -870,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>30208</td>
+<td>18642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -878,7 +880,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде халық үшін әлеуметтік бағдарламаларды жұмыспен қамтуды қамтамасыз етуді іске асыру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>27899</td>
+<td>15933</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -887,6 +889,14 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2">011</td>
 <td colspan="2">Жәрдемақыларды және басқа да әлеуметтік төлемдерді есептеу, төлеу мен жеткізу бойынша қызметтерге ақы төлеу</td>
 <td>1215</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">021</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -902,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>21251</td>
+<td>35371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -910,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td>6413</td>
+<td>20533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -934,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>466</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>5913</td>
+<td>20033</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -942,7 +952,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
-<td>5913</td>
+<td>20033</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -990,7 +1000,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>352392</td>
+<td>337392</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1086,7 +1096,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>64296</td>
+<td>49296</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1094,7 +1104,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>456</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td>42871</td>
+<td>36968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1102,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде ақпарат, мемлекеттілікті нығайту және азаматтардың әлеуметтік сенімділігін қалыптастыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>24422</td>
+<td>14328</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1110,7 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Жастар саясаты саласында іс-шараларды iске асыру</td>
-<td>18449</td>
+<td>22640</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1118,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>457</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>21425</td>
+<td>12328</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1126,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде мәдениет, тілдерді дамыту, дене шынықтыру және спорт саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>21425</td>
+<td>12328</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1134,7 +1144,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>125751</td>
+<td>116467</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1142,7 +1152,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл шаруашылығы</td>
-<td>72105</td>
+<td>69956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1150,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>473</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
-<td>72105</td>
+<td>69956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1158,7 +1168,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде ветеринария саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>18640</td>
+<td>11235</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1190,14 +1200,14 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Эпизоотияға қарсы іс-шаралар жүргізу</td>
-<td>43864</td>
+<td>49120</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">032</td>
-<td colspan="2">Ведомоствалық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
 <td>3000</td>
 </tr>
 <tr>
@@ -1214,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жер қатынастары</td>
-<td>21567</td>
+<td>14432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1222,7 +1232,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>463</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td>21567</td>
+<td>14432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1230,7 +1240,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>21567</td>
+<td>14432</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1262,7 +1272,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>25324</td>
+<td>17088</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1270,7 +1280,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>25324</td>
+<td>17088</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1278,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>466</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>25324</td>
+<td>17088</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1286,7 +1296,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Құрылыс, облыс қалаларының, аудандарының және елді мекендерінің сәулеттік бейнесін жақсарту саласындағы мемлекеттік саясатты іске асыру және ауданның (облыстық маңызы бар қаланың) аумағын оңтайла және тиімді қала құрылыстық игеруді қамтамасыз ету жөніндегі қызметтер</td>
-<td>25324</td>
+<td>17088</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1390,7 +1400,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>334917</td>
+<td>335309</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1398,7 +1408,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>334917</td>
+<td>335309</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1406,7 +1416,15 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td>459</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>334917</td>
+<td>335309</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">006</td>
+<td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>392</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1677,7 +1695,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>-36250</td>
+<td>-44325</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1685,7 +1703,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>36250</td>
+<td>44325</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1817,7 +1835,7 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>8075</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1825,7 +1843,15 @@ source: https://zan.gov.kz/client/#!/doc/127643/kaz/21.12.2018
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>8075</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td></td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td>8075</td>
 </tr>
 </table>
 
