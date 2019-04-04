@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
+source: https://zan.gov.kz/client/#!/doc/128510/rus/04.04.2019
 ---
 
 > *Приложение 1*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 > *от 29 декабря 2018 года №23-1*
 
 ## Бюджет Сайхинского сельского округа на 2019 год
+
+> *Сноска. Приложение 1 - в редакции решения Бокейординского районного маслихата Западно-Казахстанской области от 04.04.2019 № 26-1 (вводится в действие с 01.01.2019).*
 
 > *(тысяч тенге)*
 
@@ -52,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="4">1) Доходы</td>
-<td>120 230</td>
+<td>106 110</td>
 </tr>
 <tr>
 <td>1</td>
@@ -107,7 +109,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="3">4</td>
 <td colspan="4"></td>
-<td colspan="4">Hалог на транспортные средства</td>
+<td colspan="4">Налог на транспортные средства</td>
 <td>9 181</td>
 </tr>
 <tr>
@@ -148,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>103 663</td>
+<td>89 543</td>
 </tr>
 <tr>
 <td></td>
@@ -156,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>103 663</td>
+<td>89 543</td>
 </tr>
 <tr>
 <td></td>
@@ -164,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3">3</td>
 <td colspan="4"></td>
 <td colspan="4">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>103 663</td>
+<td>89 543</td>
 </tr>
 <tr>
 <td colspan="15">Функциональная группа</td>
@@ -206,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3">2) Затраты</td>
-<td>120 230</td>
+<td>108 824</td>
 </tr>
 <tr>
 <td>01</td>
@@ -214,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>36 217</td>
+<td>22 097</td>
 </tr>
 <tr>
 <td></td>
@@ -222,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36 217</td>
+<td>22 097</td>
 </tr>
 <tr>
 <td></td>
@@ -230,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 217</td>
+<td>22 097</td>
 </tr>
 <tr>
 <td></td>
@@ -238,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36 217</td>
+<td>22 097</td>
 </tr>
 <tr>
 <td>04</td>
@@ -310,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>7 950</td>
+<td>10 664</td>
 </tr>
 <tr>
 <td></td>
@@ -318,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>7 950</td>
+<td>10 664</td>
 </tr>
 <tr>
 <td></td>
@@ -326,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4">124</td>
 <td colspan="4"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 950</td>
+<td>10 664</td>
 </tr>
 <tr>
 <td></td>
@@ -334,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4">008</td>
 <td colspan="3">Освещение улиц в населенных пунктах</td>
-<td>4 558</td>
+<td>5 358</td>
 </tr>
 <tr>
 <td></td>
@@ -350,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4">011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td>1 590</td>
+<td>3 504</td>
 </tr>
 <tr>
 <td></td>
@@ -516,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 2 714</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -524,7 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 714</td>
 </tr>
 <tr>
 <td colspan="15">Категория</td>
@@ -642,23 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3">01</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">1</td>
-<td colspan="4"></td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 714</td>
 </tr>
 </table>
 
@@ -1992,6 +1978,8 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 
 ## Бюджет Урдинского сельского округа на 2019 год
 
+> *Сноска. Приложение 4 - в редакции решения Бокейординского районного маслихата Западно-Казахстанской области от 04.04.2019 № 26-1 (вводится в действие с 01.01.2019).*
+
 > *(тысяч тенге)*
 
 <table>
@@ -2035,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">1) Доходы</td>
-<td>81 364</td>
+<td>67 494</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2131,7 +2119,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>70 619</td>
+<td>56 749</td>
 </tr>
 <tr>
 <td></td>
@@ -2139,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>70 619</td>
+<td>56 749</td>
 </tr>
 <tr>
 <td></td>
@@ -2147,7 +2135,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3">3</td>
 <td colspan="5"></td>
 <td colspan="4">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>70 619</td>
+<td>56 749</td>
 </tr>
 <tr>
 <td colspan="17">Функциональная группа</td>
@@ -2189,7 +2177,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">2) Затраты</td>
-<td>81 364</td>
+<td>70 163</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2197,7 +2185,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>38 458</td>
+<td>26 358</td>
 </tr>
 <tr>
 <td></td>
@@ -2205,7 +2193,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>38 458</td>
+<td>26 358</td>
 </tr>
 <tr>
 <td></td>
@@ -2213,7 +2201,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4">124</td>
 <td colspan="5"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38 458</td>
+<td>26 358</td>
 </tr>
 <tr>
 <td></td>
@@ -2221,7 +2209,15 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>38 458</td>
+<td>25 308</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">032</td>
+<td colspan="3">Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>1 050</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2293,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>7 369</td>
+<td>8 268</td>
 </tr>
 <tr>
 <td></td>
@@ -2301,7 +2297,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>7 369</td>
+<td>8 268</td>
 </tr>
 <tr>
 <td></td>
@@ -2309,7 +2305,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4">124</td>
 <td colspan="5"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 369</td>
+<td>8 268</td>
 </tr>
 <tr>
 <td></td>
@@ -2317,7 +2313,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5">008</td>
 <td colspan="3">Освещение улиц в населенных пунктах</td>
-<td>4 976</td>
+<td>5 875</td>
 </tr>
 <tr>
 <td></td>
@@ -2499,7 +2495,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 2 669</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -2507,7 +2503,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 669</td>
 </tr>
 <tr>
 <td colspan="17">Категория</td>
@@ -2625,23 +2621,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="3">01</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td colspan="4"></td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 669</td>
 </tr>
 </table>
 
@@ -3965,9 +3945,11 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 
 > *Приложение 7*  
 > *к решению Бокейординского районного маслихата*  
-> *от 29 декабря 2018 года №23-1*
+> *от 29 декабря 2018 года № 23-1*
 
 ## Бюджет Бисенского сельского округа на 2019 год
+
+> *Сноска. Приложение 7 - в редакции решения Бокейординского районного маслихата Западно-Казахстанской области от 04.04.2019 № 26-1 (вводится в действие с 01.01.2019).*
 
 > *(тысяч тенге)*
 
@@ -4012,7 +3994,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">1) Доходы</td>
-<td>71 480</td>
+<td>59 127</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4108,7 +4090,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>65 368</td>
+<td>53 015</td>
 </tr>
 <tr>
 <td></td>
@@ -4116,7 +4098,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>65 368</td>
+<td>53 015</td>
 </tr>
 <tr>
 <td></td>
@@ -4124,7 +4106,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="3">3</td>
 <td colspan="5"></td>
 <td colspan="4">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>65 368</td>
+<td>53 015</td>
 </tr>
 <tr>
 <td colspan="17">Функциональная группа</td>
@@ -4166,7 +4148,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">2) Затраты</td>
-<td>71 480</td>
+<td>59 891</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4174,7 +4156,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>31 943</td>
+<td>20 354</td>
 </tr>
 <tr>
 <td></td>
@@ -4182,7 +4164,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>31 943</td>
+<td>20 354</td>
 </tr>
 <tr>
 <td></td>
@@ -4190,7 +4172,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4">124</td>
 <td colspan="5"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 943</td>
+<td>20 354</td>
 </tr>
 <tr>
 <td></td>
@@ -4198,7 +4180,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="4"></td>
 <td colspan="5">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 943</td>
+<td>20 354</td>
 </tr>
 <tr>
 <td>04</td>
@@ -4476,7 +4458,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 764</td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -4484,7 +4466,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>764</td>
 </tr>
 <tr>
 <td colspan="17">Категория</td>
@@ -4602,23 +4584,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/rus/29.12.2018
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="3">01</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
-<td>Остатки бюджетных средств</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="5">1</td>
-<td colspan="4"></td>
-<td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>764</td>
 </tr>
 </table>
 
