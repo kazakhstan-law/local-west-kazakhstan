@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
+source: https://zan.gov.kz/client/#!/doc/128688/rus/13.05.2019
 ---
 
 > *Приложение 10*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 > *от 9 января 2019 года № 29-3*
 
 ## Бюджет сельского округа Махамбет на 2019 год
+
+> *Сноска. Приложение 10 - в редакции решения маслихата района Бәйтерек Западно-Казахстанской области от 13.05.2019 № 33-2 (вводится в действие с 01.01.2019).*
 
 > *тысяч тенге*
 
@@ -46,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">1) Доходы</td>
-<td>33 573</td>
+<td>21 904</td>
 </tr>
 <tr>
 <td>1</td>
@@ -154,7 +156,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>29 813</td>
+<td>18 144</td>
 </tr>
 <tr>
 <td></td>
@@ -163,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>29 813</td>
+<td>18 144</td>
 </tr>
 <tr>
 <td></td>
@@ -172,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>29 813</td>
+<td>18 144</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -215,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2) Затраты</td>
-<td>33 573</td>
+<td>22 289</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -224,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>31 023</td>
+<td>19 354</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -233,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>31 023</td>
+<td>19 354</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -242,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 023</td>
+<td>19 354</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -251,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">001</td>
 <td colspan="3"></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 023</td>
+<td>19 354</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -260,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2 550</td>
+<td>2 935</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -269,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2 550</td>
+<td>2 935</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 550</td>
+<td>2 935</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">008</td>
 <td colspan="3"></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>2 200</td>
+<td>2 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -492,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-385</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -501,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>385</td>
 </tr>
 <tr>
 <td colspan="3">7</td>
@@ -605,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>385</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -614,7 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>385</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -623,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>385</td>
 </tr>
 </table>
 
@@ -1881,6 +1883,8 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 
 ## Бюджет Мичуринского сельского округа на 2019 год
 
+> *Сноска. Приложение 13 - в редакции решения маслихата района Бәйтерек Западно-Казахстанской области от 13.05.2019 № 33-2 (вводится в действие с 01.01.2019).*
+
 > *тысяч тенге*
 
 <table>
@@ -1918,7 +1922,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">1) Доходы</td>
-<td>53 316</td>
+<td>35 451</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2044,7 +2048,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>21 196</td>
+<td>3 331</td>
 </tr>
 <tr>
 <td></td>
@@ -2053,7 +2057,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>21 196</td>
+<td>3 331</td>
 </tr>
 <tr>
 <td></td>
@@ -2062,7 +2066,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>21 196</td>
+<td>3 331</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -2105,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2) Затраты</td>
-<td>53 316</td>
+<td>48 837</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2114,7 +2118,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>43 318</td>
+<td>27 674</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2123,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>43 318</td>
+<td>27 674</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2132,7 +2136,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43 318</td>
+<td>27 674</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2141,7 +2145,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">001</td>
 <td colspan="3"></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>43 318</td>
+<td>27 674</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2150,7 +2154,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 998</td>
+<td>21 163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2159,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>9 998</td>
+<td>21 163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2168,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 998</td>
+<td>21 163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2186,7 +2190,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">011</td>
 <td colspan="3"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>467</td>
+<td>11 632</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2373,7 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-13 386</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2382,7 +2386,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>13 386</td>
 </tr>
 <tr>
 <td colspan="3">7</td>
@@ -2486,7 +2490,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>13 386</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2495,7 +2499,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>13 386</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2504,7 +2508,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>13 386</td>
 </tr>
 </table>
 
@@ -3708,6 +3712,8 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 
 ## Бюджет Переметнинского сельского округа на 2019 год
 
+> *Сноска. Приложение 16 - в редакции решения маслихата района Бәйтерек Западно-Казахстанской области от 13.05.2019 № 33-2 (вводится в действие с 01.01.2019).*
+
 > *тысяч тенге*
 
 <table>
@@ -3745,7 +3751,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">1) Доходы</td>
-<td>65 609</td>
+<td>56 682</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3853,7 +3859,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>46 419</td>
+<td>37 492</td>
 </tr>
 <tr>
 <td></td>
@@ -3862,7 +3868,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>46 419</td>
+<td>37 492</td>
 </tr>
 <tr>
 <td></td>
@@ -3871,7 +3877,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>46 419</td>
+<td>37 492</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -3914,7 +3920,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>2) Затраты</td>
-<td>65 609</td>
+<td>58 267</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3923,7 +3929,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>37 946</td>
+<td>24 349</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3932,7 +3938,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>37 946</td>
+<td>24 349</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3941,7 +3947,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>37 946</td>
+<td>24 349</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3950,7 +3956,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">001</td>
 <td colspan="3"></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>37 946</td>
+<td>24 349</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -3995,7 +4001,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>26 968</td>
+<td>33 223</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4004,7 +4010,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>26 968</td>
+<td>33 223</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4013,7 +4019,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>26 968</td>
+<td>33 223</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4040,7 +4046,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3">011</td>
 <td colspan="3"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 795</td>
+<td>8 050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4227,7 +4233,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 1 585</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4236,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1 585</td>
 </tr>
 <tr>
 <td colspan="3">7</td>
@@ -4340,7 +4346,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1 585</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4349,7 +4355,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>1 585</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4358,7 +4364,7 @@ source: https://zan.gov.kz/client/#!/doc/128688/rus/09.01.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1 585</td>
 </tr>
 </table>
 
