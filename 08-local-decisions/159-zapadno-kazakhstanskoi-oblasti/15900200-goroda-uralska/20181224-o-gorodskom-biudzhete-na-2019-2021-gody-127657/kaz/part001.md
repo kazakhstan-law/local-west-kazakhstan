@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
+source: https://zan.gov.kz/client/#!/doc/127657/kaz/15.05.2019
 ---
 
 > *Орал қалалық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 
 ## 2019 жылға арналған қалалық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 28.03.2019 № 30-2 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.05.2019 № 31-3 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 > *мың теңге*
 
@@ -48,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>1) Кірістер</td>
-<td>33 400 649</td>
+<td>33 636 272</td>
 </tr>
 <tr>
 <td>1</td>
@@ -57,7 +57,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Салықтық түсімдер</td>
-<td>21 529 571</td>
+<td>21 765 194</td>
 </tr>
 <tr>
 <td></td>
@@ -66,7 +66,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Табыс салығы</td>
-<td>9 355 543</td>
+<td>9 468 731</td>
 </tr>
 <tr>
 <td></td>
@@ -75,7 +75,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Жеке табыс салығы</td>
-<td>9 355 543</td>
+<td>9 468 731</td>
 </tr>
 <tr>
 <td></td>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
-<td>295 265</td>
+<td>417 700</td>
 </tr>
 <tr>
 <td></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Мемлекеттік баж</td>
-<td>295 265</td>
+<td>417 700</td>
 </tr>
 <tr>
 <td>2</td>
@@ -415,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>33 032 346</td>
+<td>33 267 969</td>
 </tr>
 <tr>
 <td>01</td>
@@ -703,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Бiлiм беру</td>
-<td>18 162 745</td>
+<td>18 398 368</td>
 </tr>
 <tr>
 <td></td>
@@ -712,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>3 690 420</td>
+<td>3 926 043</td>
 </tr>
 <tr>
 <td></td>
@@ -721,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>3 690 420</td>
+<td>3 926 043</td>
 </tr>
 <tr>
 <td></td>
@@ -739,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5">040</td>
 <td colspan="3"></td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>922 839</td>
+<td>1 158 462</td>
 </tr>
 <tr>
 <td></td>
@@ -1387,7 +1387,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5">005</td>
 <td colspan="3"></td>
 <td>Ұлттық және бұқаралық спорт түрлерін дамыту</td>
-<td>121 984</td>
+<td>131 080</td>
 </tr>
 <tr>
 <td></td>
@@ -1396,7 +1396,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5">006</td>
 <td colspan="3"></td>
 <td>Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
-<td>41 891</td>
+<td>32 795</td>
 </tr>
 <tr>
 <td></td>
@@ -2053,7 +2053,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1 330 648</td>
+<td>6 898 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2062,7 +2062,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5">003</td>
 <td colspan="3"></td>
 <td>Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
-<td>1 330 648</td>
+<td>6 898 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2071,7 +2071,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылық және тұрғын үй инспекциясы бөлімі</td>
-<td>6 898 624</td>
+<td>1 330 648</td>
 </tr>
 <tr>
 <td></td>
@@ -2080,7 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/kaz/28.03.2019
 <td colspan="5">053</td>
 <td colspan="3"></td>
 <td>Жылу, сумен жабдықтау және су бұру жүйелерін реконструкция және құрылыс үшін кредит беру</td>
-<td>6 898 624</td>
+<td>1 330 648</td>
 </tr>
 <tr>
 <td colspan="15">Санаты</td>

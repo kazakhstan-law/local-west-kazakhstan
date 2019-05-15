@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
+source: https://zan.gov.kz/client/#!/doc/127657/rus/15.05.2019
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 
 ## Городской бюджет на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 28.03.2019 № 30-2 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 15.05.2019 № 31-3 (вводится в действие с 01.01.2019).*
 
 > *тысяч тенге*
 
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>1) Доходы</td>
-<td>33 400 649</td>
+<td>33 636 272</td>
 </tr>
 <tr>
 <td>1</td>
@@ -58,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>21 529 571</td>
+<td>21 765 194</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Подоходный налог</td>
-<td>9 355 543</td>
+<td>9 468 731</td>
 </tr>
 <tr>
 <td></td>
@@ -76,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Индивидуальный подоходный налог</td>
-<td>9 355 543</td>
+<td>9 468 731</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td>295 265</td>
+<td>417 700</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Государственная пошлина</td>
-<td>295 265</td>
+<td>417 700</td>
 </tr>
 <tr>
 <td>2</td>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>33 032 346</td>
+<td>33 267 969</td>
 </tr>
 <tr>
 <td>01</td>
@@ -704,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>18 162 745</td>
+<td>18 398 368</td>
 </tr>
 <tr>
 <td></td>
@@ -713,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>3 690 420</td>
+<td>3 926 043</td>
 </tr>
 <tr>
 <td></td>
@@ -722,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>3 690 420</td>
+<td>3 926 043</td>
 </tr>
 <tr>
 <td></td>
@@ -740,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5">040</td>
 <td colspan="2"></td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>922 839</td>
+<td>1 158 462</td>
 </tr>
 <tr>
 <td></td>
@@ -1388,7 +1388,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5">005</td>
 <td colspan="2"></td>
 <td>Развитие массового спорта и национальных видов спорта</td>
-<td>121 984</td>
+<td>131 080</td>
 </tr>
 <tr>
 <td></td>
@@ -1397,7 +1397,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5">006</td>
 <td colspan="2"></td>
 <td>Проведение спортивных соревнований на районном (города областного значения) уровне</td>
-<td>41 891</td>
+<td>32 795</td>
 </tr>
 <tr>
 <td></td>
@@ -2054,7 +2054,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>1 330 648</td>
+<td>6 898 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2063,7 +2063,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5">003</td>
 <td colspan="2"></td>
 <td>Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td>1 330 648</td>
+<td>6 898 624</td>
 </tr>
 <tr>
 <td></td>
@@ -2072,7 +2072,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства и жилищной инспекции района (города областного значения)</td>
-<td>6 898 624</td>
+<td>1 330 648</td>
 </tr>
 <tr>
 <td></td>
@@ -2081,7 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/127657/rus/28.03.2019
 <td colspan="5">053</td>
 <td colspan="2"></td>
 <td>Кредитование на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
-<td>6 898 624</td>
+<td>1 330 648</td>
 </tr>
 <tr>
 <td colspan="14">Категория</td>
