@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127603/kaz/18.03.2019
+source: https://zan.gov.kz/client/#!/doc/127603/kaz/06.06.2019
 ---
 
 > *Теректі аудандық мәслихатының*  
