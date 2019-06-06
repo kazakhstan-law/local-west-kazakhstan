@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128354/kaz/20.03.2019
+source: https://zan.gov.kz/client/#!/doc/128354/kaz/06.06.2019
 ---
 
 > *2018 жылғы 25 желтоқсандағы № 28-2*  
