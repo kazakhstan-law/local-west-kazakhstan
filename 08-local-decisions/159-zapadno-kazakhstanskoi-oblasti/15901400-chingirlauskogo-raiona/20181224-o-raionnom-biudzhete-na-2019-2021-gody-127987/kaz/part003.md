@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127987/kaz/26.03.2019
+source: https://zan.gov.kz/client/#!/doc/127987/kaz/06.06.2019
 ---
 
 > *Шыңғырлау аудандық мәслихатының 2018 жылғы*  
