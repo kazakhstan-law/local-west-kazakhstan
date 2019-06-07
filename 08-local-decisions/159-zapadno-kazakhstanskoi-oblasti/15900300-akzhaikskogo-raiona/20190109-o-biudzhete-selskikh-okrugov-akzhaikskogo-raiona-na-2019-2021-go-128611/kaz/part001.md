@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
+source: https://zan.gov.kz/client/#!/doc/128611/kaz/07.06.2019
 ---
 
 > *2019 жылғы 9 қаңтардағы № 29-1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 
 ## 2019 жылға арналған Ақжол ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 02.04.2019 № 32-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 07.06.2019 № 34-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -40,12 +40,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -214,12 +214,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -433,12 +433,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -500,12 +500,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -567,12 +567,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -618,12 +618,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -669,12 +669,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2102,7 +2102,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 
 ## 2019 жылға арналған Алғабас ауылдық округінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 02.04.2019 № 32-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 07.06.2019 № 34-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -2133,12 +2133,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2146,7 +2146,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>20764</td>
+<td>21 263</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2210,7 +2210,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Салықтық емес түсімдер</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td></td>
@@ -2218,7 +2218,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td></td>
@@ -2226,7 +2226,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>5</td>
 <td></td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2258,7 +2258,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 <tr>
 <td></td>
@@ -2266,7 +2266,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 <tr>
 <td></td>
@@ -2274,7 +2274,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>3</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 </table>
 
@@ -2307,12 +2307,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2320,7 +2320,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td colspan="2">21140</td>
+<td colspan="2">21639</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2328,7 +2328,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">19728</td>
+<td colspan="2">20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2336,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">19728</td>
+<td colspan="2">20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2344,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">19728</td>
+<td colspan="2">20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">19728</td>
+<td colspan="2">20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2526,12 +2526,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2593,12 +2593,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2660,12 +2660,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2711,12 +2711,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2762,12 +2762,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4195,7 +4195,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 
 ## 2019 жылға арналған Алмалы ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 02.04.2019 № 32-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 07.06.2019 № 34-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -4226,12 +4226,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4239,7 +4239,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>21202</td>
+<td>22130</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4247,7 +4247,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>3147</td>
+<td>4030</td>
 </tr>
 <tr>
 <td></td>
@@ -4255,7 +4255,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Табыс салығы</td>
-<td>505</td>
+<td>1305</td>
 </tr>
 <tr>
 <td></td>
@@ -4263,7 +4263,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>2</td>
 <td></td>
 <td>Жеке табыс салығы</td>
-<td>505</td>
+<td>1305</td>
 </tr>
 <tr>
 <td></td>
@@ -4271,7 +4271,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Меншікке салынатын салықтар</td>
-<td>2642</td>
+<td>2725</td>
 </tr>
 <tr>
 <td></td>
@@ -4279,7 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>1</td>
 <td></td>
 <td>Мүлікке салынатын салықтар</td>
-<td>67</td>
+<td>140</td>
 </tr>
 <tr>
 <td></td>
@@ -4295,7 +4295,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>4</td>
 <td></td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>2526</td>
+<td>2536</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4303,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Салықтық емес түсімдер</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4311,7 +4311,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4319,7 +4319,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>5</td>
 <td></td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4416,12 +4416,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4429,7 +4429,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td colspan="2">22560</td>
+<td colspan="2">23488</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4437,7 +4437,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">19674</td>
+<td colspan="2">20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4445,7 +4445,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">19674</td>
+<td colspan="2">20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4453,7 +4453,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">19674</td>
+<td colspan="2">20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4461,7 +4461,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">19674</td>
+<td colspan="2">20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4635,12 +4635,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4702,12 +4702,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4769,12 +4769,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4820,12 +4820,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4871,12 +4871,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/kaz/02.04.2019
 <td colspan="2"></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>8</td>

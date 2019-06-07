@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
+source: https://zan.gov.kz/client/#!/doc/128611/rus/07.06.2019
 ---
 
 > *Приложение 1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 
 ## Бюджет Акжолского сельского округа на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 02.04.2019 № 32-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 07.06.2019 № 34-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -40,12 +40,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -214,12 +214,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -433,12 +433,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -500,12 +500,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -567,12 +567,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -618,12 +618,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -669,12 +669,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2102,7 +2102,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 
 ## Бюджет Алгабасского сельского округа на 2019 год
 
-> *Сноска. Приложение 4 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 02.04.2019 № 32-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 4 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 07.06.2019 № 34-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -2133,12 +2133,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2146,7 +2146,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>1) Доходы</td>
-<td>20764</td>
+<td>21263</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2210,7 +2210,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td></td>
@@ -2218,7 +2218,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Доходы от государственной собственности</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td></td>
@@ -2226,7 +2226,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>5</td>
 <td></td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
+<td>264</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2258,7 +2258,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 <tr>
 <td></td>
@@ -2266,7 +2266,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 <tr>
 <td></td>
@@ -2274,7 +2274,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>3</td>
 <td></td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>19199</td>
+<td>19434</td>
 </tr>
 </table>
 
@@ -2307,12 +2307,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2320,7 +2320,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>21140</td>
+<td>21639</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2328,7 +2328,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>19728</td>
+<td>20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2336,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>19728</td>
+<td>20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2344,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>19728</td>
+<td>20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2352,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>19728</td>
+<td>20227</td>
 </tr>
 <tr>
 <td></td>
@@ -2526,12 +2526,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2593,12 +2593,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2660,12 +2660,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2711,12 +2711,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2762,12 +2762,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4195,7 +4195,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 
 ## Бюджет Алмалинского сельского округа на 2019 год
 
-> *Сноска. Приложение 7 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 02.04.2019 № 32-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 7 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 07.06.2019 № 34-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -4226,12 +4226,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4239,7 +4239,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>1) Доходы</td>
-<td>21202</td>
+<td>22130</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4247,7 +4247,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>3147</td>
+<td>4030</td>
 </tr>
 <tr>
 <td></td>
@@ -4255,7 +4255,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>505</td>
+<td>1305</td>
 </tr>
 <tr>
 <td></td>
@@ -4263,7 +4263,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>505</td>
+<td>1305</td>
 </tr>
 <tr>
 <td></td>
@@ -4271,7 +4271,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>2642</td>
+<td>2725</td>
 </tr>
 <tr>
 <td></td>
@@ -4279,7 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>1</td>
 <td></td>
 <td>Налоги на имущество</td>
-<td>67</td>
+<td>140</td>
 </tr>
 <tr>
 <td></td>
@@ -4295,7 +4295,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>4</td>
 <td></td>
 <td>Налог на транспортные средства</td>
-<td>2526</td>
+<td>2536</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4303,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4311,7 +4311,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Доходы от государственной собственности</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4319,7 +4319,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>5</td>
 <td></td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
@@ -4416,12 +4416,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -4429,7 +4429,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>22560</td>
+<td>23488</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4437,7 +4437,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>19674</td>
+<td>20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4445,7 +4445,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>19674</td>
+<td>20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4453,7 +4453,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>19674</td>
+<td>20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4461,7 +4461,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>19674</td>
+<td>20602</td>
 </tr>
 <tr>
 <td></td>
@@ -4635,12 +4635,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4702,12 +4702,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4769,12 +4769,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4820,12 +4820,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4871,12 +4871,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -6336,7 +6336,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 
 ## Бюджет Есенсайского сельского округа на 2019 год
 
-> *Сноска. Приложение 10 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 02.04.2019 № 32-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 10 - в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 07.06.2019 № 34-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -6367,12 +6367,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -6380,7 +6380,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>1) Доходы</td>
-<td>19889</td>
+<td>20237</td>
 </tr>
 <tr>
 <td>1</td>
@@ -6388,7 +6388,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>1108</td>
+<td>1252</td>
 </tr>
 <tr>
 <td></td>
@@ -6396,7 +6396,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Подоходный налог</td>
-<td>89</td>
+<td>203</td>
 </tr>
 <tr>
 <td></td>
@@ -6404,7 +6404,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>2</td>
 <td></td>
 <td>Индивидуальный подоходный налог</td>
-<td>89</td>
+<td>203</td>
 </tr>
 <tr>
 <td></td>
@@ -6412,7 +6412,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>1019</td>
+<td>1049</td>
 </tr>
 <tr>
 <td></td>
@@ -6420,7 +6420,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>1</td>
 <td></td>
 <td>Налоги на имущество</td>
-<td>36</td>
+<td>66</td>
 </tr>
 <tr>
 <td></td>
@@ -6444,7 +6444,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>0</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
@@ -6452,7 +6452,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Доходы от государственной собственности</td>
-<td>0</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
@@ -6460,7 +6460,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>5</td>
 <td></td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
+<td>204</td>
 </tr>
 <tr>
 <td></td>
@@ -6557,12 +6557,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -6570,7 +6570,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>21064</td>
+<td>21412</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6578,7 +6578,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>17518</td>
+<td>17866</td>
 </tr>
 <tr>
 <td></td>
@@ -6586,7 +6586,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>17518</td>
+<td>17866</td>
 </tr>
 <tr>
 <td></td>
@@ -6594,7 +6594,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17518</td>
+<td>17866</td>
 </tr>
 <tr>
 <td></td>
@@ -6602,7 +6602,7 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17518</td>
+<td>17866</td>
 </tr>
 <tr>
 <td></td>
@@ -6832,12 +6832,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -6899,12 +6899,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -6966,12 +6966,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -7017,12 +7017,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -7068,12 +7068,12 @@ source: https://zan.gov.kz/client/#!/doc/128611/rus/02.04.2019
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
