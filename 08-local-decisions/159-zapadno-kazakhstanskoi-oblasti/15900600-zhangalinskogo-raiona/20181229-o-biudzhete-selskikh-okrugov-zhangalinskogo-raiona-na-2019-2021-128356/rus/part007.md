@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
+source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 ---
 
 > *Приложение 7*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 
 ## Бюджет Жанажолского сельского округа на 2019 год
 
-> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 15.04.2019 № 34-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>14 256</td>
+<td>15 589</td>
 </tr>
 <tr>
 <td>1</td>
@@ -148,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>12 414</td>
+<td>13 747</td>
 </tr>
 <tr>
 <td></td>
@@ -156,7 +156,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>12 414</td>
+<td>13 747</td>
 </tr>
 <tr>
 <td></td>
@@ -164,7 +164,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>12 414</td>
+<td>13 747</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -216,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>14 401</td>
+<td>15 734</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>13 160</td>
+<td>14 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -234,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>13 160</td>
+<td>14 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>13 160</td>
+<td>14 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -252,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>13 160</td>
+<td>14 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -261,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>535</td>
+<td>1 868</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2246,7 +2246,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 
 ## Бюджет Копжасарского сельского округа на 2019 год
 
-> *Сноска. Приложение 10 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 15.04.2019 № 34-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 10 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -2289,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>51 104</td>
+<td>53 907</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2385,7 +2385,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>48 922</td>
+<td>51 725</td>
 </tr>
 <tr>
 <td></td>
@@ -2393,7 +2393,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>48 922</td>
+<td>51 725</td>
 </tr>
 <tr>
 <td></td>
@@ -2401,7 +2401,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>48 922</td>
+<td>51 725</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -2453,7 +2453,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>51 193</td>
+<td>53 996</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -2462,7 +2462,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>15 136</td>
+<td>16 399</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2471,7 +2471,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>15 136</td>
+<td>16 399</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2480,7 +2480,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15 136</td>
+<td>16 399</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2489,7 +2489,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>15 136</td>
+<td>16 399</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2498,7 +2498,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>474</td>
+<td>1 737</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2516,7 +2516,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Образование</td>
-<td>24 576</td>
+<td>26 116</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2525,7 +2525,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>24 576</td>
+<td>26 116</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2534,7 +2534,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>24 576</td>
+<td>26 116</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2543,7 +2543,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">004</td>
 <td></td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>24 576</td>
+<td>26 116</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2552,7 +2552,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>2 754</td>
+<td>4 294</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4717,7 +4717,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 
 ## Бюджет Мастексайского сельского округа на 2019 год
 
-> *Сноска. Приложение 13 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 15.04.2019 № 34-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 13 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -4760,7 +4760,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>36 429</td>
+<td>39 402</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4856,7 +4856,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>33 619</td>
+<td>36 592</td>
 </tr>
 <tr>
 <td></td>
@@ -4864,7 +4864,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>33 619</td>
+<td>36 592</td>
 </tr>
 <tr>
 <td></td>
@@ -4872,7 +4872,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>33 619</td>
+<td>36 592</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
@@ -4924,7 +4924,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>36 920</td>
+<td>39 893</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -4933,7 +4933,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>16 444</td>
+<td>17 908</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4942,7 +4942,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>16 444</td>
+<td>17 908</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4951,7 +4951,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16 444</td>
+<td>17 908</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4960,7 +4960,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>16 444</td>
+<td>17 908</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4969,7 +4969,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>257</td>
+<td>1 721</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4987,7 +4987,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Образование</td>
-<td>18 843</td>
+<td>20 352</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -4996,7 +4996,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>18 843</td>
+<td>20 352</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5005,7 +5005,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>18 843</td>
+<td>20 352</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5014,7 +5014,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3">004</td>
 <td></td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>18 843</td>
+<td>20 352</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5023,7 +5023,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/15.04.2019
 <td colspan="3"></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>1 816</td>
+<td>3 325</td>
 </tr>
 <tr>
 <td colspan="3"></td>
