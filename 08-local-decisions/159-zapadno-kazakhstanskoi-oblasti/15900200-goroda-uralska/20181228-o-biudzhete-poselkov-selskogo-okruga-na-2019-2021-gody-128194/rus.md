@@ -1,5 +1,5 @@
 ---
-version_id: '128194_412519'
+version_id: '128194_424478'
 act_code: '128194'
 language: rus
 title: О бюджете поселков, сельского округа на 2019-2021 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159002000002'
 approval_date: 2018-12-28
-version_date: 2019-06-27
+version_date: 2019-10-17
 registry_number: '128194'
 caused_by:
-  code: '132969'
+  code: '135402'
   title: О внесении изменений в решение Уральского городского маслихата от 28 декабря 2018 года №27-5 «О бюджете поселков, сельского округа на 2019-2021 годы»
-  link: https://zan.gov.kz/client/#!/doc/132969/rus
-source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
+  link: https://zan.gov.kz/client/#!/doc/135402/rus
+source: https://zan.gov.kz/client/#!/doc/128194/rus/17.10.2019
 ---
 
 # О бюджете поселков, сельского округа на 2019-2021 годы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
 1. Утвердить бюджет поселка Зачаганск города Уральска на 2019-2021 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 382 903 тысячи тенге:
+   1) доходы – 404 158 тысяч тенге:
 
       налоговые поступления – 157 350 тысяч тенге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 223 413 тысяч тенге;
+      поступления трансфертов – 244 668 тысяч тенге;
 
-   2) затраты – 395 200 тысяч тенге;
+   2) затраты – 416 455 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -53,17 +53,17 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
    6) финансирование дефицита (использование профицита) бюджета – 12 297 тысяч тенге:
 
-      поступления займов – 0 тенге;
+      поступление займов – 0 тенге;
 
       погашение займов – 0 тенге;
 
       используемые остатки бюджетных средств – 12 297 тысяч тенге.
 
-   > *Сноска. Пункт 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 27.06.2019 № 32-3 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.10.2019 № 35-5 (вводится в действие с 01.01.2019).*
 
 2. Утвердить бюджет поселка Круглоозерный города Уральска на 2019-2021 годы согласно приложениям 4, 5 и 6 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 80 155 тысяч тенге:
+   1) доходы – 96 014 тысяч тенге:
 
       налоговые поступления – 13 290 тысяч тенге;
 
@@ -71,9 +71,9 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 66 365 тысяч тенге;
+      поступления трансфертов – 82 224 тысячи тенге;
 
-   2) затраты – 81 393 тысячи тенге;
+   2) затраты – 97 252 тысячи тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -91,13 +91,13 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
    6) финансирование дефицита (использование профицита) бюджета – 1 238 тысяч тенге:
 
-      поступления займов – 0 тенге;
+      поступление займов – 0 тенге;
 
       погашение займов – 0 тенге;
 
       используемые остатки бюджетных средств – 1 238 тысяч тенге.
 
-   > *Сноска. Пункт 2 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 27.06.2019 № 32-3 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 2 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.10.2019 № 35-5 (вводится в действие с 01.01.2019).*
 
 3. Утвердить бюджет Желаевского сельского округа города Уральска на 2019-2021 годы согласно приложениям 7, 8 и 9 соответственно, в том числе на 2019 год в следующих объемах:
 
@@ -172,7 +172,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
 ## Бюджет поселка Зачаганск на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 27.06.2019 № 32-3 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.10.2019 № 35-5 (вводится в действие с 01.01.2019).*
 
 > *тысяч тенге*
 
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">1) Доходы</td>
-<td>382 903</td>
+<td>404 158</td>
 </tr>
 <tr>
 <td>1</td>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>223 413</td>
+<td>244 668</td>
 </tr>
 <tr>
 <td></td>
@@ -346,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>223 413</td>
+<td>244 668</td>
 </tr>
 <tr>
 <td></td>
@@ -354,8 +354,8 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>3</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Трансферты из городского, районного бюджета</td>
-<td>223 413</td>
+<td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
+<td>244 668</td>
 </tr>
 <tr>
 <td colspan="11">Функциональная группа</td>
@@ -398,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>395 200</td>
+<td>416 455</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -443,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>251 129</td>
+<td>281 776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -452,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>251 129</td>
+<td>281 776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -461,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>251 129</td>
+<td>281 776</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -479,7 +479,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>009</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>168 906</td>
+<td>199 553</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -488,7 +488,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>28 488</td>
+<td>28 489</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -497,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>92 907</td>
+<td>83 515</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -506,7 +506,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>92 907</td>
+<td>83 515</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -515,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>92 907</td>
+<td>83 515</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -533,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>045</td>
 <td></td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>60 807</td>
+<td>51415</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -554,12 +554,57 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">5</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
@@ -572,6 +617,40 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="11">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджетная программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -581,12 +660,75 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2">13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">6</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td></td>
+<td></td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
 <td>0</td>
 </tr>
 <tr>
@@ -617,6 +759,58 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">2</td>
+<td></td>
+<td></td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджетная программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">16</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -624,6 +818,42 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -1590,7 +1820,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 
 ## Бюджет поселка Круглоозерный на 2019 год
 
-> *Сноска. Приложение 4 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 27.06.2019 № 32-3 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 4 - в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.10.2019 № 35-5 (вводится в действие с 01.01.2019).*
 
 > *тысяч тенге*
 
@@ -1629,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">1) Доходы</td>
-<td>80 155</td>
+<td>96 014</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1755,7 +1985,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>66 365</td>
+<td>82 224</td>
 </tr>
 <tr>
 <td></td>
@@ -1764,7 +1994,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>66 365</td>
+<td>82 224</td>
 </tr>
 <tr>
 <td></td>
@@ -1772,8 +2002,8 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>3</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="4">Трансферты из городского, районного бюджета</td>
-<td>66 365</td>
+<td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
+<td>82 224</td>
 </tr>
 <tr>
 <td colspan="11">Функциональная группа</td>
@@ -1816,7 +2046,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>81 393</td>
+<td>97 252</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1825,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>32 315</td>
+<td>32 890</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1834,7 +2064,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>32 315</td>
+<td>32 890</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1843,7 +2073,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>32 315</td>
+<td>32 890</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1852,7 +2082,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>32 315</td>
+<td>32 890</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1861,7 +2091,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>43 728</td>
+<td>59 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1870,7 +2100,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>43 728</td>
+<td>59012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1879,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43 728</td>
+<td>59 012</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1888,7 +2118,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>008</td>
 <td></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>15 641</td>
+<td>22 014</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1897,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>009</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>19 191</td>
+<td>28 102</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1963,12 +2193,57 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">5</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1981,6 +2256,40 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="11">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджетная программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -1990,12 +2299,75 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2">13</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">9</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">6</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td></td>
+<td></td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2026,6 +2398,58 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td>0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">2</td>
+<td></td>
+<td></td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Функциональная группа</td>
+<td rowspan="6">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Бюджетная программа</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td colspan="2">16</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -2033,6 +2457,42 @@ source: https://zan.gov.kz/client/#!/doc/128194/rus/27.06.2019
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="11">Категория</td>
+<td rowspan="5">Сумма</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="9">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
