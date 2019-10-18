@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/128257/rus/17.06.2019
+source: https://zan.gov.kz/client/#!/doc/128257/rus/18.10.2019
 ---
 
 # О бюджете сельских округов Теректинского района на 2019-2021 годы
