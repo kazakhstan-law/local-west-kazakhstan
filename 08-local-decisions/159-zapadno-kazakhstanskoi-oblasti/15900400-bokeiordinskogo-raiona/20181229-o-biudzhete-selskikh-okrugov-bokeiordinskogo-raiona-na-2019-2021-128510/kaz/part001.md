@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
+source: https://zan.gov.kz/client/#!/doc/128510/kaz/21.10.2019
 ---
 
 > *2018 жылғы 29 желтоқсандағы №23-1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 
 ## 2019 жылға арналған Сайқын селолық округ бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 19.06.2019 № 28-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 21.10.2019 № 31-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 > *(мың теңге)*
 
@@ -1974,7 +1974,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 
 ## 2019 жылға арналған Орда селолық округ бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 19.06.2019 № 28-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 21.10.2019 № 31-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 > *(мың теңге)*
 
@@ -2019,7 +2019,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">1) Кірістер</td>
-<td>73 332</td>
+<td>73 832</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -2115,7 +2115,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>62 587</td>
+<td>63 087</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2123,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>62 587</td>
+<td>63 087</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -2131,7 +2131,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="3">3</td>
 <td colspan="5"></td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>62 587</td>
+<td>63 087</td>
 </tr>
 <tr>
 <td colspan="21">Функционалдық топ</td>
@@ -2173,7 +2173,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">2) Шығындар</td>
-<td>76 001</td>
+<td>76 501</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2181,7 +2181,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29 943</td>
+<td>28 811</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2189,7 +2189,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>29 943</td>
+<td>28 811</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2197,7 +2197,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6">124</td>
 <td colspan="6"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29 943</td>
+<td>28 811</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2205,7 +2205,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28 893</td>
+<td>27 761</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2221,7 +2221,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Білім беру</td>
-<td>37 710</td>
+<td>39 042</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2229,7 +2229,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Мектепке дейінгі тәрбие және оқыту</td>
-<td>37 710</td>
+<td>39 042</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2237,7 +2237,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6">124</td>
 <td colspan="6"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>37 710</td>
+<td>39 042</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2245,7 +2245,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6">004</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>37 710</td>
+<td>39 042</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -2285,7 +2285,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>8 268</td>
+<td>8 568</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2293,7 +2293,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>8 268</td>
+<td>8 568</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2301,7 +2301,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6">124</td>
 <td colspan="6"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>8 268</td>
+<td>8 568</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2325,7 +2325,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="6"></td>
 <td colspan="6">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1 746</td>
+<td>2 046</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3947,7 +3947,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 
 ## 2019 жылға арналған Бисен селолық округ бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 19.06.2019 № 28-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөкей ордасы аудандық мәслихатының 21.10.2019 № 31-1 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 > *(мың теңге)*
 
@@ -4154,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>22 205</td>
+<td>23 394</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4162,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>22 205</td>
+<td>23 394</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4170,7 +4170,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>22 205</td>
+<td>23 394</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4178,7 +4178,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>22 205</td>
+<td>23 394</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -4186,7 +4186,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Білім беру</td>
-<td>37 362</td>
+<td>34 632</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4194,7 +4194,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Мектепке дейінгі тәрбие және оқыту</td>
-<td>37 362</td>
+<td>34 632</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4202,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>37 362</td>
+<td>34 632</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4210,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3">004</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>37 362</td>
+<td>34 632</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -4250,7 +4250,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5 300</td>
+<td>6 841</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4258,7 +4258,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>5 300</td>
+<td>6 841</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4266,7 +4266,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5">124</td>
 <td colspan="3"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 300</td>
+<td>6 841</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4290,7 +4290,7 @@ source: https://zan.gov.kz/client/#!/doc/128510/kaz/19.06.2019
 <td colspan="5"></td>
 <td colspan="3">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>1 060</td>
+<td>2 601</td>
 </tr>
 <tr>
 <td colspan="2"></td>
