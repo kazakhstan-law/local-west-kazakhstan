@@ -1,5 +1,5 @@
 ---
-version_id: '128356_412301'
+version_id: '128356_424890'
 act_code: '128356'
 language: rus
 title: О бюджете сельских округов Жангалинского района на 2019-2021 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159006000002'
 approval_date: 2018-12-29
-version_date: 2019-06-20
+version_date: 2019-10-22
 registry_number: '128356'
 caused_by:
-  code: '132806'
+  code: '135481'
   title: О внесении изменений в решение Жангалинского районного маслихата от 29 декабря 2018 года № 30-1 «О бюджете сельских округов Жангалинского района на 2019-2021 годы»
-  link: https://zan.gov.kz/client/#!/doc/132806/rus
-source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
+  link: https://zan.gov.kz/client/#!/doc/135481/rus
+source: https://zan.gov.kz/client/#!/doc/128356/rus/22.10.2019
 ---
 
 # О бюджете сельских округов Жангалинского района на 2019-2021 годы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 1. Утвердить бюджет Жангалинского сельского округа на 2019-2021 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 193 453 тысячи тенге:
+   1) доходы – 206 378 тысяч тенге:
 
       налоговые поступления – 28 452 тысячи тенге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 165 001 тысяча тенге;
+      поступления трансфертов – 177 926 тысяч тенге;
 
-   2) затраты – 195 007 тысяч тенге;
+   2) затраты – 207 932 тысячи тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       используемые остатки бюджетных средств – 1 554 тысячи тенге.
 
-   > *Сноска. Пункт 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 2. Утвердить бюджет Жанаказанского сельского округа на 2019-2021 годы согласно приложениям 4, 5 и 6 соответственно, в том числе на 2019 год в следующих объемах:
 
@@ -101,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 3. Утвердить бюджет Жанажолского сельского округа на 2019-2021 годы согласно приложениям 7, 8 и 9 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 15 589 тысяч тенге:
+   1) доходы – 18 589 тысяч тенге:
 
       налоговые поступления – 1 842 тысячи тенге;
 
@@ -109,9 +109,9 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 13 747 тысяч тенге;
+      поступления трансфертов – 16 747 тысяч тенге;
 
-   2) затраты – 15 734 тысячи тенге;
+   2) затраты – 18 734 тысячи тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -135,11 +135,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       используемые остатки бюджетных средств – 145 тысяч тенге.
 
-   > *Сноска. Пункт 3 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 3 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 4. Утвердить бюджет Копжасарского сельского округа на 2019-2021 годы согласно приложениям 10, 11 и 12 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 53 907 тысяч тенге:
+   1) доходы – 51 973 тысячи тенге:
 
       налоговые поступления – 2 182 тысячи тенге;
 
@@ -147,9 +147,9 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 51 725 тысяч тенге;
+      поступления трансфертов – 49 791 тысяча тенге;
 
-   2) затраты – 53 996 тысяч тенге;
+   2) затраты – 52 062 тысячи тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -173,11 +173,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       используемые остатки бюджетных средств – 89 тысяч тенге.
 
-   > *Сноска. Пункт 4 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 4 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 5. Утвердить бюджет Мастексайского сельского округа на 2019-2021 годы согласно приложениям 13, 14 и 15 соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 39 402 тысячи тенге:
+   1) доходы – 40 426 тысяч тенге:
 
       налоговые поступления – 2 810 тысяч тенге;
 
@@ -185,9 +185,9 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 36 592 тысячи тенге;
+      поступления трансфертов – 37 616 тысяч тенге;
 
-   2) затраты – 39 893 тысячи тенге;
+   2) затраты – 40 917 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -211,11 +211,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
       используемые остатки бюджетных средств – 491 тысяча тенге.
 
-   > *Сноска. Пункт 5 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 5 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 6. Поступления в бюджеты сельских округов на 2019 год формируются в соответствии с Бюджетным кодексом Республики Казахстан и решением Жангалинского районного маслихата от 25 декабря 2018 года №29-2 «О районном бюджете на 2019-2021 годы» (зарегистрированное в Реестре государственной регистрации нормативных правовых актов за № 5490).
 
-7. Учесть в бюджетах сельских округов на 2019 год поступление субвенций передаваемых из районного бюджета в сумме 243 665 тысяч тенге:
+7. Учесть в бюджетах сельских округов на 2019 год поступление субвенций передаваемых из районного бюджета в сумме 241 731 тысяча тенге:
 
    Жангалинский сельский округ – 122 599 тысяч тенге;
 
@@ -223,23 +223,23 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
    Жанажолский сельский округ – 11 679 тысяч тенге;
 
-   Копжасарский сельский округ – 45 057 тысяч тенге;
+   Копжасарский сельский округ – 43 123 тысячи тенге;
 
    Мастексайский сельский округ – 30 978 тысяч тенге.
 
-   Предусмотреть в бюджетах сельских округов на 2019 год поступления целевых трансфертов, передаваемых из районного бюджета в сумме 62 229 тысяч тенге, в том числе:
+   Предусмотреть в бюджетах сельских округов на 2019 год поступления целевых трансфертов, передаваемых из районного бюджета в сумме 79 178 тысяч тенге, в том числе:
 
-   Жангалинский сельский округ – 42 402 тысячи тенге;
+   Жангалинский сельский округ – 55 327 тысяч тенге;
 
    Жанаказанский сельский округ – 5 477 тысяч тенге;
 
-   Жанажолский сельский округ – 2 068 тысяч тенге;
+   Жанажолский сельский округ – 5 068 тысяч тенге;
 
    Копжасарский сельский округ – 6 668 тысяч тенге;
 
-   Мастексайский сельский округ – 5 614 тысяч тенге.
+   Мастексайский сельский округ – 6 638 тысяч тенге.
 
-   > *Сноска. Пункт 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+   > *Сноска. Пункт 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 8. Деньги от реализации товаров и услуг, предоставляемых государственными учреждениями, подведомственных местным исполнительным органам, используются ими в порядке, определяемом Бюджетным кодексом Республики Казахстан и Правительством Республики Казахстан.
 
@@ -263,12 +263,15 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 ## Бюджет Жангалинского сельского округа на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -293,12 +296,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>193 453</td>
+<td>206 378</td>
 </tr>
 <tr>
 <td>1</td>
@@ -402,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>165 001</td>
+<td>177 926</td>
 </tr>
 <tr>
 <td></td>
@@ -410,7 +413,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>165 001</td>
+<td>177 926</td>
 </tr>
 <tr>
 <td></td>
@@ -418,11 +421,14 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>165 001</td>
+<td>177 926</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="6">Сумма, тысяч тенге</td>
+<td rowspan="6">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -455,13 +461,13 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -470,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>195 007</td>
+<td>207 932</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -479,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>28 396</td>
+<td>30 159</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -488,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>28 396</td>
+<td>30 159</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -497,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 396</td>
+<td>30 159</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -506,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">001</td>
 <td></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>28 396</td>
+<td>30 159</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -524,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>25 723</td>
+<td>27 486</td>
 </tr>
 <tr>
 <td colspan="3">04</td>
@@ -533,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Образование</td>
-<td>131 566</td>
+<td>132 566</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -542,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>131 566</td>
+<td>132 566</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -551,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>131 566</td>
+<td>132 566</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -560,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">004</td>
 <td></td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>131 566</td>
+<td>132 566</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -578,7 +584,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>109 550</td>
+<td>110 550</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -587,7 +593,34 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>33 045</td>
+<td>43 207</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td>Жилищное хозяйство</td>
+<td>3 200</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">124</td>
+<td colspan="3"></td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>3 200</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">007</td>
+<td></td>
+<td>Организация сохранения государственного жилищного фонда города районного значения, села, поселка, сельского округа</td>
+<td>3 200</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -596,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>4 800</td>
+<td>4 037</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -605,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>4 800</td>
+<td>4 037</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -614,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">014</td>
 <td></td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>4 800</td>
+<td>4 037</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -623,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>4 800</td>
+<td>4 037</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -632,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>28 245</td>
+<td>35 970</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -641,7 +674,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 245</td>
+<td>35 970</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -668,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">009</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>3 845</td>
+<td>2 845</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -677,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">011</td>
 <td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>10 400</td>
+<td>19 125</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -686,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>10 400</td>
+<td>19 125</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -744,7 +777,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -769,12 +805,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -810,7 +846,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -835,12 +874,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -852,7 +891,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -877,12 +919,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -925,45 +967,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>1 554</td>
 </tr>
 <tr>
-<td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="12">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="9">Подкласс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="6">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
-</tr>
-<tr>
 <td colspan="2">7</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3">Поступление займов</td>
+<td colspan="3">Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
@@ -992,7 +1000,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1017,12 +1028,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -1034,7 +1045,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1059,12 +1073,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -5169,12 +5183,15 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 ## Бюджет Жанажолского сельского округа на 2019 год
 
-> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 7 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -5199,12 +5216,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -5212,7 +5229,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>15 589</td>
+<td>18 589</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5308,7 +5325,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>13 747</td>
+<td>16 747</td>
 </tr>
 <tr>
 <td></td>
@@ -5316,7 +5333,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>13 747</td>
+<td>16 747</td>
 </tr>
 <tr>
 <td></td>
@@ -5324,11 +5341,14 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>13 747</td>
+<td>16 747</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="6">Сумма, тысяч тенге</td>
+<td rowspan="6">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5361,13 +5381,13 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5376,7 +5396,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>15 734</td>
+<td>18 734</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -5385,7 +5405,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>14 493</td>
+<td>17 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5394,7 +5414,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>14 493</td>
+<td>17 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5403,7 +5423,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>14 493</td>
+<td>17 493</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -5431,6 +5451,15 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>12 625</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">022</td>
+<td></td>
+<td>Капитальные расходы государственного органа</td>
+<td>3 000</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -5560,7 +5589,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5585,12 +5617,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -5626,7 +5658,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5651,12 +5686,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5668,7 +5703,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5693,12 +5731,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -5741,45 +5779,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>145</td>
 </tr>
 <tr>
-<td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="12">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="9">Подкласс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="6">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
-</tr>
-<tr>
 <td colspan="2">7</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3">Поступление займов</td>
+<td colspan="3">Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
@@ -5808,7 +5812,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5833,12 +5840,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -5850,7 +5857,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5875,12 +5885,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -7406,12 +7416,15 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 ## Бюджет Копжасарского сельского округа на 2019 год
 
-> *Сноска. Приложение 10 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 10 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -7436,12 +7449,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -7449,7 +7462,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>53 907</td>
+<td>51 973</td>
 </tr>
 <tr>
 <td>1</td>
@@ -7545,7 +7558,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>51 725</td>
+<td>49 791</td>
 </tr>
 <tr>
 <td></td>
@@ -7553,7 +7566,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>51 725</td>
+<td>49 791</td>
 </tr>
 <tr>
 <td></td>
@@ -7561,11 +7574,14 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>51 725</td>
+<td>49 791</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="6">Сумма, тысяч тенге</td>
+<td rowspan="6">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7598,13 +7614,13 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7613,7 +7629,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>53 996</td>
+<td>52 062</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -7838,7 +7854,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>10 000</td>
+<td>8 066</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7847,7 +7863,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Прочие</td>
-<td>10 000</td>
+<td>8 066</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7856,7 +7872,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>10 000</td>
+<td>8 066</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7865,7 +7881,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">040</td>
 <td></td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>10 000</td>
+<td>8 066</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -7887,7 +7903,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -7912,12 +7931,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -7953,7 +7972,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -7978,12 +8000,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -7995,7 +8017,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -8020,12 +8045,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -8068,45 +8093,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>89</td>
 </tr>
 <tr>
-<td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="12">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="9">Подкласс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="6">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
-</tr>
-<tr>
 <td colspan="2">7</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3">Поступление займов</td>
+<td colspan="3">Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
@@ -8135,7 +8126,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -8160,12 +8154,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -8177,7 +8171,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -8202,12 +8199,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -9877,12 +9874,15 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 
 ## Бюджет Мастексайского сельского округа на 2019 год
 
-> *Сноска. Приложение 13 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 20.06.2019 № 36-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 13 - в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 22.10.2019 № 38-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -9907,12 +9907,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -9920,7 +9920,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>39 402</td>
+<td>40 426</td>
 </tr>
 <tr>
 <td>1</td>
@@ -10016,7 +10016,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>36 592</td>
+<td>37 616</td>
 </tr>
 <tr>
 <td></td>
@@ -10024,7 +10024,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>36 592</td>
+<td>37 616</td>
 </tr>
 <tr>
 <td></td>
@@ -10032,11 +10032,14 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td>36 592</td>
+<td>37 616</td>
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="6">Сумма, тысяч тенге</td>
+<td rowspan="6">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10069,13 +10072,13 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
+<td colspan="3">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10084,7 +10087,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>39 893</td>
+<td>40 917</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -10147,7 +10150,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Образование</td>
-<td>20 352</td>
+<td>21 376</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10156,7 +10159,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>20 352</td>
+<td>21 376</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10165,7 +10168,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20 352</td>
+<td>21 376</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10174,7 +10177,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">004</td>
 <td></td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>20 352</td>
+<td>21 376</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -10192,7 +10195,7 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3"></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>17 027</td>
+<td>18 051</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -10322,7 +10325,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10347,12 +10353,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -10388,7 +10394,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10413,12 +10422,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10430,7 +10439,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10455,12 +10467,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -10503,45 +10515,11 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td>491</td>
 </tr>
 <tr>
-<td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="12">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="9">Подкласс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="6">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
-</tr>
-<tr>
 <td colspan="2">7</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="3">Поступление займов</td>
+<td colspan="3">Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
@@ -10570,7 +10548,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10595,12 +10576,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -10612,7 +10593,10 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 </tr>
 <tr>
 <td colspan="14">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -10637,12 +10621,12 @@ source: https://zan.gov.kz/client/#!/doc/128356/rus/20.06.2019
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="3">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
