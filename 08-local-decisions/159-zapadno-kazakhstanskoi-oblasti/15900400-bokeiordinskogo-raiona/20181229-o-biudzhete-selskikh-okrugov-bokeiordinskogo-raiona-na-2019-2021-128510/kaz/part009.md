@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128510/kaz/21.10.2019
+source: https://zan.gov.kz/client/#!/doc/128510/kaz/12.12.2019
 ---
 
 > *Бөкей ордасы аудандық мәслихаттың*  
