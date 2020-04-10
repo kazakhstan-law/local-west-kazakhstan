@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/138208/rus/10.04.2020
 ---
 
 > *Приложение 1*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 > *от 9 января 2020 года № 38-1*
 
 ## Бюджет Каратобинского сельского округа на 2020 год
+
+> *Сноска. Приложение 1 в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 10.04.2020 № 41-1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -42,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="3">1) Доходы</td>
-<td>226927</td>
+<td>247348</td>
 </tr>
 <tr>
 <td>1</td>
@@ -161,21 +163,21 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -209,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>226927</td>
+<td>248335</td>
 </tr>
 <tr>
 <td>01</td>
@@ -305,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td></td>
@@ -313,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>15000</td>
+<td>15987</td>
 </tr>
 <tr>
 <td></td>
@@ -338,6 +340,14 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>2000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td>20421</td>
 </tr>
 <tr>
 <td>15</td>
@@ -552,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-987</td>
 </tr>
 <tr>
 <td></td>
@@ -560,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td>7</td>
@@ -685,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td></td>
@@ -693,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td></td>
@@ -701,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>987</td>
 </tr>
 </table>
 
@@ -2132,6 +2142,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 
 ## Бюджет Сулыкольского сельского округа на 2020 год
 
+> *Сноска. Приложение 4 в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 10.04.2020 № 41-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -2331,7 +2343,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>70130</td>
+<td>71371</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2339,7 +2351,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,7 +2359,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td></td>
@@ -2355,7 +2367,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td></td>
@@ -2363,7 +2375,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2722,7 +2734,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-1241</td>
 </tr>
 <tr>
 <td></td>
@@ -2730,7 +2742,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2855,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td></td>
@@ -2863,7 +2875,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td></td>
@@ -2871,7 +2883,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>1</td>
 <td></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 </table>
 
@@ -4318,6 +4330,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 
 ## Бюджет Саралжинского сельского округа на 2020 год
 
+> *Сноска. Приложение 7 в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 10.04.2020 № 41-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="6">Категория</td>
@@ -4350,7 +4364,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="3">1) Доходы</td>
-<td>30540</td>
+<td>30776</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4427,7 +4441,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td></td>
 <td colspan="3">Неналоговые поступления</td>
-<td>0</td>
+<td>236</td>
 </tr>
 <tr>
 <td></td>
@@ -4442,6 +4456,20 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>5</td>
 <td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td>236</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td>236</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4517,7 +4545,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>30540</td>
+<td>30776</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4589,7 +4617,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td></td>
@@ -4597,7 +4625,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td></td>
@@ -4605,7 +4633,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td></td>
@@ -4613,7 +4641,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/rus/09.01.2020
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>770</td>
+<td>1006</td>
 </tr>
 <tr>
 <td></td>

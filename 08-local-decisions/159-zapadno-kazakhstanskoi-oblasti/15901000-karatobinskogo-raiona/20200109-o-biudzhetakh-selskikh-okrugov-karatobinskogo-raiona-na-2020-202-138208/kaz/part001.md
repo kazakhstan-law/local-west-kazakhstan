@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
+source: https://zan.gov.kz/client/#!/doc/138208/kaz/10.04.2020
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 > *№ 38-1 шешіміне 1-қосымша*
 
 ## 2020 жылға арналған Қаратөбе ауылдық округінің бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 10.04.2020 № 41-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -41,7 +43,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">1) Кірістер</td>
-<td>226927</td>
+<td>247348</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -160,21 +162,21 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>215657</td>
+<td>236078</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
@@ -208,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">2) Шығындар</td>
-<td>226927</td>
+<td>248335</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -304,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -312,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -320,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17000</td>
+<td>38408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -328,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>15000</td>
+<td>15987</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -337,6 +339,14 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
 <td>2000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>011</td>
+<td colspan="2">Елді-мекендерді абаттандыру мен көгалдандыру</td>
+<td>20421</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -551,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-987</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -559,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -691,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -699,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>987</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -707,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>987</td>
 </tr>
 </table>
 
@@ -2149,6 +2159,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 
 ## 2020 жылға арналған Сулыкөл ауылдық округінің бюджеті
 
+> *Ескерту. 4-қосымша жаңа редакцияда Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 10.04.2020 № 41-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -2348,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">2) Шығындар</td>
-<td>70130</td>
+<td>71371</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2356,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2364,7 +2376,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2372,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2380,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>21342</td>
+<td>22583</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -2739,7 +2751,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1241</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2747,7 +2759,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -2879,7 +2891,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2887,7 +2899,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2895,7 +2907,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>1</td>
 <td></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1241</td>
 </tr>
 </table>
 
@@ -4353,6 +4365,8 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 
 ## 2020 жылға арналған Саралжын ауылдық округінің бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 10.04.2020 № 41-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -4385,7 +4399,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">1) Кірістер</td>
-<td>30540</td>
+<td>30776</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -4462,7 +4476,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Салықтық емес түсiмдер</td>
-<td>0</td>
+<td>236</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4477,6 +4491,20 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>5</td>
 <td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td></td>
+<td colspan="3">Басқа да салықтық емес түсімдер</td>
+<td>236</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>1</td>
+<td colspan="3">Басқа да салықтық емес түсімдер</td>
+<td>236</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -4552,7 +4580,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">2) Шығындар</td>
-<td>30540</td>
+<td>30776</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4624,7 +4652,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4632,7 +4660,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4640,7 +4668,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1570</td>
+<td>1806</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4648,7 +4676,7 @@ source: https://zan.gov.kz/client/#!/doc/138208/kaz/09.01.2020
 <td></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>770</td>
+<td>1006</td>
 </tr>
 <tr>
 <td colspan="2"></td>
