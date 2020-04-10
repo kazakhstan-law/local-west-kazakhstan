@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
+source: https://zan.gov.kz/client/#!/doc/137811/kaz/10.04.2020
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 
 ## 2020 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 31.03.2020 № 40-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 31.03.2020 № 40-2 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 10.04.2020 № 41-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -598,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Білім беру</td>
-<td>3107160</td>
+<td>3088175</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -678,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Білім беру саласындағы өзге де қызметтер</td>
-<td>175876</td>
+<td>156891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -686,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>175876</td>
+<td>156891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -734,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3">067</td>
 <td colspan="3">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>39085</td>
+<td>20100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1234,46 +1234,6 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
-<td colspan="3">Ауру жануарларды санитарлық союды ұйымдастыру</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
-<td colspan="3">Қаңғыбас иттер мен мысықтарды аулауды және жоюды ұйымдастыру</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">010</td>
-<td colspan="3">Ауыл шаруашылығы жануарларын сәйкестендіру жөніндегі іс-шараларды өткізу</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
-<td colspan="3">Эпизоотияға қарсы іс-шаралар жүргізу</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">047</td>
-<td colspan="3">Жануарлардың саулығы мен адамның денсаулығына қауіп төндіретін, алып қоймай залалсыздандырылған (зарарсыздандырылған) және қайта өңделген жануарлардың, жануарлардан алынатын өнімдер мен шикізаттың құнын иелеріне өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="3">6</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -1422,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Басқалар</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1430,7 +1390,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Басқалар</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1438,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1446,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3">012</td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -1550,7 +1510,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">3) Таза бюджеттік кредиттеу</td>
-<td>109904</td>
+<td>968938</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1558,7 +1518,39 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Бюджеттік кредиттер</td>
-<td>151108</td>
+<td>1010142</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Тұрғын үй шаруашылығы</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">466</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">003</td>
+<td colspan="3">Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
+<td>859034</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1772,7 +1764,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>-180247</td>
+<td>-1039281</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1780,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>180247</td>
+<td>1039281</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1788,7 +1780,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td>151107</td>
+<td>1010141</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1796,7 +1788,15 @@ source: https://zan.gov.kz/client/#!/doc/137811/kaz/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td>151107</td>
+<td>1010141</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="3"></td>
+<td colspan="2">Мемлекеттік эмиссиялық бағалы қағаздар</td>
+<td>859034</td>
 </tr>
 <tr>
 <td colspan="2"></td>

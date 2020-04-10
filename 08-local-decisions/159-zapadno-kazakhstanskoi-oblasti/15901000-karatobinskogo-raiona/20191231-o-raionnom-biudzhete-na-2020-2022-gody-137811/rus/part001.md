@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
+source: https://zan.gov.kz/client/#!/doc/137811/rus/10.04.2020
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 
 ## Районный бюджет на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 31.03.2020 № 40-2 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 31.03.2020 № 40-2 (вводится в действие с 01.01.2020); в редакции решения Каратобинского районного маслихата Западно-Казахстанской области от 10.04.2020 № 41-3 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -599,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Образование</td>
-<td>3107160</td>
+<td>3088175</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -679,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Прочие услуги в области образования</td>
-<td>175876</td>
+<td>156891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -687,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>175876</td>
+<td>156891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -735,7 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>39085</td>
+<td>20100</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1235,46 +1235,6 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">006</td>
-<td>Организация санитарного убоя больных животных</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">007</td>
-<td>Организация отлова и уничтожения бродячих собак и кошек</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">010</td>
-<td>Проведение мероприятий по идентификации сельскохозяйственных животных</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
-<td>Проведение противоэпизоотических мероприятий</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">047</td>
-<td>Возмещение владельцам стоимости обезвреженных (обеззараженных) и переработанных без изъятия животных, продукции и сырья животного происхождения, представляющих опасность для здоровья животных и человека</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2">6</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -1423,7 +1383,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Прочие</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1431,7 +1391,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Прочие</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1439,7 +1399,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1447,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3">012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>2000</td>
+<td>20985</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -1551,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>3) Чистое бюджетное кредитование</td>
-<td>109904</td>
+<td>968938</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1559,7 +1519,39 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Бюджетные кредиты</td>
-<td>151108</td>
+<td>1010142</td>
+</tr>
+<tr>
+<td colspan="2">07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td>Жилищное хозяйство</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">466</td>
+<td colspan="3"></td>
+<td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td>859034</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">003</td>
+<td>Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
+<td>859034</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1773,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>-180247</td>
+<td>-1039281</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1781,7 +1773,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>180247</td>
+<td>1039281</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1789,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Поступления займов</td>
-<td>151107</td>
+<td>1010141</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1797,7 +1789,15 @@ source: https://zan.gov.kz/client/#!/doc/137811/rus/31.03.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Внутренние государственные займы</td>
-<td>151107</td>
+<td>1010141</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3"></td>
+<td>Государственные эмиссионные ценные бумаги</td>
+<td>859034</td>
 </tr>
 <tr>
 <td colspan="2"></td>
