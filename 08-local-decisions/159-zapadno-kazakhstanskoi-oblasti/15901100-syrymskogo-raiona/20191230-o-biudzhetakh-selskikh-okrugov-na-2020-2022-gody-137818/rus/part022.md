@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
+source: https://zan.gov.kz/client/#!/doc/137818/rus/13.04.2020
 ---
 
 > *Приложение 22 к решению*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 > *от 30 декабря 2019 года №50-1*
 
 ## Бюджет Жымпитинского сельского округа на 2020 год
+
+> *Сноска. Приложение 22 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -47,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>73260</td>
+<td>89743</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -145,21 +147,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>54506</td>
+<td>70989</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>54506</td>
+<td>70989</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>54506</td>
+<td>70989</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -200,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>73260</td>
+<td>89743</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -208,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>41060</td>
+<td>42188</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -216,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>41060</td>
+<td>42188</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -224,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>41060</td>
+<td>42188</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -232,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>41060</td>
+<td>42188</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -244,10 +246,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -262,8 +264,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -304,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>32200</td>
+<td>47555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -312,7 +314,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>32200</td>
+<td>47555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -320,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>32200</td>
+<td>47555</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -328,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>0</td>
+<td>11000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -344,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>30000</td>
+<td>34355</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2070,6 +2072,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 
 ## Бюджет Кособинского сельского округа на 2020 год
 
+> *Сноска. Приложение 25 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="10">Категория</td>
@@ -2108,7 +2112,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>19397</td>
+<td>20310</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2206,21 +2210,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>19043</td>
+<td>19956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>19043</td>
+<td>19956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>19043</td>
+<td>19956</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -2261,7 +2265,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>19397</td>
+<td>20310</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2269,7 +2273,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>17749</td>
+<td>18371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2277,7 +2281,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>17749</td>
+<td>18371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2285,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17749</td>
+<td>18371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2293,7 +2297,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17749</td>
+<td>18371</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -2305,10 +2309,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2323,8 +2327,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2365,7 +2369,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1600</td>
+<td>1891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2373,7 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1600</td>
+<td>1891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2381,7 +2385,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1600</td>
+<td>1891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2405,7 +2409,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>591</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4131,6 +4135,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 
 ## Бюджет Саройского сельского округа на 2020 год
 
+> *Сноска. Приложение 28 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="10">Категория</td>
@@ -4169,7 +4175,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>17408</td>
+<td>17592</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -4267,21 +4273,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>17155</td>
+<td>17339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>17155</td>
+<td>17339</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>17155</td>
+<td>17339</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -4322,7 +4328,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>17408</td>
+<td>17592</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4366,10 +4372,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4384,8 +4390,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4426,7 +4432,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1643</td>
+<td>1827</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4434,7 +4440,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1643</td>
+<td>1827</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4442,7 +4448,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1643</td>
+<td>1827</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4466,7 +4472,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>484</td>
 </tr>
 <tr>
 <td colspan="2"></td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
+source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 ---
 
 > *Сырым аудандық мәслихатының*  
@@ -696,6 +696,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 
 ## 2020 жылға арналған Бұлдырты ауылдық округінің бюджеті
 
+> *Ескерту. 10-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -708,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -734,7 +736,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">1) Кірістер</td>
-<td>30617</td>
+<td>31844</td>
 </tr>
 <tr>
 <td>1</td>
@@ -790,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td>0</td>
+<td>72</td>
 </tr>
 <tr>
 <td></td>
@@ -811,14 +813,14 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3">06</td>
 <td colspan="3"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>0</td>
+<td>72</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td>0</td>
+<td>72</td>
 </tr>
 <tr>
 <td>3</td>
@@ -832,21 +834,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>28590</td>
+<td>29745</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>28590</td>
+<td>29745</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>28590</td>
+<td>29745</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -854,7 +856,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функционалдық кіші топ</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -887,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>30617</td>
+<td>32922</td>
 </tr>
 <tr>
 <td>01</td>
@@ -895,7 +897,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>26946</td>
+<td>28333</td>
 </tr>
 <tr>
 <td></td>
@@ -903,7 +905,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>26946</td>
+<td>28333</td>
 </tr>
 <tr>
 <td></td>
@@ -911,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>26946</td>
+<td>28333</td>
 </tr>
 <tr>
 <td></td>
@@ -919,7 +921,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>26946</td>
+<td>28333</td>
 </tr>
 <tr>
 <td>04</td>
@@ -931,10 +933,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -949,8 +951,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">004</td>
-<td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td colspan="3">005</td>
+<td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -991,7 +993,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3628</td>
+<td>4546</td>
 </tr>
 <tr>
 <td></td>
@@ -999,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>3628</td>
+<td>4546</td>
 </tr>
 <tr>
 <td></td>
@@ -1007,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3628</td>
+<td>4546</td>
 </tr>
 <tr>
 <td></td>
@@ -1015,7 +1017,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1622</td>
+<td>1722</td>
 </tr>
 <tr>
 <td></td>
@@ -1031,7 +1033,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>406</td>
+<td>1224</td>
 </tr>
 <tr>
 <td></td>
@@ -1061,7 +1063,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -1161,7 +1163,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -1209,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1217,7 +1219,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1078</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1325,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -1348,8 +1350,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>1078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1357,7 +1359,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1365,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1078</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1373,7 +1375,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1078</td>
 </tr>
 </table>
 
@@ -2757,6 +2759,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 
 ## 2020 жылға арналған Елтай ауылдық округінің бюджеті
 
+> *Ескерту. 13-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -2769,7 +2773,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2795,7 +2799,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">1) Кірістер</td>
-<td>13377</td>
+<td>13459</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2893,21 +2897,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>13189</td>
+<td>13271</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>13189</td>
+<td>13271</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>13189</td>
+<td>13271</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -2915,7 +2919,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функционалдық кіші топ</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2948,7 +2952,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>13377</td>
+<td>13459</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2956,7 +2960,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11630</td>
+<td>11712</td>
 </tr>
 <tr>
 <td></td>
@@ -2964,7 +2968,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>11630</td>
+<td>11712</td>
 </tr>
 <tr>
 <td></td>
@@ -2972,7 +2976,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>11630</td>
+<td>11712</td>
 </tr>
 <tr>
 <td></td>
@@ -2980,7 +2984,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11630</td>
+<td>11712</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2992,10 +2996,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -3010,8 +3014,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">004</td>
-<td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td colspan="3">005</td>
+<td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -3122,7 +3126,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -3222,7 +3226,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -3386,7 +3390,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -3409,7 +3413,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4818,6 +4822,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 
 ## 2020 жылға арналған Жетікөл ауылдық округінің бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="9">Санаты</td>
@@ -4830,7 +4836,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -4856,7 +4862,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">1) Кірістер</td>
-<td>21166</td>
+<td>21381</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4954,21 +4960,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>20824</td>
+<td>21039</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>20824</td>
+<td>21039</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>20824</td>
+<td>21039</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -4976,7 +4982,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="8">Функционалдық кіші топ</td>
+<td colspan="8">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -5009,7 +5015,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>21166</td>
+<td>21381</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5053,10 +5059,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -5071,8 +5077,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">004</td>
-<td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td colspan="3">005</td>
+<td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
 <td>0</td>
 </tr>
 <tr>
@@ -5113,7 +5119,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2138</td>
+<td>2353</td>
 </tr>
 <tr>
 <td></td>
@@ -5121,7 +5127,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>2138</td>
+<td>2353</td>
 </tr>
 <tr>
 <td></td>
@@ -5129,7 +5135,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2138</td>
+<td>2353</td>
 </tr>
 <tr>
 <td></td>
@@ -5153,7 +5159,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>300</td>
+<td>515</td>
 </tr>
 <tr>
 <td></td>
@@ -5183,7 +5189,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -5283,7 +5289,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -5447,7 +5453,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">Iшкi сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 <td></td>
 </tr>
 <tr>
@@ -5470,7 +5476,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>0</td>
 </tr>
 <tr>

@@ -1,14 +1,14 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
+source: https://zan.gov.kz/client/#!/doc/137818/rus/13.04.2020
 ---
 
-> *Приложение 1*  
-> *к решению Сырымского*  
-> *районного маслихата*  
+> *Приложение 1 к решению Сырымского районного маслихата*  
 > *от 30 декабря 2019 года №50-1*
 
 ## Бюджет Алгабасского сельского округа на 2020 год
+
+> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>22218</td>
+<td>22538</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -146,21 +146,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>21844</td>
+<td>22164</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>21844</td>
+<td>22164</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>21844</td>
+<td>22164</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>22218</td>
+<td>22538</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -245,10 +245,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>633</td>
 </tr>
 <tr>
@@ -263,8 +263,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>633</td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2347</td>
+<td>2667</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -313,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2347</td>
+<td>2667</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -321,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2347</td>
+<td>2667</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -345,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>620</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2071,6 +2071,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 
 ## Бюджет Аралтобинского сельского округа на 2020 год
 
+> *Сноска. Приложение 4 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="10">Категория</td>
@@ -2109,7 +2111,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>16232</td>
+<td>16439</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2207,21 +2209,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>15937</td>
+<td>16144</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>15937</td>
+<td>16144</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>15937</td>
+<td>16144</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -2262,7 +2264,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>16232</td>
+<td>16439</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2306,10 +2308,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2324,8 +2326,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2366,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1849</td>
+<td>2056</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2374,7 +2376,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1849</td>
+<td>2056</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2382,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1849</td>
+<td>2056</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2406,7 +2408,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>507</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4132,6 +4134,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 
 ## Бюджет Буланского сельского округа на 2020 год
 
+> *Сноска. Приложение 7 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2020 № 53-1 (вводится в действие с 01.01.2020).*
+
 <table>
 <tr>
 <td colspan="10">Категория</td>
@@ -4170,7 +4174,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>15316</td>
+<td>15497</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -4268,21 +4272,21 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>15135</td>
+<td>15316</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>15135</td>
+<td>15316</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>15135</td>
+<td>15316</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -4323,7 +4327,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>15316</td>
+<td>15497</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4367,10 +4371,10 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="2">2</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Дошкольное воспитание и обучение</td>
+<td>Начальное, основное среднее и общее среднее образование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4385,8 +4389,8 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="2">004</td>
-<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td colspan="2">005</td>
+<td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4427,7 +4431,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1562</td>
+<td>1743</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4435,7 +4439,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1562</td>
+<td>1743</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4443,7 +4447,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1562</td>
+<td>1743</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4467,7 +4471,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/rus/30.12.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>481</td>
 </tr>
 <tr>
 <td colspan="2"></td>
