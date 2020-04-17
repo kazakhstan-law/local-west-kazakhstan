@@ -1,16 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
+source: https://zan.gov.kz/client/#!/doc/138206/kaz/17.04.2020
 ---
 
-> *Бөрлі аудандық мәслихаттың*  
-> *2020 жылғы 10 қаңтардағы*  
-> *№ 46-1 шешіміне*  
-> *37-қосымша*
+> *Бөрлі аудандық мәслихаттың 2020 жылғы 10 қаңтардағы №46-1 шешіміне 37 - қосымша*
 
 ## 2020 жылға арналған Пугачев ауылдық округінің бюджеті
 
-> *Ескерту. 37-қосымша жаңа редакцияда Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 08.04.2020 № 48-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 37-қосымша жаңа редакцияда Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 08.04.2020 № 48-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 17.04.2020 № 49-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -26,7 +23,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -55,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық түсімдер</td>
-<td>5298</td>
+<td>5083</td>
 </tr>
 <tr>
 <td></td>
@@ -63,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Табыс салығы</td>
-<td>947</td>
+<td>2747</td>
 </tr>
 <tr>
 <td></td>
@@ -71,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>2</td>
 <td colspan="2"></td>
 <td>Жеке табыс салығы</td>
-<td>947</td>
+<td>2747</td>
 </tr>
 <tr>
 <td></td>
@@ -79,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Меншікке салынатын салықтар</td>
-<td>4351</td>
+<td>2336</td>
 </tr>
 <tr>
 <td></td>
@@ -103,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>4</td>
 <td colspan="2"></td>
 <td>Көлік құралдарына салынатын салық</td>
-<td>4031</td>
+<td>2016</td>
 </tr>
 <tr>
 <td>2</td>
@@ -111,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық емес түсімдер</td>
-<td>149</td>
+<td>364</td>
 </tr>
 <tr>
 <td></td>
@@ -119,7 +116,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк меншiктен түсетiн кiрiстер</td>
-<td>149</td>
+<td>364</td>
 </tr>
 <tr>
 <td></td>
@@ -127,7 +124,23 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>5</td>
 <td colspan="2"></td>
 <td>Мемлекет меншiгiндегi мүлiктi жалға беруден түсетiн кiрiстер</td>
-<td>149</td>
+<td>364</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>0</td>
 </tr>
 <tr>
 <td>3</td>
@@ -142,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Трансферттер түсімі</td>
+<td>Трансферттердің түсімдері</td>
 <td>46149</td>
 </tr>
 <tr>
@@ -167,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
-<td>Елді мекендерді көркейту</td>
+<td>Елді- мекендерді көркейту</td>
 <td>10147</td>
 </tr>
 <tr>
@@ -374,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -411,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -450,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -486,7 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>6)Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>2336</td>
 </tr>
 <tr>
@@ -494,7 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Қарыздар түсімі</td>
+<td>Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -503,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -542,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1721,14 +1734,11 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 </table>
 
-> *Бөрлі аудандық мәслихаттың*  
-> *2020 жылғы 10 қаңтардағы*  
-> *№ 46-1 шешіміне*  
-> *40-қосымша*
+> *Бөрлі аудандық мәслихаттың 2020 жылғы 10 қаңтардағы №46-1 шешіміне 40 - қосымша*
 
 ## 2020 жылға арналған Успен ауылдық округінің бюджеті
 
-> *Ескерту. 40-қосымша жаңа редакцияда Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 08.04.2020 № 48-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 40-қосымша жаңа редакцияда Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 08.04.2020 № 48-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 17.04.2020 № 49-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -1744,7 +1754,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1773,7 +1783,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық түсімдер</td>
-<td>1809</td>
+<td>1371</td>
 </tr>
 <tr>
 <td></td>
@@ -1781,7 +1791,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Табыс салығы</td>
-<td>1034</td>
+<td>596</td>
 </tr>
 <tr>
 <td></td>
@@ -1789,7 +1799,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>2</td>
 <td colspan="2"></td>
 <td>Жеке табыс салығы</td>
-<td>1034</td>
+<td>596</td>
 </tr>
 <tr>
 <td></td>
@@ -1829,7 +1839,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық емес түсімдер</td>
-<td>324</td>
+<td>762</td>
 </tr>
 <tr>
 <td></td>
@@ -1848,6 +1858,22 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>324</td>
 </tr>
 <tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>438</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>438</td>
+</tr>
+<tr>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1860,7 +1886,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Трансферттер түсімі</td>
+<td>Трансферттердің түсімдері</td>
 <td>39213</td>
 </tr>
 <tr>
@@ -1885,7 +1911,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -1966,7 +1992,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
-<td>Елді мекендерді көркейту</td>
+<td>Елді - мекендерді көркейту</td>
 <td>13362</td>
 </tr>
 <tr>
@@ -2060,7 +2086,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2097,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2136,7 +2162,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2172,7 +2198,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>6)Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2180,7 +2206,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Қарыздар түсімі</td>
+<td>Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2189,7 +2215,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2228,7 +2254,7 @@ source: https://zan.gov.kz/client/#!/doc/138206/kaz/08.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
