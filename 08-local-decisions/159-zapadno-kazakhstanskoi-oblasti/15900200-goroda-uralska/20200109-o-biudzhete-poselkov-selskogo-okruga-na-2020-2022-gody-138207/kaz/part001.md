@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
+source: https://zan.gov.kz/client/#!/doc/138207/kaz/27.04.2020
 ---
 
 > *Орал қалалық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 
 ## 2020 жылға арналған Зачаган кентінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 27.04.2020 № 43-6 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -26,7 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Кішісыныбы</td>
+<td colspan="7">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>371 502</td>
+<td>497 992</td>
 </tr>
 <tr>
 <td>01</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>289 664</td>
+<td>414 829</td>
 </tr>
 <tr>
 <td></td>
@@ -317,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>289 664</td>
+<td>414 829</td>
 </tr>
 <tr>
 <td></td>
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>289 664</td>
+<td>414 829</td>
 </tr>
 <tr>
 <td></td>
@@ -353,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2">011</td>
 <td colspan="2"></td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>54 339</td>
+<td>179 504</td>
 </tr>
 <tr>
 <td>08</td>
@@ -398,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Көлiк және коммуникация</td>
-<td>33 384</td>
+<td>34 709</td>
 </tr>
 <tr>
 <td></td>
@@ -407,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобиль көлiгi</td>
-<td>33 384</td>
+<td>34 709</td>
 </tr>
 <tr>
 <td></td>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>33 384</td>
+<td>34 709</td>
 </tr>
 <tr>
 <td></td>
@@ -426,6 +426,15 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>33 384</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">045</td>
+<td colspan="2"></td>
+<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td>1 325</td>
 </tr>
 <tr>
 <td>15</td>
@@ -665,7 +674,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>- 20 948</td>
+<td>- 147 438</td>
 </tr>
 <tr>
 <td></td>
@@ -674,7 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>20 948</td>
+<td>147 438</td>
 </tr>
 <tr>
 <td>7</td>
@@ -683,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыздар түсімдері</td>
-<td>0</td>
+<td>126 490</td>
 </tr>
 <tr>
 <td></td>
@@ -692,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td>0</td>
+<td>126 490</td>
 </tr>
 <tr>
 <td></td>
@@ -701,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/15.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қарыз алу келісім-шарттары</td>
-<td>0</td>
+<td>126 490</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
