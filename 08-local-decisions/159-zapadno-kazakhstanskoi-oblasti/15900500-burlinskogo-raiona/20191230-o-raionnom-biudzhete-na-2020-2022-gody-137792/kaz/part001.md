@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
+source: https://zan.gov.kz/client/#!/doc/137792/kaz/14.05.2020
 ---
 
 > *Бөрлі аудандық мәслихаттың 2019 жылғы 30 желтоқсандағы №45-6 шешіміне 1 - қосымша*
 
 ## 2020 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 31.03.2020 № 48-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 13.04.2020 № 49-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 31.03.2020 № 48-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 13.04.2020 № 49-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Бөрлі аудандық мәслихатының 14.05.2020 № 50-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -23,7 +23,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>15507221</td>
+<td>15626091</td>
 </tr>
 <tr>
 <td>1</td>
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Салықтық түсімдер</td>
-<td>11989098</td>
+<td>11226034</td>
 </tr>
 <tr>
 <td></td>
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Табыс салығы</td>
-<td>6356551</td>
+<td>6224719</td>
 </tr>
 <tr>
 <td></td>
@@ -76,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>2</td>
 <td colspan="2"></td>
 <td>Жеке табыс салығы</td>
-<td>2042765</td>
+<td>1910933</td>
 </tr>
 <tr>
 <td></td>
@@ -84,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтік салық</td>
-<td>4272519</td>
+<td>3671566</td>
 </tr>
 <tr>
 <td></td>
@@ -92,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>1</td>
 <td colspan="2"></td>
 <td>Әлеуметтік салық</td>
-<td>4272519</td>
+<td>3671566</td>
 </tr>
 <tr>
 <td></td>
@@ -100,7 +100,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Меншікке салынатын салықтар</td>
-<td>999546</td>
+<td>969267</td>
 </tr>
 <tr>
 <td></td>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>1</td>
 <td colspan="2"></td>
 <td>Мүлікке салынатын салықтар</td>
-<td>986133</td>
+<td>955854</td>
 </tr>
 <tr>
 <td></td>
@@ -347,8 +347,8 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>Трансферттер түсімі</td>
-<td>3087122</td>
+<td>Трансферттердің түсімдері</td>
+<td>3969056</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>3087122</td>
+<td>3969056</td>
 </tr>
 <tr>
 <td></td>
@@ -364,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>2</td>
 <td colspan="2"></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3087122</td>
+<td>3969056</td>
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -372,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -398,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>18573876</td>
+<td>18692746</td>
 </tr>
 <tr>
 <td>01</td>
@@ -694,7 +694,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Білім беру</td>
-<td>8056082</td>
+<td>8057665</td>
 </tr>
 <tr>
 <td></td>
@@ -726,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>6520729</td>
+<td>6522312</td>
 </tr>
 <tr>
 <td></td>
@@ -734,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>464</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>6359822</td>
+<td>6361405</td>
 </tr>
 <tr>
 <td></td>
@@ -742,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2">003</td>
 <td>Жалпы білім беру</td>
-<td>6036218</td>
+<td>6037801</td>
 </tr>
 <tr>
 <td></td>
@@ -809,12 +809,20 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>12206</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">067</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td>0</td>
+</tr>
+<tr>
 <td>06</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтік көмек және әлеуметтік қамсыздандыру</td>
-<td>724606</td>
+<td>863243</td>
 </tr>
 <tr>
 <td></td>
@@ -822,7 +830,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтiк қамсыздандыру</td>
-<td>179721</td>
+<td>252411</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +838,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>451</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>169517</td>
+<td>242207</td>
 </tr>
 <tr>
 <td></td>
@@ -838,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2">005</td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>169517</td>
+<td>242207</td>
 </tr>
 <tr>
 <td></td>
@@ -862,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Әлеуметтік көмек</td>
-<td>458448</td>
+<td>524395</td>
 </tr>
 <tr>
 <td></td>
@@ -870,7 +878,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>451</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>458448</td>
+<td>524395</td>
 </tr>
 <tr>
 <td></td>
@@ -878,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2">002</td>
 <td>Жұмыспен қамту бағдарламасы</td>
-<td>162741</td>
+<td>228688</td>
 </tr>
 <tr>
 <td></td>
@@ -1133,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
-<td>Елді мекендерді көркейту</td>
+<td>Елді- мекендерді көркейту</td>
 <td>355489</td>
 </tr>
 <tr>
@@ -1574,7 +1582,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Көлік және коммуникация</td>
-<td>1390541</td>
+<td>1369191</td>
 </tr>
 <tr>
 <td></td>
@@ -1582,7 +1590,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>Автомобиль көлігі</td>
-<td>1323441</td>
+<td>1302091</td>
 </tr>
 <tr>
 <td></td>
@@ -1590,7 +1598,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td>492</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>1323441</td>
+<td>1302091</td>
 </tr>
 <tr>
 <td></td>
@@ -1598,7 +1606,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td colspan="2">020</td>
 <td>Көлік инфрақұрылымын дамыту</td>
-<td>463277</td>
+<td>441927</td>
 </tr>
 <tr>
 <td></td>
@@ -1923,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1968,7 +1976,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2047,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2099,7 +2107,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>6)Бюджет тапшылығын (профицитін) қаржыландыру</td>
+<td>6) Бюджет тапшылығын (профицитін) қаржыландыру</td>
 <td>3999722</td>
 </tr>
 <tr>
@@ -2132,7 +2140,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Функционалдық кіші топ</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
@@ -2195,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/137792/kaz/13.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="4">Ішкі сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
