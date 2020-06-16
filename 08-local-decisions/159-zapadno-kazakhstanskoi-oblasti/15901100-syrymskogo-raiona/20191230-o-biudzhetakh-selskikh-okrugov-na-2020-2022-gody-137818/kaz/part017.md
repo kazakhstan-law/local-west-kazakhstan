@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
+source: https://zan.gov.kz/client/#!/doc/137818/kaz/16.06.2020
 ---
 
 > *Сырым аудандық мәслихатының*  
@@ -1383,7 +1383,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 
 ## 2020 жылға арналған Жосалы ауылдық округінің бюджеті
 
-> *Ескерту. 19-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 19-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 16.06.2020 № 55-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1576,7 +1576,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>18614</td>
+<td>18 614</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1584,7 +1584,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>15866</td>
+<td>15 866</td>
 </tr>
 <tr>
 <td></td>
@@ -1592,7 +1592,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>15866</td>
+<td>15 866</td>
 </tr>
 <tr>
 <td></td>
@@ -1600,7 +1600,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>15866</td>
+<td>15 866</td>
 </tr>
 <tr>
 <td></td>
@@ -1608,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>15866</td>
+<td>15 866</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1680,7 +1680,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1952</td>
+<td>1 952</td>
 </tr>
 <tr>
 <td></td>
@@ -1688,7 +1688,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>1952</td>
+<td>1 952</td>
 </tr>
 <tr>
 <td></td>
@@ -1696,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1952</td>
+<td>1 952</td>
 </tr>
 <tr>
 <td></td>
@@ -1712,7 +1712,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>700</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1720,7 +1720,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>515</td>
+<td>1 215</td>
 </tr>
 <tr>
 <td></td>
@@ -2015,6 +2015,12 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Кіші сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td></td>
 </tr>
 <tr>
@@ -3446,7 +3452,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 
 ## 2020 жылға арналған Жымпиты ауылдық округінің бюджеті
 
-> *Ескерту. 22-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 22-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 16.06.2020 № 55-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3639,7 +3645,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>89743</td>
+<td>91 154</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3647,7 +3653,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>42188</td>
+<td>42 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3655,7 +3661,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>42188</td>
+<td>42 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3663,7 +3669,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>42188</td>
+<td>42 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3671,7 +3677,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>42188</td>
+<td>42 788</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3743,7 +3749,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>47555</td>
+<td>48 366</td>
 </tr>
 <tr>
 <td></td>
@@ -3751,7 +3757,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>47555</td>
+<td>48 366</td>
 </tr>
 <tr>
 <td></td>
@@ -3759,7 +3765,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>47555</td>
+<td>48 366</td>
 </tr>
 <tr>
 <td></td>
@@ -3767,7 +3773,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>11000</td>
+<td>11 000</td>
 </tr>
 <tr>
 <td></td>
@@ -3775,7 +3781,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>2200</td>
+<td>2 200</td>
 </tr>
 <tr>
 <td></td>
@@ -3783,7 +3789,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>34355</td>
+<td>35 166</td>
 </tr>
 <tr>
 <td></td>
@@ -3961,7 +3967,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1 411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3969,7 +3975,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1 411</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -4101,7 +4107,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1 411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4109,7 +4115,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>1 411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4117,7 +4123,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1 411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4125,7 +4131,7 @@ source: https://zan.gov.kz/client/#!/doc/137818/kaz/13.04.2020
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>1 411</td>
 </tr>
 </table>
 
