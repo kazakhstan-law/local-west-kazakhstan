@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137584/kaz/06.05.2020
+source: https://zan.gov.kz/client/#!/doc/137584/kaz/14.07.2020
 ---
 
 > *Орал қалалық мәслихатының*  
