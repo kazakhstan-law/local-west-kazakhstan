@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
+source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 ---
 
 > *Орал қалалық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 
 ## 2020 жылға арналған Зачаган кентінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 27.04.2020 № 43-6 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 28.05.2020 № 45-5 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 27.04.2020 № 43-6 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 28.05.2020 № 45-5 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 30.07.2020 № 48-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1) Кірістер</td>
-<td>350 554</td>
+<td>373 412</td>
 </tr>
 <tr>
 <td>1</td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>228 265</td>
+<td>251 123</td>
 </tr>
 <tr>
 <td></td>
@@ -202,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>228 265</td>
+<td>251 123</td>
 </tr>
 <tr>
 <td></td>
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>228 265</td>
+<td>251 123</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>497 992</td>
+<td>520 850</td>
 </tr>
 <tr>
 <td>01</td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>47353</td>
+<td>47 353</td>
 </tr>
 <tr>
 <td></td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="2"></td>
-<td>Мемлекеттікорганныңкүрделішығыстары</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
 <td>450</td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>414 619</td>
+<td>433 119</td>
 </tr>
 <tr>
 <td></td>
@@ -316,8 +316,8 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Елді-мекендердікөркейту</td>
-<td>414 619</td>
+<td>Елді - мекендерді көркейту</td>
+<td>433 119</td>
 </tr>
 <tr>
 <td></td>
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>414 619</td>
+<td>433 119</td>
 </tr>
 <tr>
 <td></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">008</td>
 <td colspan="2"></td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
-<td>55 776</td>
+<td>65 776</td>
 </tr>
 <tr>
 <td></td>
@@ -353,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">011</td>
 <td colspan="2"></td>
 <td>Елдi мекендердi абаттандыру және көгалдандыру</td>
-<td>179 294</td>
+<td>187 794</td>
 </tr>
 <tr>
 <td>08</td>
@@ -370,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Мәдениетсаласындағықызмет</td>
+<td>Мәдениет саласындағы қызмет</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -398,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Көлiк және коммуникация</td>
-<td>34 919</td>
+<td>39 277</td>
 </tr>
 <tr>
 <td></td>
@@ -407,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобиль көлiгi</td>
-<td>34 919</td>
+<td>39 277</td>
 </tr>
 <tr>
 <td></td>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34 919</td>
+<td>39 277</td>
 </tr>
 <tr>
 <td></td>
@@ -434,7 +434,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">045</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>1 535</td>
+<td>5 893</td>
 </tr>
 <tr>
 <td>15</td>
@@ -674,7 +674,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>- 147 438</td>
+<td>-147 438</td>
 </tr>
 <tr>
 <td></td>
@@ -806,7 +806,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Бюджет қаражатықалдықтары</td>
+<td>Бюджет қаражаты қалдықтары</td>
 <td>20 948</td>
 </tr>
 <tr>
@@ -2020,7 +2020,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 
 ## 2020 жылға арналған Круглоозерный кентінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 30.07.2020 № 48-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -2036,7 +2036,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="8">Кішісыныбы</td>
+<td colspan="8">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -2059,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">1) Кірістер</td>
-<td>99 156</td>
+<td>112 747</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2185,7 +2185,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>89 747</td>
+<td>103 338</td>
 </tr>
 <tr>
 <td></td>
@@ -2194,7 +2194,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>89 747</td>
+<td>103 338</td>
 </tr>
 <tr>
 <td></td>
@@ -2203,7 +2203,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>89 747</td>
+<td>103 338</td>
 </tr>
 <tr>
 <td colspan="10">Функционалдық топ</td>
@@ -2246,7 +2246,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">2) Шығындар</td>
-<td>99 330</td>
+<td>112 921</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2255,7 +2255,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>35 161</td>
+<td>35 876</td>
 </tr>
 <tr>
 <td></td>
@@ -2264,7 +2264,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>35 161</td>
+<td>35 876</td>
 </tr>
 <tr>
 <td></td>
@@ -2273,7 +2273,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>35 161</td>
+<td>35 876</td>
 </tr>
 <tr>
 <td></td>
@@ -2282,7 +2282,16 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>35 161</td>
+<td>35 426</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">022</td>
+<td colspan="2"></td>
+<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td>450</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2291,7 +2300,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>57 096</td>
+<td>59 972</td>
 </tr>
 <tr>
 <td></td>
@@ -2300,7 +2309,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Елді-мекендерді көркейту</td>
-<td>57 096</td>
+<td>59 972</td>
 </tr>
 <tr>
 <td></td>
@@ -2309,7 +2318,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>57 096</td>
+<td>59 972</td>
 </tr>
 <tr>
 <td></td>
@@ -2318,7 +2327,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">008</td>
 <td colspan="2"></td>
 <td colspan="3">Елдi мекендердегі көшелердi жарықтандыру</td>
-<td>20 098</td>
+<td>22 974</td>
 </tr>
 <tr>
 <td></td>
@@ -2345,7 +2354,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Көлiк және коммуникация</td>
-<td>5 350</td>
+<td>15 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2354,7 +2363,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Автомобиль көлiгi</td>
-<td>5 350</td>
+<td>15 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2363,7 +2372,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5 350</td>
+<td>15 350</td>
 </tr>
 <tr>
 <td></td>
@@ -2372,7 +2381,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">013</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>5 350</td>
+<td>15 350</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2612,7 +2621,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td colspan="2">- 174</td>
+<td colspan="2">-174</td>
 </tr>
 <tr>
 <td></td>
@@ -3922,7 +3931,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 
 ## 2020 жылға арналған Желаев ауылдық округінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 15.04.2020 № 43-3 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 30.07.2020 № 48-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -3938,7 +3947,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Кішісыныбы</td>
+<td colspan="7">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -3961,7 +3970,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1) Кірістер</td>
-<td>74 320</td>
+<td>86 801</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4087,7 +4096,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>64 368</td>
+<td>76 849</td>
 </tr>
 <tr>
 <td></td>
@@ -4096,7 +4105,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>64 368</td>
+<td>76 849</td>
 </tr>
 <tr>
 <td></td>
@@ -4105,7 +4114,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>64 368</td>
+<td>76 849</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -4148,7 +4157,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2) Шығындар</td>
-<td>77 699</td>
+<td>90 180</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4184,7 +4193,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>22756</td>
+<td>22 756</td>
 </tr>
 <tr>
 <td></td>
@@ -4256,7 +4265,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td>3 435</td>
+<td>15 916</td>
 </tr>
 <tr>
 <td></td>
@@ -4265,7 +4274,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td>3 435</td>
+<td>15 916</td>
 </tr>
 <tr>
 <td></td>
@@ -4274,7 +4283,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 435</td>
+<td>15 916</td>
 </tr>
 <tr>
 <td></td>
@@ -4283,7 +4292,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/28.05.2020
 <td colspan="2">013</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>3 435</td>
+<td>15 916</td>
 </tr>
 <tr>
 <td>15</td>
