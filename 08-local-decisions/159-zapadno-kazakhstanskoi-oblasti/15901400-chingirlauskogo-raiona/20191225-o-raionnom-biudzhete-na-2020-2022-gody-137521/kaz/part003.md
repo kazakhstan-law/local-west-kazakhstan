@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137521/kaz/07.07.2020
+source: https://zan.gov.kz/client/#!/doc/137521/kaz/14.09.2020
 ---
 
 > *Шыңғырлау аудандық*  
