@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137811/kaz/09.07.2020
+source: https://zan.gov.kz/client/#!/doc/137811/kaz/18.09.2020
 ---
 
 > *Қаратөбе аудандық мәслихатының*  
