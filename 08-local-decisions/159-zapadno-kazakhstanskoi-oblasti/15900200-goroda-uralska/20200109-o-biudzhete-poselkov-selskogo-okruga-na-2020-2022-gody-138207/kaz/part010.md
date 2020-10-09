@@ -1,16 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
+source: https://zan.gov.kz/client/#!/doc/138207/kaz/09.10.2020
 ---
 
 > *Орал қалалық мәслихатының*  
 > *2020 жылғы 9 қаңтардағы*  
-> *№ 39-3 шешіміне*  
-> *10 - қосымша*
+> *№39-3 шешіміне*  
+> *10-қосымша*
 
 ## 2020 жылға арналған Деркөл кентінің бюджеті
 
-> *Ескерту. Шешім 10-қосымшамен толыктырылды - Батыс Қазақстан облысы Орал қалалық мәслихатының 30.07.2020 № 48-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. Шешім 10-қосымшамен толыктырылды - Батыс Қазақстан облысы Орал қалалық мәслихатының 30.07.2020 № 48-2 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Орал қалалық мәслихатының 09.10.2020 № 51-2 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -26,7 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="7">Кіші сыныбы</td>
+<td colspan="7">Кішісыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1) Кірістер</td>
-<td>17 056</td>
+<td>40 370</td>
 </tr>
 <tr>
 <td>1</td>
@@ -175,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>17 056</td>
+<td>40 370</td>
 </tr>
 <tr>
 <td></td>
@@ -184,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>17 056</td>
+<td>40 370</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>17 056</td>
+<td>40 370</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -236,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2) Шығындар</td>
-<td>17 056</td>
+<td>40 370</td>
 </tr>
 <tr>
 <td>01</td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>17 056</td>
+<td>21 056</td>
 </tr>
 <tr>
 <td></td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>17 056</td>
+<td>21 056</td>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17 056</td>
+<td>21 056</td>
 </tr>
 <tr>
 <td></td>
@@ -272,7 +272,70 @@ source: https://zan.gov.kz/client/#!/doc/138207/kaz/30.07.2020
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>17 056</td>
+<td>19 114</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">022</td>
+<td colspan="2"></td>
+<td colspan="2">Мемлекеттік органның күрдел ішығыстары</td>
+<td>1 942</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>19 314</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Елді-мекендерді көркейту</td>
+<td>19 314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>19 314</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">008</td>
+<td colspan="2"></td>
+<td colspan="2">Елдi мекендердегі көшелердi жарықтандыру</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">009</td>
+<td colspan="2"></td>
+<td colspan="2">Елдi мекендердiң санитариясын қамтамасыз ету</td>
+<td>9 450</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">011</td>
+<td colspan="2"></td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>9 864</td>
 </tr>
 <tr>
 <td></td>

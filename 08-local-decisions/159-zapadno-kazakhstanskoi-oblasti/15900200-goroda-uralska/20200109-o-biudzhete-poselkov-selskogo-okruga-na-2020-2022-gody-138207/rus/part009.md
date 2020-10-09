@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
+source: https://zan.gov.kz/client/#!/doc/138207/rus/09.10.2020
 ---
 
 > *Приложение 9*  
@@ -578,12 +578,11 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 </tr>
 </table>
 
-> *Приложение 10*  
-> *к решению Уральского городского маслихата от 9 января 2020 года № 39-3*
+> *Приложение 10 к решению Уральского городского маслихата от 9 января 2020 года №39-3*
 
 ## Бюджет поселка Деркул на 2020 год
 
-> *Сноска. Решение дополнено приложением 10 в соответствии с решением Уральского городского маслихата Западно-Казахстанской области от 30.07.2020 № 48-2 (вводится в действие с 01.01.2020).*
+> *Сноска. Решение дополнено приложением 10 в соответствии с решением Уральского городского маслихата Западно-Казахстанской области от 30.07.2020 № 48-2 (вводится в действие с 01.01.2020); в редакции решения Уральского городского маслихата Западно-Казахстанской области от 09.10.2020 № 51-2 (вводится в действие с 01.01.2020).*
 
 > *тысяч тенге*
 
@@ -622,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">1) Доходы</td>
-<td colspan="2">17 056</td>
+<td colspan="2">40 370</td>
 </tr>
 <tr>
 <td>1</td>
@@ -748,7 +747,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Поступления трансфертов</td>
-<td colspan="2">17 056</td>
+<td colspan="2">40 370</td>
 </tr>
 <tr>
 <td></td>
@@ -757,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">17 056</td>
+<td colspan="2">40 370</td>
 </tr>
 <tr>
 <td></td>
@@ -766,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">17 056</td>
+<td colspan="2">40 370</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -809,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td colspan="2">17 056</td>
+<td colspan="2">40 370</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -818,7 +817,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">17 056</td>
+<td colspan="2">21 056</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -827,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">17 056</td>
+<td colspan="2">21 056</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -836,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17 056</td>
+<td colspan="2">21 056</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -845,7 +844,70 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17 056</td>
+<td colspan="2">19 114</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2">022</td>
+<td colspan="2"></td>
+<td>Капитальные расходы государственного органа</td>
+<td colspan="2">1 942</td>
+</tr>
+<tr>
+<td colspan="3">07</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td colspan="2">19 314</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">3</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Благоустройство населенных пунктов</td>
+<td colspan="2">19 314</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td colspan="2">19 134</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>Освещение улиц в населенных пунктах</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>Обеспечение санитарии населенных пунктов</td>
+<td colspan="2">9 450</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2">011</td>
+<td colspan="2"></td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">9 864</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -925,7 +987,7 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">4) Сальдо по операциям с финансовыми активами</td>
+<td colspan="3">4)Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1129,78 +1191,6 @@ source: https://zan.gov.kz/client/#!/doc/138207/rus/30.07.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">01</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Погашение займов</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="16">Категория</td>
-<td colspan="2" rowspan="5">Сумма</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="14">Класс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="10">Подкласс</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="6">Специфика</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Наименование</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">01</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Свободные остатки бюджетных средств</td>
 <td colspan="2">0</td>
 </tr>
 </table>
