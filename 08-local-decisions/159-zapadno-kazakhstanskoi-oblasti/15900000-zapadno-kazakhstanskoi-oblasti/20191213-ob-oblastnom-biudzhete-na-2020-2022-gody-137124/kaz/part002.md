@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137124/kaz/30.09.2020
+source: https://zan.gov.kz/client/#!/doc/137124/kaz/06.11.2020
 ---
 
 > *2019 жылғы 13 желтоқсандағы №32-1*  
