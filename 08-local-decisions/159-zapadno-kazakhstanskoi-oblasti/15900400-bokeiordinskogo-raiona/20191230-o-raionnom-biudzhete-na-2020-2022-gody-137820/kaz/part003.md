@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137820/kaz/08.10.2020
+source: https://zan.gov.kz/client/#!/doc/137820/kaz/23.11.2020
 ---
 
 > *2019 жылғы 30 желтоқсандағы № 34-2*  
