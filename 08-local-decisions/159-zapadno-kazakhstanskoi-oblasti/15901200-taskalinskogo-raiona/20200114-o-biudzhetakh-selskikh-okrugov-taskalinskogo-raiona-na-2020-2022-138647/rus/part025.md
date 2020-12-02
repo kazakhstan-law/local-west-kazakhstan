@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138647/rus/08.10.2020
+source: https://zan.gov.kz/client/#!/doc/138647/rus/02.12.2020
 ---
 
 > *Приложение 25 к решению Таскалинского районного маслихата от 14 января 2020 года №43-1*
