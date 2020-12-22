@@ -1,19 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
+source: https://zan.gov.kz/client/#!/doc/137798/kaz/22.12.2020
 ---
 
 > *Аудандық мәслихаттың*  
-> *2020 жылғы 25 қарашадағы*  
-> *№ 53-1 шешіміне қосымша*
-
-> *Аудандық мәслихаттың*  
 > *2019 жылғы 27 желтоқсандағы*  
-> *№ 41-1 шешіміне 1-қосымша*
+> *№ 41-1 шешіміне 1-қосымша*  
+> *бұйрығына қосымша*
 
 ## 2020 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 31.03.2020 № 45-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.04.2020 № 47-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда- Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.05.2020 № 49-1(01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.07.2020 №50-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 17.09.2020 №51-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 25.11.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 31.03.2020 № 45-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.04.2020 № 47-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда- Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.05.2020 № 49-1(01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 13.07.2020 №50-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 17.09.2020 №51-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 25.11.2020 № 53-1 (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Батыс Қазақстан облысы Жаңақала аудандық мәслихатының 22.12.2020 № 55-1 (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -56,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">1) Кірістер</td>
-<td>5 915 886</td>
+<td>5 852 544</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -296,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>5 223 171</td>
+<td>5 159 829</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -304,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>5 223 171</td>
+<td>5 159 829</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -312,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">2</td>
 <td></td>
 <td colspan="4">Облыстық бюджеттен түсетiн трансферттер</td>
-<td>5 223 171</td>
+<td>5 159 829</td>
 </tr>
 <tr>
 <td colspan="11">Функционалдық топ</td>
@@ -354,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">2) Шығындар</td>
-<td>7 125 757</td>
+<td>7 015 442</td>
 </tr>
 <tr>
 <td>01</td>
@@ -362,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>293 399</td>
+<td>257 696</td>
 </tr>
 <tr>
 <td></td>
@@ -370,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>122 751</td>
+<td>120 751</td>
 </tr>
 <tr>
 <td></td>
@@ -394,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">122</td>
 <td colspan="3"></td>
 <td colspan="3">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>104 423</td>
+<td>102 423</td>
 </tr>
 <tr>
 <td></td>
@@ -402,7 +399,15 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>104 423</td>
+<td>102 423</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">003</td>
+<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -410,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Қаржылық қызмет</td>
-<td>31 086</td>
+<td>1 604</td>
 </tr>
 <tr>
 <td></td>
@@ -418,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>31 086</td>
+<td>1 604</td>
 </tr>
 <tr>
 <td></td>
@@ -426,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">003</td>
 <td colspan="3">Салық салу мақсатында мүлікті бағалауды жүргізу</td>
-<td>30 686</td>
+<td>1 204</td>
 </tr>
 <tr>
 <td></td>
@@ -442,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td>139 562</td>
+<td>135 341</td>
 </tr>
 <tr>
 <td></td>
@@ -450,7 +455,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">454</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік және ауыл шаруашылығы бөлімі</td>
-<td>19 536</td>
+<td>20 566</td>
 </tr>
 <tr>
 <td></td>
@@ -458,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Жергілікті деңгейде кәсіпкерлікті және ауыл шаруашылығын дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>19 536</td>
+<td>20 566</td>
 </tr>
 <tr>
 <td></td>
@@ -490,7 +495,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>91 710</td>
+<td>86 459</td>
 </tr>
 <tr>
 <td></td>
@@ -498,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономикалық саясаттын қалыптастыру мен дамыту, мемлекеттік жоспарлау, бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>23 425</td>
+<td>24 200</td>
 </tr>
 <tr>
 <td></td>
@@ -506,15 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">113</td>
 <td colspan="3">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td>57 285</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">039</td>
-<td colspan="3">Заңнаманың өзгеруіне байланысты жоғары тұрған бюджеттен төмен тұрған бюджеттерге өтемақыға берілетін ағымдағы нысаналы трансферттер</td>
-<td>11 000</td>
+<td>62 259</td>
 </tr>
 <tr>
 <td>02</td>
@@ -586,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Бiлiм беру</td>
-<td>3 635 974</td>
+<td>3 641 664</td>
 </tr>
 <tr>
 <td></td>
@@ -594,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мектепке дейiнгi тәрбие және оқыту</td>
-<td>36 576</td>
+<td>36 552</td>
 </tr>
 <tr>
 <td></td>
@@ -626,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>1 324</td>
+<td>1 300</td>
 </tr>
 <tr>
 <td></td>
@@ -634,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">037</td>
 <td colspan="3">Мектепке дейiнгi тәрбие және оқыту объектілерін салу және реконструкциялау</td>
-<td>1 324</td>
+<td>1 300</td>
 </tr>
 <tr>
 <td></td>
@@ -642,7 +639,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>3 452 781</td>
+<td>3 460 568</td>
 </tr>
 <tr>
 <td></td>
@@ -650,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">457</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>53 891</td>
+<td>58 939</td>
 </tr>
 <tr>
 <td></td>
@@ -658,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">017</td>
 <td colspan="3">Балалар мен жасөспірімдерге спорт бойынша қосымша білім беру</td>
-<td>53 891</td>
+<td>58 939</td>
 </tr>
 <tr>
 <td></td>
@@ -666,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>3 395 489</td>
+<td>3 398 228</td>
 </tr>
 <tr>
 <td></td>
@@ -674,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">003</td>
 <td colspan="3">Жалпы білім беру</td>
-<td>3 218 824</td>
+<td>3 224 032</td>
 </tr>
 <tr>
 <td></td>
@@ -682,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">006</td>
 <td colspan="3">Балаларға қосымша білім беру</td>
-<td>176 665</td>
+<td>172 965</td>
 </tr>
 <tr>
 <td></td>
@@ -706,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>146 617</td>
+<td>144 544</td>
 </tr>
 <tr>
 <td></td>
@@ -714,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>146 617</td>
+<td>144 544</td>
 </tr>
 <tr>
 <td></td>
@@ -722,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Жергілікті деңгейде білім беру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>12 017</td>
+<td>10 352</td>
 </tr>
 <tr>
 <td></td>
@@ -746,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">015</td>
 <td colspan="3">Жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға қамқоршыларға (қорғаншыларға) ай сайынға ақшалай қаражат төлемі</td>
-<td>3 520</td>
+<td>3 112</td>
 </tr>
 <tr>
 <td></td>
@@ -762,7 +759,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>830 824</td>
+<td>755 371</td>
 </tr>
 <tr>
 <td></td>
@@ -770,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Әлеуметтiк қамсыздандыру</td>
-<td>309 915</td>
+<td>236 577</td>
 </tr>
 <tr>
 <td></td>
@@ -778,7 +775,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">451</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>309 915</td>
+<td>236 577</td>
 </tr>
 <tr>
 <td></td>
@@ -786,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">005</td>
 <td colspan="3">Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>309 915</td>
+<td>236 577</td>
 </tr>
 <tr>
 <td></td>
@@ -794,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Әлеуметтiк көмек</td>
-<td>482 390</td>
+<td>479 175</td>
 </tr>
 <tr>
 <td></td>
@@ -802,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">451</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>482 390</td>
+<td>479 175</td>
 </tr>
 <tr>
 <td></td>
@@ -810,7 +807,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">002</td>
 <td colspan="3">Жұмыспен қамту бағдарламасы</td>
-<td>262 769</td>
+<td>262 624</td>
 </tr>
 <tr>
 <td></td>
@@ -818,7 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">006</td>
 <td colspan="3">Тұрғын үйге көмек көрсету</td>
-<td>9 000</td>
+<td>7 876</td>
 </tr>
 <tr>
 <td></td>
@@ -834,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">010</td>
 <td colspan="3">Үйден тәрбиеленіп оқытылатын мүгедек балаларды материалдық қамтамасыз ету</td>
-<td>1 364</td>
+<td>848</td>
 </tr>
 <tr>
 <td></td>
@@ -842,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">014</td>
 <td colspan="3">Мұқтаж азаматтарға үйде әлеуметтiк көмек көрсету</td>
-<td>78 188</td>
+<td>76 613</td>
 </tr>
 <tr>
 <td></td>
@@ -858,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">023</td>
 <td colspan="3">Жұмыспен қамту орталықтарының қызметін қамтамасыз ету</td>
-<td>36 599</td>
+<td>36 744</td>
 </tr>
 <tr>
 <td></td>
@@ -866,7 +863,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>38 519</td>
+<td>39 619</td>
 </tr>
 <tr>
 <td></td>
@@ -874,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">451</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>38 519</td>
+<td>39 619</td>
 </tr>
 <tr>
 <td></td>
@@ -882,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Жергілікті деңгейде халық үшін әлеуметтік бағдарламаларды жұмыспен қамтуды қамтамасыз етуді іске асыру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>30 736</td>
+<td>31 836</td>
 </tr>
 <tr>
 <td></td>
@@ -922,7 +919,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>986 047</td>
+<td>975 283</td>
 </tr>
 <tr>
 <td></td>
@@ -930,7 +927,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Тұрғын үй шаруашылығы</td>
-<td>103 385</td>
+<td>99 935</td>
 </tr>
 <tr>
 <td></td>
@@ -938,7 +935,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">458</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>60 449</td>
+<td>56 999</td>
 </tr>
 <tr>
 <td></td>
@@ -946,7 +943,15 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">003</td>
 <td colspan="3">Мемлекеттік тұрғын үй қорын сақтауды ұйымдастыру</td>
-<td>6 689</td>
+<td>6 679</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">033</td>
+<td colspan="3">Инженерлік-коммуникациалық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
+<td>10</td>
 </tr>
 <tr>
 <td></td>
@@ -954,7 +959,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">070</td>
 <td colspan="3">Қазақстан Республикасында төтенше жағдай режимінде коммуналдық қызметтерге ақы төлеу бойынша халықтың төлемдерін өтеу</td>
-<td>53 760</td>
+<td>50 310</td>
 </tr>
 <tr>
 <td></td>
@@ -986,7 +991,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Коммуналдық шаруашылық</td>
-<td>882 662</td>
+<td>875 348</td>
 </tr>
 <tr>
 <td></td>
@@ -994,7 +999,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">458</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>29 834</td>
+<td>27 825</td>
 </tr>
 <tr>
 <td></td>
@@ -1002,7 +1007,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">012</td>
 <td colspan="3">Сумен жабдықтау және су бұру жұйесінің жұмыс істеуі</td>
-<td>4 089</td>
+<td>2 080</td>
 </tr>
 <tr>
 <td></td>
@@ -1018,7 +1023,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>852 828</td>
+<td>847 523</td>
 </tr>
 <tr>
 <td></td>
@@ -1026,7 +1031,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">007</td>
 <td colspan="3">Қаланы және елді мекендерді абаттандыруды дамыту</td>
-<td>1 200</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1034,7 +1039,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">058</td>
 <td colspan="3">Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
-<td>851 628</td>
+<td>847 523</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1042,7 +1047,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>669 856</td>
+<td>705 931</td>
 </tr>
 <tr>
 <td></td>
@@ -1050,7 +1055,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мәдениет саласындағы қызмет</td>
-<td>340 661</td>
+<td>380 041</td>
 </tr>
 <tr>
 <td></td>
@@ -1058,7 +1063,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">457</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>150 452</td>
+<td>210 165</td>
 </tr>
 <tr>
 <td></td>
@@ -1066,7 +1071,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">003</td>
 <td colspan="3">Мәдени-демалыс жұмысын қолдау</td>
-<td>150 452</td>
+<td>210 165</td>
 </tr>
 <tr>
 <td></td>
@@ -1074,7 +1079,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>190 209</td>
+<td>169 876</td>
 </tr>
 <tr>
 <td></td>
@@ -1082,7 +1087,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td colspan="3">Мәдениет объектілерін дамыту</td>
-<td>190 209</td>
+<td>169 876</td>
 </tr>
 <tr>
 <td></td>
@@ -1090,7 +1095,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Спорт</td>
-<td>38 503</td>
+<td>32 902</td>
 </tr>
 <tr>
 <td></td>
@@ -1098,7 +1103,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">457</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>38 503</td>
+<td>32 902</td>
 </tr>
 <tr>
 <td></td>
@@ -1106,7 +1111,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td colspan="3">Ұлттық және бұқаралық спорт түрлерін дамыту</td>
-<td>35 099</td>
+<td>30 983</td>
 </tr>
 <tr>
 <td></td>
@@ -1114,7 +1119,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td colspan="3">Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
-<td>3 404</td>
+<td>1 919</td>
 </tr>
 <tr>
 <td></td>
@@ -1122,7 +1127,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Ақпараттық кеңiстiк</td>
-<td>119 753</td>
+<td>121 266</td>
 </tr>
 <tr>
 <td></td>
@@ -1146,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">457</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) мәдениет, тілдерді дамыту, дене шынықтыру және спорт бөлімі</td>
-<td>109 253</td>
+<td>110 766</td>
 </tr>
 <tr>
 <td></td>
@@ -1154,7 +1159,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">006</td>
 <td colspan="3">Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
-<td>108 553</td>
+<td>110 611</td>
 </tr>
 <tr>
 <td></td>
@@ -1162,7 +1167,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">007</td>
 <td colspan="3">Мемлекеттiк тiлдi және Қазақстан халқының басқа да тiлдерін дамыту</td>
-<td>700</td>
+<td>155</td>
 </tr>
 <tr>
 <td></td>
@@ -1170,7 +1175,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>170 939</td>
+<td>171 722</td>
 </tr>
 <tr>
 <td></td>
@@ -1178,7 +1183,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">456</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td>37 650</td>
+<td>38 433</td>
 </tr>
 <tr>
 <td></td>
@@ -1186,7 +1191,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Жергілікті деңгейде ақпарат, мемлекеттілікті нығайту және азаматтардың әлеуметтік сенімділігін қалыптастыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>12 307</td>
+<td>13 090</td>
 </tr>
 <tr>
 <td></td>
@@ -1226,7 +1231,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>44 015</td>
+<td>40 269</td>
 </tr>
 <tr>
 <td></td>
@@ -1266,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Жер қатынастары</td>
-<td>19 315</td>
+<td>19 729</td>
 </tr>
 <tr>
 <td></td>
@@ -1274,7 +1279,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">463</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td>19 315</td>
+<td>19 729</td>
 </tr>
 <tr>
 <td></td>
@@ -1282,7 +1287,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>17 415</td>
+<td>18 052</td>
 </tr>
 <tr>
 <td></td>
@@ -1290,7 +1295,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">006</td>
 <td colspan="3">Аудандардың, облыстық маңызы бар, аудандық маңызы бар қалалардың, кенттердiң, ауылдардың, ауылдық округтердiң шекарасын белгiлеу кезiнде жүргiзiлетiн жерге орналастыру</td>
-<td>1 900</td>
+<td>1 677</td>
 </tr>
 <tr>
 <td></td>
@@ -1298,7 +1303,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
-<td>22 779</td>
+<td>18 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1306,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>22 779</td>
+<td>18 619</td>
 </tr>
 <tr>
 <td></td>
@@ -1314,7 +1319,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">099</td>
 <td colspan="3">Мамандарға әлеуметтік қолдау көрсету жөніндегі шараларды іске асыру</td>
-<td>22 779</td>
+<td>18 619</td>
 </tr>
 <tr>
 <td>11</td>
@@ -1322,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>25 264</td>
+<td>23 564</td>
 </tr>
 <tr>
 <td></td>
@@ -1330,7 +1335,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>25 264</td>
+<td>23 564</td>
 </tr>
 <tr>
 <td></td>
@@ -1338,7 +1343,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>25 264</td>
+<td>23 564</td>
 </tr>
 <tr>
 <td></td>
@@ -1346,7 +1351,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td colspan="3">Құрылыс, облыс қалаларының, аудандарының және елді мекендерінің сәулеттік бейнесін жақсарту саласындағы мемлекеттік саясатты іске асыру және ауданның (облыстық маңызы бар қаланың) аумағын оңтайла және тиімді қала құрылыстық игеруді қамтамасыз ету жөніндегі қызметтер</td>
-<td>21 864</td>
+<td>20 164</td>
 </tr>
 <tr>
 <td></td>
@@ -1362,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк және коммуникация</td>
-<td>29 600</td>
+<td>29 174</td>
 </tr>
 <tr>
 <td></td>
@@ -1394,7 +1399,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Көлiк және коммуникациялар саласындағы өзге де қызметтер</td>
-<td>1 600</td>
+<td>1 174</td>
 </tr>
 <tr>
 <td></td>
@@ -1402,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">458</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>1 600</td>
+<td>1 174</td>
 </tr>
 <tr>
 <td></td>
@@ -1410,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">037</td>
 <td colspan="3">Әлеуметтік маңызы бар қалалық (ауылдық), қала маңындағы және ауданішілік қатынастар бойынша жолаушылар тасымалдарын субсидиялау</td>
-<td>1 600</td>
+<td>1 174</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1418,7 +1423,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Басқалар</td>
-<td>73 947</td>
+<td>68 459</td>
 </tr>
 <tr>
 <td></td>
@@ -1426,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Басқалар</td>
-<td>73 947</td>
+<td>68 459</td>
 </tr>
 <tr>
 <td></td>
@@ -1434,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>73 947</td>
+<td>68 459</td>
 </tr>
 <tr>
 <td></td>
@@ -1442,7 +1447,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">012</td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>73 947</td>
+<td>68 459</td>
 </tr>
 <tr>
 <td>14</td>
@@ -1482,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер</td>
-<td>524 871</td>
+<td>506 071</td>
 </tr>
 <tr>
 <td></td>
@@ -1490,7 +1495,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Трансферттер</td>
-<td>524 871</td>
+<td>506 071</td>
 </tr>
 <tr>
 <td></td>
@@ -1498,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>524 871</td>
+<td>506 071</td>
 </tr>
 <tr>
 <td></td>
@@ -1514,7 +1519,15 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">038</td>
 <td colspan="3">Субвенциялар</td>
-<td>432 391</td>
+<td>402 591</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">039</td>
+<td colspan="3">Заңнаманың өзгеруіне байланысты жоғары тұрған бюджеттен төмен тұрған бюджеттерге өтемақыға берілетін ағымдағы нысаналы трансферттер</td>
+<td>11 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1538,7 +1551,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">3) Таза бюджеттік кредиттеу</td>
-<td>49 779</td>
+<td>76 419</td>
 </tr>
 <tr>
 <td></td>
@@ -1546,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Бюджеттік кредиттер</td>
-<td>115 595</td>
+<td>116 735</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1554,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>115 595</td>
+<td>116 735</td>
 </tr>
 <tr>
 <td></td>
@@ -1562,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
-<td>115 595</td>
+<td>116 735</td>
 </tr>
 <tr>
 <td></td>
@@ -1570,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2">459</td>
 <td colspan="3"></td>
 <td colspan="3">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>115 595</td>
+<td>116 735</td>
 </tr>
 <tr>
 <td></td>
@@ -1578,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="2"></td>
 <td colspan="3">018</td>
 <td colspan="3">Мамандарды әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
-<td>115 595</td>
+<td>116 735</td>
 </tr>
 <tr>
 <td colspan="11">Санаты</td>
@@ -1620,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>65 816</td>
+<td>40 316</td>
 </tr>
 <tr>
 <td></td>
@@ -1628,7 +1641,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>65 816</td>
+<td>40 316</td>
 </tr>
 <tr>
 <td></td>
@@ -1636,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3">1</td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>65 816</td>
+<td>40 316</td>
 </tr>
 <tr>
 <td></td>
@@ -1784,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>-1 259 650</td>
+<td>-1 239 317</td>
 </tr>
 <tr>
 <td></td>
@@ -1792,7 +1805,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>1 259 650</td>
+<td>1 239 317</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1800,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td>1 244 104</td>
+<td>1 223 771</td>
 </tr>
 <tr>
 <td></td>
@@ -1808,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td>1 244 104</td>
+<td>1 223 771</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,7 +1829,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3">2</td>
 <td colspan="3"></td>
 <td colspan="2">Қарыз алу келісім-шарттары</td>
-<td>1 244 104</td>
+<td>1 223 771</td>
 </tr>
 <tr>
 <td></td>
@@ -1824,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/137798/kaz/25.11.2020
 <td colspan="3"></td>
 <td colspan="3">03</td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органы алатын қарыздар</td>
-<td>1 244 104</td>
+<td>1 223 771</td>
 </tr>
 <tr>
 <td colspan="11">Функционалдық топ</td>
