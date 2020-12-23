@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137814/kaz/18.11.2020
+source: https://zan.gov.kz/client/#!/doc/137814/kaz/23.12.2020
 ---
 
 > *Тасқала аудандық мәслихатының*  
