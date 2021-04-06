@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
+source: https://zan.gov.kz/client/#!/doc/150573/rus/06.04.2021
 ---
 
 # О бюджете Желаевского сельского округа на 2021-2023 годы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 
 1. Утвердить бюджет Желаевского сельского округа города Уральск на 2021-2023 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2021 год в следующих объемах:
 
-   1) доходы – 77 063 тысячи тенге:
+   1) доходы – 89 654 тысячи тенге:
 
       налоговые поступления – 9 422 тысячи тенге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 67 436 тысяч тенге;
+      поступления трансфертов – 80 027 тысяч тенге;
 
-   2) затраты – 77 063 тысячи тенге;
+   2) затраты – 90 188 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -34,15 +34,17 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 
       поступления от продажи финансовых активов государства – 0 тенге;
 
-   5) дефицит (профицит) бюджета – 0 тенге;
+   5) дефицит (профицит) бюджета – -534 тысячи тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0 тенге:
+   6) финансирование дефицита (использование профицита) бюджета – 534 тысячи тенге:
 
       поступления займов – 0 тенге;
 
       погашение займов – 0 тенге;
 
-      используемые остатки бюджетных средств – 0 тенге.
+      используемые остатки бюджетных средств – 534 тысячи тенге.
+
+> *Сноска. Пункт 1 в редакции решения Уральского городского маслихата Западно-Казахстанской области от 06.04.2021 № 4-4 (вводится в действие с 01.01.2021).*
 
 2. Поступления в бюджет Желаевского сельского округа на 2021 год формируются в соответствии с Бюджетным кодексом Республики Казахстан и решением Уральского городского маслихата от 23 декабря 2020 года № 56-3 «О городском бюджете на 2021-2023 годы» (зарегистрированное в Реестре государственной регистрации нормативных правовых актов от 24 декабря 2020 года № 6598).
 
@@ -66,9 +68,14 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 
 **М. Каженов**
 
-> *Приложение 1 к решению Уральского городского маслихата от 25 декабря 2020 года № 56-6*
+> *Приложение 1*  
+> *к решению Уральского*  
+> *городского маслихата*  
+> *от 25 декабря 2020 года №56-6*
 
 ## Бюджет Желаевского сельского округа на 2021 год
+
+> *Сноска. Приложение 1 в редакции решения Уральского городского маслихата Западно-Казахстанской области от 06.04.2021 № 4-4 (вводится в действие с 01.01.2021).*
 
 > *тысяч тенге*
 
@@ -107,7 +114,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">1) Доходы</td>
-<td colspan="2">77 063</td>
+<td colspan="2">89 654</td>
 </tr>
 <tr>
 <td>1</td>
@@ -233,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Поступления трансфертов</td>
-<td colspan="2">67 436</td>
+<td colspan="2">80 027</td>
 </tr>
 <tr>
 <td></td>
@@ -242,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">67 436</td>
+<td colspan="2">80 027</td>
 </tr>
 <tr>
 <td></td>
@@ -251,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="3"></td>
 <td></td>
 <td colspan="7">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">67 436</td>
+<td colspan="2">80 027</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -294,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td colspan="2">77 063</td>
+<td colspan="2">90 188</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -303,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">22 491</td>
+<td colspan="2">22 705</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -312,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">22 491</td>
+<td colspan="2">22 705</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -321,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">22 491</td>
+<td colspan="2">22 705</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -330,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">22 491</td>
+<td colspan="2">22 705</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -339,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">51 137</td>
+<td colspan="2">51 457</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -348,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">51 137</td>
+<td colspan="2">51 457</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -357,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">51 137</td>
+<td colspan="2">51 457</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -366,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2">008</td>
 <td colspan="2"></td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">10 365</td>
+<td colspan="2">10 485</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -384,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2">011</td>
 <td colspan="2"></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">8 399</td>
+<td colspan="2">8 599</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -393,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">3 435</td>
+<td colspan="2">16 026</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -402,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td colspan="2">3 435</td>
+<td colspan="2">16 026</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -411,7 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">3 435</td>
+<td colspan="2">16 026</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -420,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2">013</td>
 <td colspan="2"></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">3 435</td>
+<td colspan="2">16 026</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -625,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -634,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>534</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -642,8 +649,8 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Поступления займов</td>
-<td colspan="2">0</td>
+<td colspan="3">Поступления займов</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -651,8 +658,8 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Внутренние государственные займы</td>
-<td colspan="2">0</td>
+<td colspan="3">Внутренние государственные займы</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -660,8 +667,8 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="4">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Договоры займа</td>
-<td colspan="2">0</td>
+<td colspan="3">Договоры займа</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="16">Функциональная группа</td>
@@ -749,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -758,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -767,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">534</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -776,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/150573/rus/25.12.2020
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">534</td>
 </tr>
 </table>
 
