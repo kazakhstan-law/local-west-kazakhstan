@@ -1,5 +1,5 @@
 ---
-version_id: '150904_503049'
+version_id: '150904_519556'
 act_code: '150904'
 language: kaz
 title: 2021-2023 жылдарға арналған Жәнібек ауданы Талов ауылдық округінің бюджеті туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '159007000002'
 approval_date: 2020-12-28
-version_date: 2020-12-28
+version_date: 2021-04-16
 registry_number: '150904'
-source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
+caused_by:
+  code: '154942'
+  title: Жәнібек аудандық мәслихатының 2020 жылғы 28 желтоқсандағы №51-7 «2021-2023 жылдарға арналған Жәнібек ауданы Талов ауылдық округінің бюджеті туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/154942/kaz
+source: https://zan.gov.kz/client/#!/doc/150904/kaz/16.04.2021
 ---
 
 # 2021 - 2023 жылдарға арналған Жәнібек ауданы Талов ауылдық округінің бюджеті туралы
@@ -21,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 
 Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы Бюджет кодексіне, Қазақстан Республикасының 2001 жылғы 23 қаңтардағы «Қазақстан Республикасындағы жергілікті мемлекеттік басқару және өзін-өзі басқару туралы» Заңына сәйкес Жәнібек аудандық мәслихат ШЕШІМ ҚАБЫЛДАДЫ:
 
-1. 2021-2023 жылдарға арналған Талов ауылдық округінің бюджеті тиісінше 1, 2 және 3- қосымшаларға сәйкес, соның ішінде 2021 жылға келесі көлемдерде бекітілсін:
+1. 2021 - 2023 жылдарға арналған Талов ауылдық округінің бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, соның ішінде 2021 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 49 352 мың теңге:
+   1) кірістер – 49 990 мың теңге:
 
       салықтық түсімдер – 894 мың теңге;
 
@@ -31,9 +35,9 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 
       негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
 
-      трансферттер түсімі – 48 458 мың теңге;
+      трансферттер түсімі – 49 096 мың теңге;
 
-   2) шығындар – 49 352 мың теңге;
+   2) шығындар – 49 990 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -47,15 +51,17 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0 теңге;
 
-   5) бюджет тапшылығы (профициті) – 0 теңге;
+   5) бюджет тапшылығы (профициті) – -638 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 0 теңге:
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 638 мың теңге:
 
       қарыздар түсімі – 0 теңге;
 
       қарыздарды өтеу – 0 теңге;
 
-      бюджет қаражатының пайдаланылатын қалдықтары – 0 теңге.
+      бюджет қаражатының пайдаланылатын қалдықтары – 638 теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 16.04.2021 № 5-7 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. 2021 жылға арналған Талов ауылдық округінің бюджет түсімдері Қазақстан Республикасының Бюджет кодексіне, Жәнібек аудандық мәслихатының 2020 жылғы 23желтоқсандағы №50-2 «2021 – 2023 жылдарға арналған аудандық бюджет туралы» (Нормативтік құқықтық актілерді мемлекеттік тіркеу тізілімінде №6582тіркелген) шешіміне сәйкес қалыптасады.
 
@@ -77,13 +83,15 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 
 **Т. Кадимов**
 
-> *Жәнібек аудандық мәслихатының*  
+> *Жәнібек аудандық мәслихаттың*  
 > *2020 жылғы 28 желтоқсандағы*  
-> *№51-7 шешіміне 1-қосымша*
+> *№ 51-7 шешіміне 1-қосымша*
 
 ## 2021 жылға арналған Талов ауылдық округінің бюджеті
 
-> *мың теңге*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 16.04.2021 № 5-7 (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+
+мың теңге
 
 <table>
 <tr>
@@ -112,12 +120,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -125,7 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>49 352</td>
+<td>49 990</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -141,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Табыс салығы</td>
-<td>20</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -149,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td>Жеке табыс салығы</td>
-<td>20</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -213,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>48 458</td>
+<td>49 096</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -221,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>48 458</td>
+<td>49 096</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -229,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>48 458</td>
+<td>49 096</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -257,12 +265,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -270,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>49 352</td>
+<td>49 990</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -278,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>18 312</td>
+<td>18 950</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -286,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>18 312</td>
+<td>18 950</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -294,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>18 312</td>
+<td>18 950</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -302,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>18 312</td>
+<td>18 950</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -358,7 +366,15 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
-<td>1 540</td>
+<td>4 323</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">009</td>
+<td>Елдi мекендердің санитариясын қамтамасыз ету</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>15 735</td>
+<td>12 952</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -444,12 +460,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -510,12 +526,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -552,12 +568,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>6</td>
@@ -589,7 +605,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-638</td>
 </tr>
 <tr>
 <td></td>
@@ -597,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>638</td>
 </tr>
 <tr>
 <td>7</td>
@@ -651,12 +667,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -701,12 +717,12 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>8</td>
@@ -714,7 +730,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -722,7 +738,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>638</td>
 </tr>
 <tr>
 <td></td>
@@ -730,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/150904/kaz/28.12.2020
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>638</td>
 </tr>
 </table>
 
