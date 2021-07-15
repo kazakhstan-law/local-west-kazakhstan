@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/150253/kaz/09.04.2021
+source: https://zan.gov.kz/client/#!/doc/150253/kaz/15.07.2021
 ---
 
 > *Бөрлі аудандық мәслихаттың*  
