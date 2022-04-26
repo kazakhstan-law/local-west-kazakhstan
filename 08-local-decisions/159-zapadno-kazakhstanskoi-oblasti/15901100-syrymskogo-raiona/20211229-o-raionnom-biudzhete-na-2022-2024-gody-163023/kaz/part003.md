@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163023/kaz/25.03.2022
+source: https://zan.gov.kz/client/#!/doc/163023/kaz/26.04.2022
 ---
 
 > *Сырым аудандық мәслихатының*  
