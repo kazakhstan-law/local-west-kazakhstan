@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
+source: https://zan.gov.kz/client/#!/doc/162407/rus/23.05.2022
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 
 ## Районный бюджет на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения Жанибекского районного маслихата Западно-Казахстанской области от 15.04.2022 № 16-2 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Жанибекского районного маслихата Западно-Казахстанской области от 15.04.2022 № 16-2 (вводится в действие с 01.01.2022); от 23.05.2022 № 18-2 (вводится в действие с 01.01.2022).*
 
 > *тысяч тенге*
 
@@ -70,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
-<td>283 806</td>
+<td>286 064</td>
 </tr>
 <tr>
 <td></td>
@@ -78,7 +78,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="3">Корпоративный подоходный налог</td>
-<td>82 000</td>
+<td>88 269</td>
 </tr>
 <tr>
 <td></td>
@@ -86,7 +86,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>201 806</td>
+<td>197 795</td>
 </tr>
 <tr>
 <td></td>
@@ -94,7 +94,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Социальный налог</td>
-<td>186 000</td>
+<td>184 824</td>
 </tr>
 <tr>
 <td></td>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="3">Социальный налог</td>
-<td>186 000</td>
+<td>184 824</td>
 </tr>
 <tr>
 <td></td>
@@ -110,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Налоги на собственность</td>
-<td>70 000</td>
+<td>68 918</td>
 </tr>
 <tr>
 <td></td>
@@ -118,23 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="3">Налоги на имущество</td>
-<td>70 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="2"></td>
-<td colspan="3">Земельный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td colspan="2"></td>
-<td colspan="3">Hалог на транспортные средства</td>
-<td>0</td>
+<td>68 918</td>
 </tr>
 <tr>
 <td></td>
@@ -336,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">536 019</td>
+<td colspan="2">532 758</td>
 </tr>
 <tr>
 <td></td>
@@ -432,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td colspan="2">359 338</td>
+<td colspan="2">356 077</td>
 </tr>
 <tr>
 <td></td>
@@ -456,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">152 260</td>
+<td colspan="2">148 999</td>
 </tr>
 <tr>
 <td></td>
@@ -473,14 +457,6 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">113</td>
 <td>Целевые текущие трансферты нижестоящим бюджетам</td>
 <td colspan="2">119 869</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">115</td>
-<td>Выполнение обязательств местных исполнительных органов по решениям судов за счет средств местного исполнительного органа</td>
-<td colspan="2">3 261</td>
 </tr>
 <tr>
 <td></td>
@@ -776,7 +752,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td colspan="2">67 668</td>
+<td colspan="2">68 397</td>
 </tr>
 <tr>
 <td></td>
@@ -808,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">466</td>
 <td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td colspan="2">41 894</td>
+<td colspan="2">42 623</td>
 </tr>
 <tr>
 <td></td>
@@ -816,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td colspan="2">38 394</td>
+<td colspan="2">39 939</td>
 </tr>
 <tr>
 <td></td>
@@ -824,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td colspan="2">3 500</td>
+<td colspan="2">2 684</td>
 </tr>
 <tr>
 <td></td>
@@ -832,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
-<td colspan="2">24 712</td>
+<td colspan="2">27 028</td>
 </tr>
 <tr>
 <td></td>
@@ -840,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">466</td>
 <td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td colspan="2">24 712</td>
+<td colspan="2">27 028</td>
 </tr>
 <tr>
 <td></td>
@@ -856,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2">058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="2">5 000</td>
+<td colspan="2">7 316</td>
 </tr>
 <tr>
 <td></td>
@@ -864,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">13 886</td>
+<td colspan="2">10 841</td>
 </tr>
 <tr>
 <td></td>
@@ -872,7 +848,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">458</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td colspan="2">13 886</td>
+<td colspan="2">10 841</td>
 </tr>
 <tr>
 <td></td>
@@ -896,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2">018</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">10 186</td>
+<td colspan="2">7 141</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1240,7 +1216,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td colspan="2">452 191</td>
+<td colspan="2">455 452</td>
 </tr>
 <tr>
 <td></td>
@@ -1248,7 +1224,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td colspan="2">452 191</td>
+<td colspan="2">455 452</td>
 </tr>
 <tr>
 <td></td>
@@ -1280,7 +1256,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td colspan="2">17 700</td>
+<td colspan="2">20 961</td>
 </tr>
 <tr>
 <td></td>
@@ -1288,7 +1264,7 @@ source: https://zan.gov.kz/client/#!/doc/162407/rus/15.04.2022
 <td colspan="2"></td>
 <td colspan="2">012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td colspan="2">17 700</td>
+<td colspan="2">20 961</td>
 </tr>
 <tr>
 <td>14</td>
