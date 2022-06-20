@@ -1,5 +1,5 @@
 ---
-version_id: '163214_570677'
+version_id: '163214_582017'
 act_code: '163214'
 language: rus
 title: О бюджете Буланского сельского округа на 2022-2024 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2021-12-31
-version_date: 2022-04-13
+version_date: 2022-06-20
 registry_number: '163214'
 caused_by:
-  code: '166839'
+  code: '169391'
   title: О внесении изменений в решение Сырымского районного маслихата от 31 декабря 2021 года № 13-3 «О бюджете Буланского сельского округа на 2022-2024 годы»
-  link: https://zan.gov.kz/client/#!/doc/166839/rus
-source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
+  link: https://zan.gov.kz/client/#!/doc/169391/rus
+source: https://zan.gov.kz/client/#!/doc/163214/rus/20.06.2022
 ---
 
 # О бюджете Буланского сельского округа на 2022-2024 годы
@@ -73,13 +73,13 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 
 **Ш.Дуйсенгалиева**
 
-> *Приложение 1к решению*  
+> *Приложение 1 к решению*  
 > *Сырымского районного маслихата*  
-> *от 31 декабря 2021года №13-3*
+> *от 31 декабря 2021 года №13-3*
 
 ## Бюджет Буланского сельского округа на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-6 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-6 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-4 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -259,12 +259,12 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -384,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>300</td>
+<td>290</td>
 </tr>
 <tr>
 <td colspan="2"></td>
