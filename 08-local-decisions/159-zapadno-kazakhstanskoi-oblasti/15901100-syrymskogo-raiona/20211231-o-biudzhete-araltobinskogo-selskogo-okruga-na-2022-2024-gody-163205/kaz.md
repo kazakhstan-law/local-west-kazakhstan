@@ -1,5 +1,5 @@
 ---
-version_id: '163205_570660'
+version_id: '163205_582505'
 act_code: '163205'
 language: kaz
 title: 2022-2024 жылдарға арналған Аралтөбе ауылдық округінің бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2021-12-31
-version_date: 2022-04-13
+version_date: 2022-06-20
 registry_number: '163205'
 caused_by:
-  code: '166838'
+  code: '169368'
   title: Сырым аудандық мәслихатының 2021 жылғы 31 желтоқсандағы № 13-2 «2022-2024 жылдарға арналған Аралтөбе ауылдық округінің бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/166838/kaz
-source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
+  link: https://zan.gov.kz/client/#!/doc/169368/kaz
+source: https://zan.gov.kz/client/#!/doc/163205/kaz/20.06.2022
 ---
 
 # 2022-2024 жылдарға арналған Аралтөбе ауылдық округінің бюджеті туралы
@@ -79,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 
 ## 2022 жылға арналған Аралтөбе ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-5 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-5 (01.01.2022 бастап қолданысқа енгізіледі); 20.06.2022 № 19-3 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -259,12 +259,12 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="4">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td></td>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td>05</td>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td></td>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td></td>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>907</td>
+<td>1208</td>
 </tr>
 <tr>
 <td></td>
