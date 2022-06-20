@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
+source: https://zan.gov.kz/client/#!/doc/163310/rus/20.06.2022
 ---
 
 # О бюджете Жетикульского сельского округа на 2022-2024 годы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 
 ## Бюджет Жетикульского сельского округа на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-9 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-9 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-6 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -91,11 +91,11 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -242,12 +242,12 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>29625</td>
+<td>29713</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>29625</td>
+<td>29713</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>29625</td>
+<td>29713</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163310/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>29625</td>
+<td>29713</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
