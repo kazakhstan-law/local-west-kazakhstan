@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
+source: https://zan.gov.kz/client/#!/doc/163205/rus/20.06.2022
 ---
 
 # О бюджете Аралтобинского сельского округа на 2022-2024 годы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 
 ## Бюджет Аралтобинского сельского округа на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-5 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-5 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-3 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -91,11 +91,11 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -242,12 +242,12 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>25415</td>
+<td>25595</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -327,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1907</td>
+<td>2208</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -351,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/163205/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>907</td>
+<td>1208</td>
 </tr>
 <tr>
 <td colspan="2"></td>
