@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
+source: https://zan.gov.kz/client/#!/doc/163214/kaz/20.06.2022
 ---
 
 # 2022-2024 жылдарға арналған Бұлан ауылдық округінің бюджеті туралы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 
 ## 2022 жылға арналған Бұлан ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-6 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-6 (01.01.2022 бастап қолданысқа енгізіледі); 20.06.2022 № 19-4 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -91,11 +91,11 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -242,12 +242,12 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="4">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28993</td>
+<td>29003</td>
 </tr>
 <tr>
 <td>05</td>
@@ -327,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td></td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1700</td>
+<td>1690</td>
 </tr>
 <tr>
 <td></td>
@@ -367,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/163214/kaz/13.04.2022
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>300</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
