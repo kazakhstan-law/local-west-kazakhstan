@@ -1,5 +1,5 @@
 ---
-version_id: '163306_570962'
+version_id: '163306_582200'
 act_code: '163306'
 language: rus
 title: О бюджете Кособинского сельского округа на 2022-2024 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2021-12-31
-version_date: 2022-04-13
+version_date: 2022-06-20
 registry_number: '163306'
 caused_by:
-  code: '166851'
+  code: '169400'
   title: О внесении изменений в решение Сырымского районного маслихата от 31 декабря 2021 года № 13-9 «О бюджете Кособинского сельского округа на 2022-2024 годы»
-  link: https://zan.gov.kz/client/#!/doc/166851/rus
-source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
+  link: https://zan.gov.kz/client/#!/doc/169400/rus
+source: https://zan.gov.kz/client/#!/doc/163306/rus/20.06.2022
 ---
 
 # О бюджете Кособинского сельского округа на 2022-2024 годы
@@ -79,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 
 ## Бюджет Кособинского сельского округа на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-12 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-12 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-7 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -259,12 +259,12 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>28704</td>
+<td>28824</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -288,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>28704</td>
+<td>28824</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28704</td>
+<td>28824</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>28704</td>
+<td>28824</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -368,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/163306/rus/13.04.2022
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>920</td>
+<td>800</td>
 </tr>
 <tr>
 <td colspan="2"></td>
