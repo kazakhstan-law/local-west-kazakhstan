@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/162403/kaz/19.07.2022
+source: https://zan.gov.kz/client/#!/doc/162403/kaz/11.08.2022
 ---
 
 # 2022-2024 жылдарға арналған аудандық бюджет туралы
