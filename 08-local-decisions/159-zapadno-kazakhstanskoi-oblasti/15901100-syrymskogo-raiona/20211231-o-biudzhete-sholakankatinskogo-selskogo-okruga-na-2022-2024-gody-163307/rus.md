@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
+source: https://zan.gov.kz/client/#!/doc/163307/rus/22.09.2022
 ---
 
 # О бюджете Шолаканкатинского сельского округа на 2022-2024 годы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 
 ## Бюджет Шолаканкатинского сельского округа на 2022 год
 
-> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-15 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-8 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 13.04.2022 № 16-15 (вводится в действие с 01.01.2022); от 20.06.2022 № 19-8 (вводится в действие с 01.01.2022); от 22.09.2022 № 23-12 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>31598</td>
+<td>31298</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -137,14 +137,14 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="2"></td>
 <td colspan="3">1</td>
 <td colspan="3">Налоги на имущество</td>
-<td>45</td>
+<td>92</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Земельный налог</td>
-<td>47</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -200,21 +200,21 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="3"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
@@ -255,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>31730</td>
+<td>31430</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -327,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -359,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>700</td>
+<td>1165</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -545,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">5) Дефицит (профицит) бюджета</td>
-<td>-132</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -553,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/rus/20.06.2022
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>132</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7</td>

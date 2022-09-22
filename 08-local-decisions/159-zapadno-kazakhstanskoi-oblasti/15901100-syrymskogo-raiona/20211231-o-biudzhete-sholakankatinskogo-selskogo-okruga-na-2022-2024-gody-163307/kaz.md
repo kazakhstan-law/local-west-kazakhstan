@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
+source: https://zan.gov.kz/client/#!/doc/163307/kaz/22.09.2022
 ---
 
 # 2022-2024 жылдарға арналған Шолақаңқаты ауылдық округінің бюджеті туралы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 
 ## 2022 жылға арналған Шолақаңқаты ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-15 (01.01.2022 бастап қолданысқа енгізіледі); 20.06.2022 № 19-8 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 13.04.2022 № 16-15 (01.01.2022 бастап қолданысқа енгізіледі); 20.06.2022 № 19-8 (01.01.2022 бастап қолданысқа енгізіледі); 22.09.2022 № 23-12 (01.01.2022 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">1) Кірістер</td>
-<td>31598</td>
+<td>31298</td>
 </tr>
 <tr>
 <td>1</td>
@@ -137,14 +137,14 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td>45</td>
+<td>92</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="2">Жер салығы</td>
-<td>47</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -200,21 +200,21 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>31306</td>
+<td>31006</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -255,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>2) Шығындар</td>
-<td>31730</td>
+<td>31430</td>
 </tr>
 <tr>
 <td>01</td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td></td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>29652</td>
+<td>28887</td>
 </tr>
 <tr>
 <td>05</td>
@@ -327,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td></td>
@@ -335,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td></td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2078</td>
+<td>2543</td>
 </tr>
 <tr>
 <td></td>
@@ -359,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>700</td>
+<td>1165</td>
 </tr>
 <tr>
 <td></td>
@@ -545,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>-132</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -553,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/163307/kaz/20.06.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>132</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
