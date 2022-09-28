@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/162403/rus/11.08.2022
+source: https://zan.gov.kz/client/#!/doc/162403/rus/28.09.2022
 ---
 
 # О районном бюджете на 2022-2024 годы
