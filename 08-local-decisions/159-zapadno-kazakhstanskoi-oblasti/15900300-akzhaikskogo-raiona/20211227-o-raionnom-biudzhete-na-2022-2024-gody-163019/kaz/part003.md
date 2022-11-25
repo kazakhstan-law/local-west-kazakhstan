@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163019/kaz/29.07.2022
+source: https://zan.gov.kz/client/#!/doc/163019/kaz/25.11.2022
 ---
 
 > *2021 жылғы 27 желтоқсаны № 11-2*  
