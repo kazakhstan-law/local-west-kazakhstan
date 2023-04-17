@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
+source: https://zan.gov.kz/client/#!/doc/177251/rus/17.04.2023
 ---
 
 # О бюджете Желаевского сельского округа на 2023-2025 годы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 
 1. Утвердить бюджет Желаевского сельского округа города Уральск на 2023-2025 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2023 год в следующих объемах:
 
-   1) доходы – 99 319 тысяч тенге:
+   1) доходы – 121 136 тысяч тенге:
 
       налоговые поступления – 15 533 тысячи тенге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 83 571 тысяча тенге;
+      поступления трансфертов – 105 388 тысяч тенге;
 
-   2) затраты – 99 319 тысяч тенге;
+   2) затраты – 122 067 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -34,15 +34,17 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 
       поступления от продажи финансовых активов государства – 0 тенге;
 
-   5) дефицит (профицит) бюджета – 0 тенге;
+   5) дефицит (профицит) бюджета – - 931 тысяча тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0 тенге:
+   6) финансирование дефицита (использование профицита) бюджета – 931 тысяча тенге:
 
       поступления займов – 0 тенге;
 
       погашение займов – 0 тенге;
 
-      используемые остатки бюджетных средств – 0 тенге.
+      используемые остатки бюджетных средств – 931 тысяча тенге.
+
+> *Сноска. Пункт 1 в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.04.2023 № 2-3 (вводится в действие с 01.01.2023).*
 
 2. Поступления в бюджет Желаевского сельского округа на 2023 год формируются в соответствии с Бюджетным кодексом Республики Казахстан и решением Уральского городского маслихата от 22 декабря 2022 года № 22-2 «О городском бюджете на 2023-2025 годы».
 
@@ -61,6 +63,8 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 > *от 27 декабря 2022 года № 22-3*
 
 ## Бюджет Желаевского сельского округа на 2023 год
+
+> *Сноска. Приложение 1 в редакции решения Уральского городского маслихата Западно-Казахстанской области от 17.04.2023 № 2-3 (вводится в действие с 01.01.2023).*
 
 тысяч тенге
 
@@ -99,7 +103,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="8">1) Доходы</td>
-<td>99 319</td>
+<td>121 136</td>
 </tr>
 <tr>
 <td>1</td>
@@ -225,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="8">Поступления трансфертов</td>
-<td>83 571</td>
+<td>105 388</td>
 </tr>
 <tr>
 <td></td>
@@ -234,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="8">Трансферты из вышестоящих органов государственного управления</td>
-<td>83 571</td>
+<td>105 388</td>
 </tr>
 <tr>
 <td></td>
@@ -243,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="3"></td>
 <td></td>
 <td colspan="8">Трансферты из районного (города областного значения) бюджета</td>
-<td>83 571</td>
+<td>105 388</td>
 </tr>
 <tr>
 <td colspan="17">Функциональная группа</td>
@@ -286,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2) Затраты</td>
-<td>99 319</td>
+<td>122 067</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -295,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>36 381</td>
+<td>38 971</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -304,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36 381</td>
+<td>38 971</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -313,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 381</td>
+<td>38 971</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -322,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">001</td>
 <td colspan="2"></td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36 381</td>
+<td>38 971</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -331,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>59 223</td>
+<td>78 450</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -340,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>59 223</td>
+<td>78 450</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -349,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>59 223</td>
+<td>78 450</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -358,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">008</td>
 <td colspan="2"></td>
 <td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>11 310</td>
+<td>27 602</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -376,7 +380,43 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">011</td>
 <td colspan="2"></td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>12 199</td>
+<td>15 134</td>
+</tr>
+<tr>
+<td colspan="3">08</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Культура, спорт, туризм и информационное пространство</td>
+<td>931</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">1</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Деятельность в области культуры</td>
+<td>931</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>931</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="2">006</td>
+<td colspan="2"></td>
+<td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
+<td>931</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -617,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>- 931</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -626,7 +666,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>931</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -637,6 +677,9 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">Поступления займов</td>
 <td colspan="2">0</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">01</td>
@@ -655,9 +698,6 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">Договоры займа</td>
 <td colspan="2">0</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="16">Функциональная группа</td>
 <td colspan="2" rowspan="6">Сумма</td>
@@ -744,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">931</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -753,7 +793,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">931</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -762,7 +802,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">931</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -771,7 +811,7 @@ source: https://zan.gov.kz/client/#!/doc/177251/rus/27.12.2022
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Свободные остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">931</td>
 </tr>
 </table>
 
