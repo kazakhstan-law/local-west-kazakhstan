@@ -1,5 +1,5 @@
 ---
-version_id: '176801_612101'
+version_id: '176801_630299'
 act_code: '176801'
 language: kaz
 title: 2023 - 2025 жылдарға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '159007000002'
 approval_date: 2022-12-29
-version_date: 2022-12-29
+version_date: 2023-04-27
 registry_number: '176801'
-source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
+caused_by:
+  code: '180866'
+  title: Жәнібек аудандық мәслихатының 2022 жылғы 29 желтоқсандағы №28-9 «2023-2025 жылдарға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/180866/kaz
+source: https://zan.gov.kz/client/#!/doc/176801/kaz/27.04.2023
 ---
 
 # 2023 - 2025 жылдарға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті туралы
@@ -21,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 
 Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы Бюджет кодексіне, Қазақстан Республикасының 2001 жылғы 23 қаңтардағы «Қазақстан Республикасындағы жергілікті мемлекеттік басқару және өзін-өзі басқару туралы» Заңына сәйкес Жәнібек аудандық мәслихаты ШЕШТІ:
 
-1. 2023-2025 жылдарға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті тиісінше 1, 2 және 3 - қосымшаларға сәйкес, соның ішінде 2023 жылға келесі көлемдерде бекітілсін:
+1. 2023-2025 жылдарға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, соның ішінде 2023 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 32 767 мың теңге:
+   1) кірістер – 37 486 мың теңге:
 
       салықтық түсімдер – 1 343 мың теңге;
 
@@ -31,9 +35,9 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 
       негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
 
-      трансферттер түсімі – 31 424 мың теңге;
+      трансферттер түсімі – 36 143 мың теңге;
 
-   2) шығындар – 32 767 мың теңге;
+   2) шығындар – 37 532 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -47,15 +51,17 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0 теңге;
 
-   5) бюджет тапшылығы (профициті) – 0 теңге;
+   5) бюджет тапшылығы (профициті) – -46 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 0 теңге:
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 46 мың теңге:
 
       қарыздар түсімі – 0 теңге;
 
       қарыздарды өтеу – 0 теңге;
 
-      бюджет қаражатының пайдаланылатын қалдықтары – 0 теңге.
+      бюджет қаражатының пайдаланылатын қалдықтары – 46 мың теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 27.04.2023 № 3-9 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. 2023 жылға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджет түсімдері Қазақстан Республикасының Бюджет кодексіне, Жәнібек аудандық мәслихатының 2022 жылғы 23 желтоқсандағы №27-1 «2023 – 2025 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -73,11 +79,14 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 
 > *Жәнібек аудандық мәслихатының*  
 > *2022 жылғы 29 желтоқсандағы*  
-> *№28-9 шешіміне 1-қосымша*
+> *№28-9 шешіміне*  
+> *1-қосымша*
 
-## 2023 жылға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджеті
+## 2023 жылға арналған Жәнібек ауданы Ұзынкөл ауылдық округінің бюджет
 
-мың теңге
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 27.04.2023 № 3-9 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+
+> *мың теңге*
 
 <table>
 <tr>
@@ -106,12 +115,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -119,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>32 767</td>
+<td>37 486</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -207,7 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>31 424</td>
+<td>36 143</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -215,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>31 424</td>
+<td>36 143</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -223,7 +232,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>31 424</td>
+<td>36 143</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -231,14 +240,14 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td>Ағымдағы берілетін нысаналы трансферттер</td>
-<td>3 000</td>
+<td>7 719</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">03</td>
-<td>Аудандық (облыстық маңызы бар қаланың) бюджеттен субвенциялар</td>
+<td>Аудандық (облыстық маңызы бар қала) бюджеттен берілетін субвенциялар</td>
 <td>28 424</td>
 </tr>
 <tr>
@@ -267,12 +276,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -280,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>32 767</td>
+<td>37 532</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -288,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>28 487</td>
+<td>30 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>28 487</td>
+<td>30 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -304,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28 487</td>
+<td>30 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -312,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28 487</td>
+<td>30 983</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -320,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4 280</td>
+<td>6 549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -328,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4 280</td>
+<td>6 549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -336,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 280</td>
+<td>6 549</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -345,6 +354,14 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">008</td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
 <td>1 280</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>2 269</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -398,12 +415,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -464,12 +481,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -506,12 +523,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -543,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-46</td>
 </tr>
 <tr>
 <td></td>
@@ -551,7 +568,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>46</td>
 </tr>
 <tr>
 <td>7</td>
@@ -579,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -595,7 +612,6 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бағдарлама</td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -605,12 +621,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -655,12 +671,12 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
@@ -668,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>46</td>
 </tr>
 <tr>
 <td></td>
@@ -676,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>46</td>
 </tr>
 <tr>
 <td></td>
@@ -684,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/176801/kaz/29.12.2022
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>46</td>
 </tr>
 </table>
 
