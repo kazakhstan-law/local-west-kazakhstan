@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
+source: https://zan.gov.kz/client/#!/doc/176797/rus/18.08.2023
 ---
 
 > *Приложение 1*  
@@ -9,12 +9,15 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 
 ## Районный бюджет на 2023 год
 
-> *Сноска. Приложение 1 в редакции решения Жангалинского районного маслихата Западно-Казахстанской области от 26.04.2023 № 4-7 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 1 в редакции решений Жангалинского районного маслихата Западно-Казахстанской области от 26.04.2023 № 4-7 (вводится в действие с 01.01.2023); от 18.08.2023 № 8-1 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -52,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>4 483 728</td>
+<td>5 234 697</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -60,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Налоговые поступления</td>
-<td>1 310 658</td>
+<td>1 410 658</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -68,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Подоходный налог</td>
-<td>577 541</td>
+<td>647 541</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -84,7 +87,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="4">Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты</td>
-<td>533 000</td>
+<td>588 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -92,7 +95,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td>2</td>
 <td colspan="3"></td>
 <td colspan="4">Индивидуальный подоходный налог с доходов, по другим источникам</td>
-<td>500</td>
+<td>15 500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -108,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Социальный налог</td>
-<td>499 000</td>
+<td>529 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -116,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="4">Социальный налог</td>
-<td>499 000</td>
+<td>529 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -131,7 +134,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="3"></td>
 <td>1</td>
 <td colspan="3"></td>
-<td colspan="4">Hалоги на имущество юридических лиц и индивидуальных предпринимателей</td>
+<td colspan="4">Hалоги на имущество</td>
 <td>220 000</td>
 </tr>
 <tr>
@@ -324,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>3 144 340</td>
+<td>3 795 309</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -332,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>3 144 340</td>
+<td>3 795 309</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -340,11 +343,14 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td>2</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из областного бюджета</td>
-<td>3 144 340</td>
+<td>3 795 309</td>
 </tr>
 <tr>
 <td colspan="13">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -374,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">3</td>
 <td colspan="3">4</td>
 <td colspan="2">5</td>
-<td></td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -382,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">2) Затраты</td>
-<td>4 639 581</td>
+<td>5 390 550</td>
 </tr>
 <tr>
 <td>01</td>
@@ -390,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>436 572</td>
+<td>508 380</td>
 </tr>
 <tr>
 <td></td>
@@ -398,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>192 131</td>
+<td>235 653</td>
 </tr>
 <tr>
 <td></td>
@@ -406,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">112</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат маслихата района (города областного значения)</td>
-<td>40 411</td>
+<td>44 416</td>
 </tr>
 <tr>
 <td></td>
@@ -414,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по обеспечению деятельности маслихата района (города областного значения)</td>
-<td>40 411</td>
+<td>44 416</td>
 </tr>
 <tr>
 <td></td>
@@ -422,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">122</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима района (города областного значения)</td>
-<td>151 720</td>
+<td>180 720</td>
 </tr>
 <tr>
 <td></td>
@@ -430,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района (города областного значения)</td>
-<td>142 720</td>
+<td>165 720</td>
 </tr>
 <tr>
 <td></td>
@@ -438,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td>9 000</td>
+<td>15 000</td>
 </tr>
 <tr>
 <td></td>
@@ -446,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Финансовая деятельность</td>
-<td>18 458</td>
+<td>3 458</td>
 </tr>
 <tr>
 <td></td>
@@ -454,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">459</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел экономики и финансов района (города областного значения)</td>
-<td>18 458</td>
+<td>3 458</td>
 </tr>
 <tr>
 <td></td>
@@ -469,8 +475,8 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td colspan="3">010</td>
-<td colspan="2">Приватизация,управление коммунальным, постприватизационная деятельность и регулирование споров, связанных с этим</td>
-<td>17 458</td>
+<td colspan="2">Приватизация, управление коммунальным, постприватизационная деятельность и регулирование споров, связанных с этим</td>
+<td>2 458</td>
 </tr>
 <tr>
 <td></td>
@@ -478,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Прочие государственные услуги общего характера</td>
-<td>225 983</td>
+<td>279 786</td>
 </tr>
 <tr>
 <td></td>
@@ -486,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">454</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел предпринимательства и сельского хозяйства района (города областного значения)</td>
-<td>41 920</td>
+<td>42 420</td>
 </tr>
 <tr>
 <td></td>
@@ -494,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области развития предпринимательства и сельского хозяйства</td>
-<td>41 920</td>
+<td>42 420</td>
 </tr>
 <tr>
 <td></td>
@@ -502,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">458</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>68 268</td>
+<td>86 520</td>
 </tr>
 <tr>
 <td></td>
@@ -510,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог</td>
-<td>45 668</td>
+<td>78 520</td>
 </tr>
 <tr>
 <td></td>
@@ -518,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">013</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td>22 600</td>
+<td>8 000</td>
 </tr>
 <tr>
 <td></td>
@@ -526,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">459</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел экономики и финансов района (города областного значения)</td>
-<td>115 795</td>
+<td>150 846</td>
 </tr>
 <tr>
 <td></td>
@@ -534,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>48 876</td>
+<td>46 876</td>
 </tr>
 <tr>
 <td></td>
@@ -542,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">113</td>
 <td colspan="2">Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>66 919</td>
+<td>103 970</td>
 </tr>
 <tr>
 <td></td>
@@ -558,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Оборона</td>
-<td>11 500</td>
+<td>13 500</td>
 </tr>
 <tr>
 <td></td>
@@ -566,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Военные нужды</td>
-<td>11 500</td>
+<td>13 500</td>
 </tr>
 <tr>
 <td></td>
@@ -574,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">122</td>
 <td colspan="3"></td>
 <td colspan="2">Аппарат акима района (города областного значения)</td>
-<td>11 500</td>
+<td>13 500</td>
 </tr>
 <tr>
 <td></td>
@@ -590,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">006</td>
 <td colspan="2">Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
-<td>5 000</td>
+<td>7 000</td>
 </tr>
 <tr>
 <td>03</td>
@@ -598,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>1 500</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -606,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td>1 500</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -614,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">451</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>1 500</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -622,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">039</td>
 <td colspan="2">Организация и осуществление социальной адаптации и реабилитации лиц, отбывших уголовные наказания</td>
-<td>1 500</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td>06</td>
@@ -630,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td>839 399</td>
+<td>796 599</td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Социальное обеспечение</td>
-<td>91 286</td>
+<td>73 286</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">451</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>91 286</td>
+<td>73 286</td>
 </tr>
 <tr>
 <td></td>
@@ -654,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">005</td>
 <td colspan="2">Государственная адресная социальная помощь</td>
-<td>91 286</td>
+<td>73 286</td>
 </tr>
 <tr>
 <td></td>
@@ -662,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Социальная помощь</td>
-<td>688 797</td>
+<td>663 097</td>
 </tr>
 <tr>
 <td></td>
@@ -670,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">451</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>688 797</td>
+<td>663 097</td>
 </tr>
 <tr>
 <td></td>
@@ -678,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">002</td>
 <td colspan="2">Программа занятости</td>
-<td>331 770</td>
+<td>310 364</td>
 </tr>
 <tr>
 <td></td>
@@ -686,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">006</td>
 <td colspan="2">Оказание жилищной помощи</td>
-<td>15 000</td>
+<td>6 000</td>
 </tr>
 <tr>
 <td></td>
@@ -702,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">010</td>
 <td colspan="2">Материальное обеспечение детей-инвалидов, воспитывающихся и обучающихся на дому</td>
-<td>1 794</td>
+<td>1 094</td>
 </tr>
 <tr>
 <td></td>
@@ -710,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">014</td>
 <td colspan="2">Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>149 642</td>
+<td>133 642</td>
 </tr>
 <tr>
 <td></td>
@@ -718,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">017</td>
 <td colspan="2">Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
-<td>33 257</td>
+<td>54 663</td>
 </tr>
 <tr>
 <td></td>
@@ -734,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>59 316</td>
+<td>60 016</td>
 </tr>
 <tr>
 <td></td>
@@ -742,7 +748,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">451</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>56 316</td>
+<td>57 016</td>
 </tr>
 <tr>
 <td></td>
@@ -750,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
-<td>47 251</td>
+<td>47 651</td>
 </tr>
 <tr>
 <td></td>
@@ -758,7 +764,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">011</td>
 <td colspan="2">Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
-<td>1 440</td>
+<td>940</td>
 </tr>
 <tr>
 <td></td>
@@ -766,7 +772,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">050</td>
 <td colspan="2">Обеспечение прав и улучшение качества жизни инвалидов в Республике Казахстан</td>
-<td>1 500</td>
+<td>2 500</td>
 </tr>
 <tr>
 <td></td>
@@ -798,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>560 058</td>
+<td>941 238</td>
 </tr>
 <tr>
 <td></td>
@@ -806,7 +812,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td>194 627</td>
+<td>226 027</td>
 </tr>
 <tr>
 <td></td>
@@ -814,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">458</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>194 627</td>
+<td>226 027</td>
 </tr>
 <tr>
 <td></td>
@@ -822,7 +828,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">003</td>
 <td colspan="2">Организация сохранения государственного жилищного фонда</td>
-<td>3 000</td>
+<td>9 000</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">004</td>
 <td colspan="2">Обеспечение жильем отдельных категорий граждан</td>
-<td>38 910</td>
+<td>64 310</td>
 </tr>
 <tr>
 <td></td>
@@ -870,7 +876,31 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>319 431</td>
+<td>559 211</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">458</td>
+<td colspan="3"></td>
+<td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>239 780</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3">012</td>
+<td colspan="2">Функционирование системы водоснабжения и водоотведения</td>
+<td>239 680</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="3">029</td>
+<td colspan="2">Развитие системы водоснабжения и водоотведения</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -894,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>46 000</td>
+<td>156 000</td>
 </tr>
 <tr>
 <td></td>
@@ -902,15 +932,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">458</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>46 000</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">015</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>0</td>
+<td>156 000</td>
 </tr>
 <tr>
 <td></td>
@@ -918,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">018</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>46 000</td>
+<td>156 000</td>
 </tr>
 <tr>
 <td>08</td>
@@ -926,7 +948,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Культура, спорт, туризм и информационное пространство</td>
-<td>584 723</td>
+<td>611 715</td>
 </tr>
 <tr>
 <td></td>
@@ -934,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Деятельность в области культуры</td>
-<td>227 619</td>
+<td>246 999</td>
 </tr>
 <tr>
 <td></td>
@@ -942,7 +964,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">457</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел культуры, развития языков, физической культуры и спорта района (города областного значения)</td>
-<td>227 619</td>
+<td>246 999</td>
 </tr>
 <tr>
 <td></td>
@@ -950,23 +972,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">003</td>
 <td colspan="2">Поддержка культурно-досуговой работы</td>
-<td>227 619</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5">466</td>
-<td colspan="3"></td>
-<td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">011</td>
-<td colspan="2">Развитие объектов культуры</td>
-<td>0</td>
+<td>246 999</td>
 </tr>
 <tr>
 <td></td>
@@ -974,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Спорт</td>
-<td>87 578</td>
+<td>95 098</td>
 </tr>
 <tr>
 <td></td>
@@ -982,7 +988,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">457</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел культуры, развития языков, физической культуры и спорта района (города областного значения)</td>
-<td>87 578</td>
+<td>95 098</td>
 </tr>
 <tr>
 <td></td>
@@ -998,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">009</td>
 <td colspan="2">Проведение спортивных соревнований на районном (города областного значения) уровне</td>
-<td>3 086</td>
+<td>6 086</td>
 </tr>
 <tr>
 <td></td>
@@ -1006,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">010</td>
 <td colspan="2">Подготовка и участие членов сборных команд района (города областного значения ) по различным видам спорта на областных спортивных соревнования</td>
-<td>8 000</td>
+<td>12 520</td>
 </tr>
 <tr>
 <td></td>
@@ -1014,7 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Информационное пространство</td>
-<td>176 122</td>
+<td>175 586</td>
 </tr>
 <tr>
 <td></td>
@@ -1022,7 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">456</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел внутренней политики района (города областного значения)</td>
-<td>16 300</td>
+<td>16 264</td>
 </tr>
 <tr>
 <td></td>
@@ -1030,7 +1036,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">002</td>
 <td colspan="2">Услуги по проведению государственной информационной политики</td>
-<td>16 300</td>
+<td>16 264</td>
 </tr>
 <tr>
 <td></td>
@@ -1038,7 +1044,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">457</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел культуры, развития языков, физической культуры и спорта района (города областного значения)</td>
-<td>159 822</td>
+<td>159 322</td>
 </tr>
 <tr>
 <td></td>
@@ -1046,15 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">006</td>
 <td colspan="2">Функционирование районных (городских) библиотек</td>
-<td>159 822</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">007</td>
-<td colspan="2">Развитие государственного языка и других языков народа Казахстана</td>
-<td>500</td>
+<td>159 322</td>
 </tr>
 <tr>
 <td></td>
@@ -1062,7 +1060,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>93 404</td>
+<td>94 032</td>
 </tr>
 <tr>
 <td></td>
@@ -1070,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">456</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел внутренней политики района (города областного значения)</td>
-<td>61 275</td>
+<td>61 903</td>
 </tr>
 <tr>
 <td></td>
@@ -1078,7 +1076,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области информации, укрепления государственности и формирования социального оптимизма граждан</td>
-<td>21 724</td>
+<td>22 352</td>
 </tr>
 <tr>
 <td></td>
@@ -1138,14 +1136,6 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">006</td>
-<td colspan="2">Землеустройство, проводимое при установлении границ районов, городов областного значения, районного значения, сельских округов, поселков, сел</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
 <td colspan="2">9</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
@@ -1174,7 +1164,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>37 863</td>
+<td>38 513</td>
 </tr>
 <tr>
 <td></td>
@@ -1182,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">Архитектурная, градостроительная и строительная деятельность</td>
-<td>37 863</td>
+<td>38 513</td>
 </tr>
 <tr>
 <td></td>
@@ -1190,7 +1180,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5">466</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>37 863</td>
+<td>38 513</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,7 +1196,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="5"></td>
 <td colspan="3">013</td>
 <td colspan="2">Разработка схем градостроительного развития территории района, генеральных планов городов районного (областного) значения, поселков и иных сельских населенных пунктов</td>
-<td>1 800</td>
+<td>2 450</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1429,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="2"></td>
 <td colspan="5"></td>
 <td colspan="3">054</td>
-<td colspan="2"></td>
+<td colspan="2">Возврат неиспользованных (неиспользованных) сумм целевых трансфертов, выделенных из республиканского бюджета в 2022 году за счет целевых трансфертов из Национального фонда РК</td>
 <td>38 117</td>
 </tr>
 <tr>
@@ -1482,7 +1472,10 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1512,7 +1505,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="3">3</td>
 <td colspan="3">4</td>
 <td colspan="3">5</td>
-<td></td>
+<td>6</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1544,11 +1537,14 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">4) Сальдо по операциям с финансовыми активами</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1578,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="3">3</td>
 <td colspan="3">4</td>
 <td colspan="3">5</td>
-<td></td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1654,7 +1650,10 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 </tr>
 <tr>
 <td colspan="13">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1728,7 +1727,10 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1758,7 +1760,7 @@ source: https://zan.gov.kz/client/#!/doc/176797/rus/26.04.2023
 <td colspan="3">3</td>
 <td colspan="3">4</td>
 <td colspan="3">5</td>
-<td></td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
