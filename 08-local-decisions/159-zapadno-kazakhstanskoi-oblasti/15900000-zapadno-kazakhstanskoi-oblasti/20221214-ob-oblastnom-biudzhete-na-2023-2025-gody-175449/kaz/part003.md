@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/175449/kaz/04.08.2023
+source: https://zan.gov.kz/client/#!/doc/175449/kaz/27.10.2023
 ---
 
 > *2022 жылғы 14 желтоқсандағы*  
