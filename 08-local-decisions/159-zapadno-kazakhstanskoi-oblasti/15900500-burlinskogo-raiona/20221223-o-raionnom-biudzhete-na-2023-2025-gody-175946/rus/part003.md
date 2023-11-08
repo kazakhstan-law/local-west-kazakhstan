@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/175946/rus/22.08.2023
+source: https://zan.gov.kz/client/#!/doc/175946/rus/08.11.2023
 ---
 
 > *Республика Казахстан*  
