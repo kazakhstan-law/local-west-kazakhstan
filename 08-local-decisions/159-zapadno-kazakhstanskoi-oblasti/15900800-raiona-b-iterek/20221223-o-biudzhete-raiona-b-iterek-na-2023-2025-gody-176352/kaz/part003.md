@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176352/kaz/16.08.2023
+source: https://zan.gov.kz/client/#!/doc/176352/kaz/24.11.2023
 ---
 
 > *Бәйтерек ауданы мәслихатының*  
