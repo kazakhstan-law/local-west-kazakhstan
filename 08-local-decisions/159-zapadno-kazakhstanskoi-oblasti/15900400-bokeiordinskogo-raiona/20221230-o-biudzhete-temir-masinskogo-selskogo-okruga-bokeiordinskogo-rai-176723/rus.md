@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
+source: https://zan.gov.kz/client/#!/doc/176723/rus/27.11.2023
 ---
 
 # О бюджете Темир Масинского сельского округа Бокейординского района на 2023 - 2025 годы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 
 1. Утвердить бюджет Темир Масинского сельского округа на 2023-2025 годы согласно приложениям 1, 2 и 3, в том числе на 2023 год в следующих объемах:
 
-   1) доходы –39 720 тысяч тенге:
+   1) доходы –38 811 тысяч тенге:
 
       налоговые поступления – 5 646 тысяч тенге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 
       поступления от продажи основного капитала - 0 тысяч тенге;
 
-      поступления трансфертов – 34 074 тысяч тенге;
+      поступления трансфертов – 33 165 тысяч тенге;
 
-   2) затраты – 40 607 тысяч тенге;
+   2) затраты – 39 698 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -36,9 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 
    5) дефицит (профицит) бюджета - - 887 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета -
-
-      887 тысяч тенге;
+   6) финансирование дефицита (использование профицита) бюджета - 887 тысяч тенге;
 
       поступление займов – 0 тенге;
 
@@ -46,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 
       используемые остатки бюджетных средств – 887 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решений Бокейординского районного маслихата Западно-Казахстанской области от 04.05.2023 № 3-7 (вводится в действие с 01.01.2023); от 23.08.2023 № 6-6 (вводится вдействие с 01.01.2023).*
+> *Сноска. Пункт 1 в редакции решений Бокейординского районного маслихата Западно-Казахстанской области от 04.05.2023 № 3-7 (вводится в действие с 01.01.2023); от 23.08.2023 № 6-6 (вводится вдействие с 01.01.2023); от 27.11.2023 № 10-9 (вводится вдействие с 01.01.2023).*
 
 2. Поступления в бюджет сельского округа на 2023 год формируются в соответствии с Бюджетным кодексом Республики Казахстан и решением Бокейордиского районного маслихата от 23 декабря 2022 года №24-1 «О районном бюджете на 2023-2025 годы».
 
@@ -60,50 +58,50 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 
 **Л.Кайргалиева**
 
-> *Приложение 1*  
-> *к решению Бокейординского*  
-> *районного маслихата*  
+> *Приложение 1 к решению*  
+> *Бокейординского районного*  
+> *маслихата*  
 > *от 30 декабря 2022 года № 25-6*
 
-## Бюджет Темир Масинского сельского округа на 2023 год
+## Бюджет Т.Масинского сельского округа на 2023 год
 
-> *Сноска. Приложение 1 в редакции решений Бокейординского районного маслихата Западно-Казахстанской области от 04.05.2023 № 3-7 (вводится в действие с 01.01.2023); от 23.08.2023 № 6-6 (вводится вдействие с 01.01.2023).*
+> *Сноска. Приложение 1 в редакции решений Бокейординского районного маслихата Западно-Казахстанской области от 04.05.2023 № 3-7 (вводится в действие с 01.01.2023); от 23.08.2023 № 6-6 (вводится вдействие с 01.01.2023); от 27.11.2023 № 10-9 (вводится вдействие с 01.01.2023).*
 
 (тысяч тенге)
 
 <table>
 <tr>
-<td colspan="12">Категория</td>
+<td colspan="13">Категория</td>
 <td rowspan="5">Сумма</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="11">Класс</td>
+<td colspan="12">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="9">Подкласс</td>
+<td colspan="10">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="7">Специфика</td>
+<td colspan="8">Специфика</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Наименование</td>
+<td colspan="5">Наименование</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">2</td>
 <td colspan="2">3</td>
 <td colspan="3">4</td>
-<td colspan="4">5</td>
+<td colspan="5">5</td>
 <td>6</td>
 </tr>
 <tr>
@@ -111,15 +109,15 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">1) Доходы</td>
-<td>39 720</td>
+<td colspan="5">1) Доходы</td>
+<td>38 811</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Налоговые поступления</td>
+<td colspan="5">Налоговые поступления</td>
 <td>5 646</td>
 </tr>
 <tr>
@@ -127,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Подоходный налог</td>
+<td colspan="5">Подоходный налог</td>
 <td>0</td>
 </tr>
 <tr>
@@ -135,15 +133,15 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3"></td>
-<td colspan="4">Индивидуальный подоходный налог</td>
-<td>364</td>
+<td colspan="5">Индивидуальный подоходный налог</td>
+<td>834</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Налоги на собственность</td>
+<td colspan="5">Налоги на собственность</td>
 <td>0</td>
 </tr>
 <tr>
@@ -151,31 +149,31 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3"></td>
-<td colspan="4">Налоги на имущество</td>
-<td>196</td>
+<td colspan="5">Налоги на имущество</td>
+<td>160</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3"></td>
-<td colspan="4">Земельный налог</td>
-<td>0</td>
+<td colspan="5">Земельный налог</td>
+<td>363</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3"></td>
-<td colspan="4">Hалог на транспортные средства</td>
-<td>5 086</td>
+<td colspan="5">Hалог на транспортные средства</td>
+<td>4 289</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Неналоговые поступления</td>
+<td colspan="5">Неналоговые поступления</td>
 <td>0</td>
 </tr>
 <tr>
@@ -183,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Доходы от государственной собственности</td>
+<td colspan="5">Доходы от государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -191,7 +189,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3"></td>
-<td colspan="4">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="5">Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
@@ -199,28 +197,31 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Поступления трансфертов</td>
-<td>34 074</td>
+<td colspan="5">Поступления трансфертов</td>
+<td>33 165</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>34 074</td>
+<td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
+<td>33 165</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3"></td>
-<td colspan="4">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>34 074</td>
+<td colspan="5">Трансферты из районных (городов областного значения) бюджетов</td>
+<td>33 165</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="12">Функциональная группа</td>
-<td rowspan="5">Сумма</td>
+<td colspan="2" rowspan="5">Сумма</td>
 </tr>
 <tr>
 <td></td>
@@ -250,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3">3</td>
 <td colspan="3">4</td>
 <td colspan="3">5</td>
-<td>6</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -258,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">2) Затраты</td>
-<td>40 607</td>
+<td colspan="2">39 698</td>
 </tr>
 <tr>
 <td>01</td>
@@ -266,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>35 625</td>
+<td colspan="2">36 925</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>35 625</td>
+<td colspan="2">36 925</td>
 </tr>
 <tr>
 <td></td>
@@ -282,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>35 625</td>
+<td colspan="2">36 925</td>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35 625</td>
+<td colspan="2">36 925</td>
 </tr>
 <tr>
 <td>05</td>
@@ -298,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Здравоохранение</td>
-<td>47</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Прочие услуги в области здравоохранения</td>
-<td>47</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -314,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>47</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -322,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">002</td>
 <td colspan="3">Организация в экстренных случаях доставки тяжелобольных людей до ближайшей организации здравоохранения, оказывающей врачебную помощь</td>
-<td>47</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -330,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Жилищно-коммунальное хозяйствоо</td>
-<td>3 530</td>
+<td colspan="2">1 877</td>
 </tr>
 <tr>
 <td></td>
@@ -338,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>3 530</td>
+<td colspan="2">1 877</td>
 </tr>
 <tr>
 <td></td>
@@ -346,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3 530</td>
+<td colspan="2">1 877</td>
 </tr>
 <tr>
 <td></td>
@@ -354,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">008</td>
 <td colspan="3">Освещение улиц в населенных пунктах</td>
-<td>2 050</td>
+<td colspan="2">981</td>
 </tr>
 <tr>
 <td></td>
@@ -362,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">009</td>
 <td colspan="3">Обеспечение санитарии населенных пунктов</td>
-<td>382</td>
+<td colspan="2">722</td>
 </tr>
 <tr>
 <td></td>
@@ -370,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td>1 098</td>
+<td colspan="2">174</td>
 </tr>
 <tr>
 <td>12</td>
@@ -378,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Транспорт и коммуникации</td>
-<td>1 405</td>
+<td colspan="2">896</td>
 </tr>
 <tr>
 <td></td>
@@ -386,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Автомобильный транспорт</td>
-<td>1 405</td>
+<td colspan="2">896</td>
 </tr>
 <tr>
 <td></td>
@@ -394,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 405</td>
+<td colspan="2">896</td>
 </tr>
 <tr>
 <td></td>
@@ -402,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3">013</td>
 <td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>1 405</td>
+<td colspan="2">896</td>
 </tr>
 <tr>
 <td></td>
@@ -410,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">3) Чистое бюджетное кредитование</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -418,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Бюджетные кредиты</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -426,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">4) Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -434,7 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">Приобретение финансовых активов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
@@ -442,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">5) Дефицит (профицит) бюджета</td>
-<td>- 887</td>
+<td colspan="2">- 887</td>
 </tr>
 <tr>
 <td></td>
@@ -450,11 +451,11 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="3">6) Финансирование дефицита бюджета (использование профицита)</td>
-<td>887</td>
+<td colspan="2">887</td>
 </tr>
 <tr>
 <td colspan="12">Категория</td>
-<td rowspan="5">Сумма</td>
+<td colspan="2" rowspan="5">Сумма</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -486,7 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Поступления займов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -495,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -504,11 +505,11 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Договоры займа</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="12">Категория</td>
-<td rowspan="5">Сумма</td>
+<td colspan="2" rowspan="5">Сумма</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -540,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Используемые остаткибюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -549,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -558,7 +559,7 @@ source: https://zan.gov.kz/client/#!/doc/176723/rus/23.08.2023
 <td colspan="3"></td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>887</td>
+<td colspan="2">0</td>
 </tr>
 </table>
 
