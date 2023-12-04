@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/175877/kaz/08.11.2023
+source: https://zan.gov.kz/client/#!/doc/175877/kaz/04.12.2023
 ---
 
 > *Шыңғырлау аудандық мәслихатының*  
