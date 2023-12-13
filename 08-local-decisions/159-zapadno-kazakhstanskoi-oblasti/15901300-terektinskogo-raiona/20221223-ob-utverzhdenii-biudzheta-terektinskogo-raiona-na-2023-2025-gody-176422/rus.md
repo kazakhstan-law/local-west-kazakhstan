@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176422/rus/08.11.2023
+source: https://zan.gov.kz/client/#!/doc/176422/rus/13.12.2023
 ---
 
 # Об утверждении бюджета Теректинского района на 2023-2025 годы

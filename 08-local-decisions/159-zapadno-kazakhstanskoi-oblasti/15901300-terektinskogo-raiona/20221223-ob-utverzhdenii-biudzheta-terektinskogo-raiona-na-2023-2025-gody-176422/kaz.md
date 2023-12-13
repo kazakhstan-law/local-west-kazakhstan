@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176422/kaz/08.11.2023
+source: https://zan.gov.kz/client/#!/doc/176422/kaz/13.12.2023
 ---
 
 # Теректі ауданының 2023-2025 жылдарға арналған бюджетін бекіту туралы
