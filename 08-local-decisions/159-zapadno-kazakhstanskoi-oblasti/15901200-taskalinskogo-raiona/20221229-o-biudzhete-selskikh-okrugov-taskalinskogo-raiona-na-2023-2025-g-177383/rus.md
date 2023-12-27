@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177383/rus/27.11.2023
+source: https://zan.gov.kz/client/#!/doc/177383/rus/27.12.2023
 ---
 
 # О бюджете сельских округов Таскалинского района на 2023-2025 годы
