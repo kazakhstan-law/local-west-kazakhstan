@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
+source: https://zan.gov.kz/client/#!/doc/190787/rus/19.07.2024
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 
 ## Городской бюджет на 2024 год
 
-> *Сноска. Приложение 1 в редакции решений Уральского городского маслихата Западно-Казахстанской области от 28.02.2024 № 9-3 (вводится в действие с 01.01.2024); от 22.04.2024 № 10-2 (вводится в действие с 01.01.2024); от 24.05.2024 № 11-7 (вводится в действие с 01.01.2024); от 17.06.2024 № 12-2 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решений Уральского городского маслихата Западно-Казахстанской области от 28.02.2024 № 9-3 (вводится в действие с 01.01.2024); от 22.04.2024 № 10-2 (вводится в действие с 01.01.2024); от 24.05.2024 № 11-7 (вводится в действие с 01.01.2024); от 17.06.2024 № 12-2 (вводится в действие с 01.01.2024); от 19.07.2024 № 13-2 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">1) Доходы</td>
-<td>61 077 491</td>
+<td>61 784 841</td>
 </tr>
 <tr>
 <td>1</td>
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Налоговые поступления</td>
-<td>34 495 234</td>
+<td>34 995 234</td>
 </tr>
 <tr>
 <td></td>
@@ -64,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Подоходный налог</td>
-<td>20 399 261</td>
+<td>20 899 261</td>
 </tr>
 <tr>
 <td></td>
@@ -82,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td>12 399 260</td>
+<td>12 899 260</td>
 </tr>
 <tr>
 <td></td>
@@ -316,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления от продажи основного капитала</td>
-<td>9 363 869</td>
+<td>9 570 131</td>
 </tr>
 <tr>
 <td></td>
@@ -343,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Продажа земли и нематериальных активов</td>
-<td>952 351</td>
+<td>1 158 613</td>
 </tr>
 <tr>
 <td></td>
@@ -352,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Продажа земли</td>
-<td>777 496</td>
+<td>983 758</td>
 </tr>
 <tr>
 <td></td>
@@ -370,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>16 670 605</td>
+<td>16 671 693</td>
 </tr>
 <tr>
 <td></td>
@@ -379,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из нижестоящих органов государственного управления</td>
-<td>13 937</td>
+<td>15 025</td>
 </tr>
 <tr>
 <td></td>
@@ -388,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из бюджетов городов районного значения, сел, поселков, сельских округов</td>
-<td>13 937</td>
+<td>15 025</td>
 </tr>
 <tr>
 <td></td>
@@ -449,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">2) Затраты</td>
-<td>72 017 286</td>
+<td>72 724 636</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -458,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td>5 250 701</td>
+<td>5 548 708</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -530,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Финансовая деятельность</td>
-<td>277 777</td>
+<td>282 217</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -539,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел финансов района (города областного значения)</td>
-<td>219 161</td>
+<td>223 601</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -548,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">001</td>
 <td colspan="3"></td>
 <td colspan="4">Услуги по реализации государственной политики в области исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>102 054</td>
+<td>106 494</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -665,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Прочие государственные услуги общего характера</td>
-<td>4 440 485</td>
+<td>4 734 052</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -701,7 +701,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>4 393 197</td>
+<td>4 686 764</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -710,7 +710,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">001</td>
 <td colspan="3"></td>
 <td colspan="4">Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог</td>
-<td>386 256</td>
+<td>416 164</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -728,7 +728,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">113</td>
 <td colspan="3"></td>
 <td colspan="4">Целевые текущие трансферты нижестоящим бюджетам</td>
-<td>2 493 297</td>
+<td>2 756 956</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -854,7 +854,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Социальная помощь и социальное обеспечение</td>
-<td>5 846 184</td>
+<td>5 844 724</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -962,7 +962,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>927 035</td>
+<td>925 575</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -971,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>687 035</td>
+<td>685 575</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -980,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">001</td>
 <td colspan="3"></td>
 <td colspan="4">Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения</td>
-<td>159 851</td>
+<td>158 391</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1061,7 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Жилищно-коммунальное хозяйство</td>
-<td>40 517 233</td>
+<td>40 695 536</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1160,7 +1160,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Коммунальное хозяйство</td>
-<td>4 870 480</td>
+<td>5 148 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1169,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>4 870 480</td>
+<td>5 148 783</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1178,7 +1178,16 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">012</td>
 <td colspan="3"></td>
 <td colspan="4">Функционирование системы водоснабжения и водоотведения</td>
-<td>301 032</td>
+<td>578 335</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="4">026</td>
+<td colspan="3"></td>
+<td colspan="4">Организация эксплуатации тепловых сетей, находящихся в коммунальной собственности районов (городов областного значения)</td>
+<td>1 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1241,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Благоустройство населенных пунктов</td>
-<td>7 330 891</td>
+<td>7 230 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1250,7 +1259,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>7 330 891</td>
+<td>7 230 891</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1268,7 +1277,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">016</td>
 <td colspan="3"></td>
 <td colspan="4">Обеспечение санитарии населенных пунктов</td>
-<td>3 949 278</td>
+<td>3 849 278</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1295,7 +1304,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Культура, спорт, туризм и информационное пространство</td>
-<td>2 507 302</td>
+<td>2 539 802</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1304,7 +1313,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Деятельность в области культуры</td>
-<td>1 239 552</td>
+<td>1 272 052</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1313,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел культуры и развития языков района (города областного значения)</td>
-<td>1 239 552</td>
+<td>1 272 052</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1322,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">003</td>
 <td colspan="3"></td>
 <td colspan="4">Поддержка культурно-досуговой работы</td>
-<td>1 239 552</td>
+<td>1 272 052</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1691,7 +1700,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Транспорт и коммуникации</td>
-<td>9 827 771</td>
+<td>10 027 771</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1700,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Автомобильный транспорт</td>
-<td>4 596 005</td>
+<td>4 796 005</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1709,7 +1718,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>4 596 005</td>
+<td>4 796 005</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1718,7 +1727,7 @@ source: https://zan.gov.kz/client/#!/doc/190787/rus/17.06.2024
 <td colspan="4">022</td>
 <td colspan="3"></td>
 <td colspan="4">Развитие транспортной инфраструктуры</td>
-<td>680 819</td>
+<td>880 819</td>
 </tr>
 <tr>
 <td colspan="2"></td>
