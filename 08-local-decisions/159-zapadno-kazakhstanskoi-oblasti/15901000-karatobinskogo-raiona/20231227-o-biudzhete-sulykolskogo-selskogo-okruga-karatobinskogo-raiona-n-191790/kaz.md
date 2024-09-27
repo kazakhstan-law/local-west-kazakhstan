@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
+source: https://zan.gov.kz/client/#!/doc/191790/kaz/27.09.2024
 ---
 
 # 2024-2026 жылдарға арналған Қаратөбе ауданының Сулыкөл ауылдық округінің бюджеті туралы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 
 1. 2024-2026 жылдарға арналған Қаратөбе ауданының Сулыкөл ауылдық округінің бюджеті 1, 2 және 3-қосымшаларға сәйкес, оның ішінде 2024 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер –48 585 мың теңге, оның ішінде:
+   1) кірістер –50 585 мың теңге, оның ішінде:
 
       салықтық түсімдер – 5 815 мың теңге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 
       негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
 
-      трансферттер түсімі – 42 770 мың теңге;
+      трансферттер түсімі –44 770 мың теңге;
 
-   2) шығындар – 48 709,6 мың теңге;
+   2) шығындар – 50 709,6 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 
       бюджет қаражатының пайдаланылатын қалдықтары – 124,6 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-5 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-5 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2024 жылға арналған ауылдық округтың бюджет түсімдері Қазақстан Республикасының Бюджет кодексі, Қаратөбе аудандық мәслихатының 2023 жылғы 21 желтоқсандағы № 10-2 «2024 – 2026 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -66,16 +66,16 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 
 > *Қаратөбе аудандық мәслихатының*  
 > *2023 жылғы 27 желтоқсандағы*  
-> *№11-11 шешіміне 1-қосымша*
+> *№ 11-11 шешіміне 1-қосымша*
 
 ## 2024 жылға арналған Сулыкөл ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-5 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-5 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="4">
+<td>
 Сомасы,
 мың
 теңге
@@ -84,17 +84,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -108,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">1) Кірістер</td>
-<td>48585</td>
+<td>50585</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -227,25 +230,25 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>42770</td>
+<td>44770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>42770</td>
+<td>44770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>42770</td>
+<td>44770</td>
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="5">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -253,17 +256,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Кіші функция</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -271,6 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">2) Шығындар</td>
-<td>48709,6</td>
+<td>50709,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -350,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5372</td>
+<td>7372</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -358,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td>5372</td>
+<td>7372</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5372</td>
+<td>7372</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -390,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td>011</td>
 <td colspan="2">Елді-мекендерді абаттандыру мен көгалдандыру</td>
-<td>3214</td>
+<td>5214</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -429,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td colspan="2"></td>
 <td></td>
 <td>051</td>
-<td colspan="2">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
+<td colspan="2">Заңнаманы өзгертуге байланысты жоғарға тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
 <td>0</td>
 </tr>
 <tr>
@@ -450,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="4">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -458,17 +465,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td></td>
 <td colspan="7">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -512,7 +522,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="5">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -520,17 +530,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="3"></td>
 <td colspan="5">Кіші функция</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -538,6 +551,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -573,7 +587,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="5">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -581,17 +595,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Ерекшелiгi</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -599,6 +616,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -674,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="5">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -682,17 +700,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Кіші функция</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -700,6 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -743,7 +765,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td rowspan="5">
+<td>
 Сомасы, мың
 теңге
 </td>
@@ -751,17 +773,20 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кішi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Ерекшелiгi</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -769,6 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/191790/kaz/26.03.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
