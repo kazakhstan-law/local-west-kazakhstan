@@ -1,5 +1,5 @@
 ---
-version_id: '191657_718134'
+version_id: '191657_730316'
 act_code: '191657'
 language: kaz
 title: 2024-2026 жылдарға арналған Жетікөл ауылдық округінің бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2023-12-27
-version_date: 2024-08-29
+version_date: 2024-11-19
 registry_number: '191657'
 caused_by:
-  code: '200357'
+  code: '203085'
   title: Сырым аудандық мәслихатының 2023 жылғы 27 желтоқсандағы № 16-6 «2024-2026 жылдарға арналған Жетікөл ауылдық округінің бюджеті туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/200357/kaz
-source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
+  link: https://zan.gov.kz/client/#!/doc/203085/kaz
+source: https://zan.gov.kz/client/#!/doc/191657/kaz
 ---
 
 # 2024-2026 жылдарға арналған Жетікөл ауылдық округінің бюджеті туралы
@@ -75,11 +75,11 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 
 > *Сырым аудандық мәслихатының*  
 > *2023 жылғы 27 желтоқсандағы*  
-> *№ 16-6 шешіміне 1 - қосымша*
+> *№16-6 шешіміне 1 - қосымша*
 
 ## 2024 жылға арналған Жетікөл ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 12.03.2024 № 18-6 (01.01.2024 бастап қолданысқа енгізіледі); 29.08.2024 № 22-10 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 12.03.2024 № 18-6 (01.01.2024 бастап қолданысқа енгізіледі); 29.08.2024 № 22-10 (01.01.2024 бастап қолданысқа енгізіледі); 19.11.2024 № 25-3 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -235,10 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
-<td rowspan="5">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -262,12 +259,12 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="4">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -283,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td></td>
@@ -291,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td></td>
@@ -299,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td></td>
@@ -307,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td>07</td>
@@ -315,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td></td>
@@ -323,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td></td>
@@ -331,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td></td>
@@ -339,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1097</td>
+<td>768</td>
 </tr>
 <tr>
 <td></td>
@@ -347,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>1000</td>
+<td>760</td>
 </tr>
 <tr>
 <td></td>
@@ -355,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/kaz/29.08.2024
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Елді мекендердi абаттандыру мен көгалдандыру</td>
-<td>600</td>
+<td>599</td>
 </tr>
 <tr>
 <td>12</td>
