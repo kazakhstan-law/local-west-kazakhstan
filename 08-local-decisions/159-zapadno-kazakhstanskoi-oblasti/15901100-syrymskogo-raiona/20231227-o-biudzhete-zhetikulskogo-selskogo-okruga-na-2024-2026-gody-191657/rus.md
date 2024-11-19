@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
+source: https://zan.gov.kz/client/#!/doc/191657/rus/19.11.2024
 ---
 
 # О бюджете Жетикульского сельского округа на 2024-2026годы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 
 ## Бюджет Жетикульского сельского округа на 2024 год
 
-> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 12.03.2024 № 18-6 (вводится в действие с 01.01.2024); 29.08.2024 № 22-10 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 12.03.2024 № 18-6 (вводится в действие с 01.01.2024); 29.08.2024 № 22-10 (вводится в действие с 01.01.2024); от 19.11.2024 № 25-3 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -91,25 +91,25 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">1) Доходы</td>
-<td>36 222</td>
+<td>36222</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">Налоговые поступления</td>
-<td>2 146</td>
+<td>2146</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -218,10 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
-<td rowspan="5">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -245,12 +242,12 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -266,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -274,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -282,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -290,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>34934</td>
+<td>35504</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -298,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -306,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -314,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2697</td>
+<td>2127</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -322,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>1097</td>
+<td>768</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -330,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1000</td>
+<td>760</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -338,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>600</td>
+<td>599</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -378,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>3) Чистое бюджетное кредитование</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -386,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/191657/rus/29.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Бюджетные кредиты</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="10">Категория</td>
