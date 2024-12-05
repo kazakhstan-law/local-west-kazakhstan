@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/190837/kaz/31.10.2024
+source: https://zan.gov.kz/client/#!/doc/190837/kaz/05.12.2024
 ---
 
 # Теректі ауданының 2024-2026 жылдарға арналған бюджетін бекіту туралы

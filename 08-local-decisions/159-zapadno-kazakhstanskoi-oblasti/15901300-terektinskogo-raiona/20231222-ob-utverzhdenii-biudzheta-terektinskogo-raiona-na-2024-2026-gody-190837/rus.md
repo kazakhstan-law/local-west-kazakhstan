@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/190837/rus/31.10.2024
+source: https://zan.gov.kz/client/#!/doc/190837/rus/05.12.2024
 ---
 
 # Об утверждении бюджета Теректинского района на 2024-2026 годы
