@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
+source: https://zan.gov.kz/client/#!/doc/191801/kaz/09.12.2024
 ---
 
 # 2024-2026 жылдарға арналған Қаратөбе ауданының Жусандой ауылдық округінің бюджеті туралы
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 
       негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
 
-      трансферттер түсімі – 103 475 мың теңге;
+      трансферттер түсімі – 103475 мың теңге;
 
-   2) шығындар – 106 563,5 мың теңге;
+   2) шығындар – 105 963,5 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 
       бюджет қаражатының пайдаланылатын қалдықтары – 338,5 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-8 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-2 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-8 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-2 (01.01.2024 бастап қолданысқа енгізіледі); 09.12.2024 № 21-3 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2024 жылға арналған ауылдық округтың бюджет түсімдері Қазақстан Республикасының Бюджет кодексі, Қаратөбе аудандық мәслихатының 2023 жылғы 21 желтоқсандағы № 10-2 «2024 – 2026 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -76,12 +76,12 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 
 ## 2024 жылға арналған Жусандой ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-8 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-2 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Қаратөбе аудандық мәслихатының 26.03.2024 № 13-8 (01.01.2024 бастап қолданысқа енгізіледі); 27.09.2024 № 18-2 (01.01.2024 бастап қолданысқа енгізіледі); 09.12.2024 № 21-3 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="8">Санаты</td>
-<td>
+<td rowspan="4">
 Сомасы,
 мың
 теңге
@@ -90,20 +90,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кіші сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -254,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td>
+<td rowspan="5">
 Сомасы, мың
 теңге
 </td>
@@ -262,20 +259,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -283,7 +277,6 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -291,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">2) Шығындар</td>
-<td>106563,5</td>
+<td>105963,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -299,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>55083</td>
+<td>57154</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -307,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>55083</td>
+<td>57154</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -315,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>55083</td>
+<td>57154</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -323,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>55083</td>
+<td>57154</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
@@ -439,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td>
+<td rowspan="4">
 Сомасы, мың
 теңге
 </td>
@@ -447,20 +440,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td></td>
 <td colspan="7">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Кіші сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -504,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td>
+<td rowspan="5">
 Сомасы, мың
 теңге
 </td>
@@ -512,20 +502,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="3"></td>
 <td colspan="5">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -533,7 +520,6 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -569,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td>
+<td rowspan="5">
 Сомасы, мың
 теңге
 </td>
@@ -577,20 +563,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кіші сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Ерекшелiгi</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -598,7 +581,6 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -674,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td>
+<td rowspan="5">
 Сомасы, мың
 теңге
 </td>
@@ -682,20 +664,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Кіші функция</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -703,7 +682,6 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -747,7 +725,7 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 </tr>
 <tr>
 <td colspan="8">Санаты</td>
-<td>
+<td rowspan="5">
 Сомасы, мың
 теңге
 </td>
@@ -755,20 +733,17 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <tr>
 <td colspan="2"></td>
 <td colspan="6">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Кішi сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Ерекшелiгi</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -776,7 +751,6 @@ source: https://zan.gov.kz/client/#!/doc/191801/kaz/27.09.2024
 <td></td>
 <td></td>
 <td colspan="2">Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
