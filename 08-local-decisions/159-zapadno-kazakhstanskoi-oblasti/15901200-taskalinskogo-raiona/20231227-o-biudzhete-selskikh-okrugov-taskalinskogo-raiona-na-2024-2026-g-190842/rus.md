@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/190842/rus/14.11.2024
+source: https://zan.gov.kz/client/#!/doc/190842/rus/20.12.2024
 ---
 
 # О бюджете сельских округов Таскалинского района на 2024-2026 годы
