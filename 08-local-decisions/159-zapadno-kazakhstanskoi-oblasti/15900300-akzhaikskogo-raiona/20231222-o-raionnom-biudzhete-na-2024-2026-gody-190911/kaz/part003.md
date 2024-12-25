@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190911/kaz/15.11.2024
+source: https://zan.gov.kz/client/#!/doc/190911/kaz/25.12.2024
 ---
 
 > *2023 жылғы 22 желтоқсандағы № 11-2*  
