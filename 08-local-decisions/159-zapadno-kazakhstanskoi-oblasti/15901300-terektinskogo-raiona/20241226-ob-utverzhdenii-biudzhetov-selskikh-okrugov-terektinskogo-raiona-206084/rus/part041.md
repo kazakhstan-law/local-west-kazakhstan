@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
+source: https://zan.gov.kz/client/#!/doc/206084/rus/07.02.2025
 ---
 
 > *Приложение 41*  
@@ -1302,6 +1302,8 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 
 ## Бюджет Шалкарского сельского округа на 2025 год
 
+> *Сноска. Приложение 43 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 07.02.2025 № 21-1 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -1497,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>56 932</td>
+<td>61 200</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1569,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1577,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1585,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1609,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2 000</td>
+<td>6 268</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1821,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1829,7 +1831,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1929,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1937,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1945,7 +1947,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/rus/26.12.2024
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 </table>
 

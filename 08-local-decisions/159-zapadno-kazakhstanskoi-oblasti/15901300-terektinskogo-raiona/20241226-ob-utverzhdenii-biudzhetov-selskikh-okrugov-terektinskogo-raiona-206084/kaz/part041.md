@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
+source: https://zan.gov.kz/client/#!/doc/206084/kaz/07.02.2025
 ---
 
 > *Теректі аудандық мәслихатының*  
@@ -1302,6 +1302,8 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 
 ## 2025 жылға арналған Шалқар ауылдық округінің бюджеті
 
+> *Ескерту. 43-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 07.02.2025 № 21-1 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
@@ -1497,7 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>56 932</td>
+<td>61 200</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1569,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1577,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1585,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 695</td>
+<td>10 963</td>
 </tr>
 <tr>
 <td></td>
@@ -1609,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2 000</td>
+<td>6 268</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1821,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1829,7 +1831,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1929,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1937,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 <tr>
 <td></td>
@@ -1945,7 +1947,7 @@ source: https://zan.gov.kz/client/#!/doc/206084/kaz/26.12.2024
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>4 268</td>
 </tr>
 </table>
 
