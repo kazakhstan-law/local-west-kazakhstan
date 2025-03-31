@@ -1,5 +1,5 @@
 ---
-version_id: '204992_737415'
+version_id: '204992_750572'
 act_code: '204992'
 language: kaz
 title: 2025-2027 жылдарға арналған Жәнібек ауданы Тау ауылдық округінің бюджеті туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '159007000002'
 approval_date: 2024-12-26
-version_date: 2024-12-26
+version_date: 2025-03-31
 registry_number: '204992'
-source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
+caused_by:
+  code: '208703'
+  title: Жәнібек аудандық мәслихатының 2024 жылғы 26 желтоқсандағы № 30-8 «2025-2027 жылдарға арналған Жәнібек ауданы Тау ауылдық округінің бюджеті туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/208703/kaz
+source: https://zan.gov.kz/client/#!/doc/204992/kaz/31.03.2025
 ---
 
 # 2025 - 2027 жылдарға арналған Жәнібек ауданы Тау ауылдық округінің бюджеті туралы
@@ -21,19 +25,19 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 
 Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы Бюджет кодексіне, Қазақстан Республикасының 2001 жылғы 23 қаңтардағы «Қазақстан Республикасындағы жергілікті мемлекеттік басқару және өзін-өзі басқару туралы» Заңына сәйкес Жәнібек аудандық мәслихаты ШЕШІМ ҚАБЫЛДАДЫ:
 
-1. 2025-2027 жылдарға арналған Жәнібек ауданы Тау ауылдық округінің бюджеті тиісінше 1, 2 және 3 - қосымшаларға сәйкес, соның ішінде 2025 жылға келесі көлемдерде бекітілсін:
+1. 2025-2027 жылдарға арналған Жәнібек ауданының Тау ауылдық округінің бюджеті тиісінше 1, 2 және 3 қосымшаларға сәйкес, соның ішінде 2025 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 36 786 мың теңге:
+   1) кірістер – 41 530 мың теңге:
 
       салықтық түсімдер – 4 566 мың теңге;
 
-      салықтық емес түсімдер – 90 теңге;
+      салықтық емес түсімдер – 90 мың теңге;
 
-      негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
+      негізгі капиталды сатудан түсетін түсімдер – 0 мың теңге;
 
-      трансферттер түсімі – 32 130 мың теңге;
+      трансферттер түсімі – 36 874 мың теңге;
 
-   2) шығындар – 36 786 мың теңге;
+   2) шығындар – 47 147 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -47,15 +51,17 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0 теңге;
 
-   5) бюджет тапшылығы (профициті) – 0 теңге;
+   5) бюджет тапшылығы (профициті) – -5 617 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 0 теңге:
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 5 617 мың теңге:
 
       қарыздар түсімі – 0 теңге;
 
       қарыздарды өтеу – 0 теңге;
 
-      бюджет қаражатының пайдаланылатын қалдықтары – 0 теңге.
+      бюджет қаражатының пайдаланылатын қалдықтары – 5 617 мың теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-8 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. 2025 жылға арналған Жәнібек ауданы Тау ауылдық округінің бюджет түсімдері Қазақстан Республикасының Бюджет кодексіне, Жәнібек аудандық мәслихатының 2024 жылғы 23 желтоқсандағы №29-2 «2025 – 2027 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -70,10 +76,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 **Т.Кадимов**
 
 > *Жәнібек аудандық мәслихатының*  
-> *2024 жылғы 26 желтоқсандағы*  
-> *№ 30-8 шешіміне 1-қосымша*
+> *2024 жылғы 26 желтоқсандағы № 30-8*  
+> *шешіміне 1-қосымша*
 
 ## 2025 жылға арналған Тау ауылдық округінің бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-8 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
 
 > *мың теңге*
 
@@ -104,12 +112,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -117,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>36 786</td>
+<td>41 530</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -192,6 +200,14 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td>300</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td>Табиғи және басқа ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
+<td>300</td>
+</tr>
+<tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -205,7 +221,15 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>0</td>
+<td>90</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td>Мемлекеттік мүлікті жалға беруден түсетін кірістер</td>
+<td>90</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -221,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>32 130</td>
+<td>36 874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -229,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>32 130</td>
+<td>36 874</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -237,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>32 130</td>
+<td>36 874</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -265,12 +289,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>36 786</td>
+<td>47 147</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -286,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>34 443</td>
+<td>33 872</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -294,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>34 443</td>
+<td>33 872</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -302,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>34 443</td>
+<td>33 872</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -310,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>34 443</td>
+<td>33 872</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -318,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1 993</td>
+<td>12 925</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -350,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>493</td>
+<td>11 425</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -358,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>493</td>
+<td>11 425</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елдi мекендердегі көшелердi жарықтандыру</td>
-<td>493</td>
+<td>5 808</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -374,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -452,12 +476,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -518,12 +542,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -560,12 +584,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>6</td>
@@ -597,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 <tr>
 <td></td>
@@ -605,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 <tr>
 <td>7</td>
@@ -659,12 +683,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -709,12 +733,12 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>8</td>
@@ -722,7 +746,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 <tr>
 <td></td>
@@ -730,7 +754,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 <tr>
 <td></td>
@@ -738,7 +762,7 @@ source: https://zan.gov.kz/client/#!/doc/204992/kaz/26.12.2024
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>5 617</td>
 </tr>
 </table>
 
