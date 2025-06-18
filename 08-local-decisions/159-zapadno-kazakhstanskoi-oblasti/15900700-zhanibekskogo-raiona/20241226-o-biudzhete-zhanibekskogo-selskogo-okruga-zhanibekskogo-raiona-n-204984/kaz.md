@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
+source: https://zan.gov.kz/client/#!/doc/204984/kaz/18.06.2025
 ---
 
 # 2025 - 2027 жылдарға арналған Жәнібек ауданы Жәнібек ауылдық округінің бюджеті туралы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 
 1. 2025-2027 жылдарға арналған Жәнібек ауданының Жәнібек ауылдық округінің бюджеті 1,2 және 3-қосымшаларға сәйкес, соның ішінде 2025 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 101 290 мың теңге:
+   1) кірістер – 104 921 мың теңге:
 
       салықтық түсімдер – 70 523 мың теңге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 
       негізгі капиталды сатудан түсетін түсімдер – 600 мың теңге;
 
-      трансферттер түсімі – 30 167 мың теңге;
+      трансферттер түсімі – 33 798 мың теңге;
 
-   2) шығындар – 137 300 мың теңге;
+   2) шығындар – 140 931 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 
       бюджет қаражатының пайдаланылатын қалдықтары –36 010 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-4 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-4 (01.01.2025 бастап қолданысқа енгізіледі); 18.06.2025 № 35-4 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2024 жылға арналған Жәнібек ауданы Жәнібек ауылдық округінің бюджет түсімдері Қазақстан Республикасының Бюджет кодексіне, Жәнібек аудандық мәслихатының 2024 жылғы 23 желтоқсандағы №29-2 «2025– 2027 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 
 ## 2025 жылға арналған Жәнібек ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-4 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-4 (01.01.2025 бастап қолданысқа енгізіледі); 18.06.2025 № 35-4 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -98,12 +98,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -111,7 +111,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>101 290</td>
+<td>104 921</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -271,7 +271,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>30 167</td>
+<td>33 798</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -279,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>30 167</td>
+<td>33 798</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>30 167</td>
+<td>33 798</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -295,13 +295,13 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td>Ағымдағы берілетін нысаналы трансферттер</td>
-<td>30 167</td>
+<td>33 798</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">02</td>
+<td colspan="2">03</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджеттен субвенциялар</td>
 <td>0</td>
 </tr>
@@ -331,12 +331,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -344,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>137 300</td>
+<td>140 931</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -384,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>72 810</td>
+<td>76 441</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -416,7 +416,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елді-мекендерді көркейту</td>
-<td>71 810</td>
+<td>75 441</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -424,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>71 810</td>
+<td>75 441</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -448,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>39 100</td>
+<td>42 731</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -494,12 +494,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -560,12 +560,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -602,12 +602,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -701,12 +701,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -751,12 +751,12 @@ source: https://zan.gov.kz/client/#!/doc/204984/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
