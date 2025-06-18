@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
+source: https://zan.gov.kz/client/#!/doc/204979/kaz/18.06.2025
 ---
 
 # 2025-2027 жылдарға арналған Жәнібек ауданы Куйгенкөл ауылдық округінің бюджеті туралы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 
 1. 2025-2027 жылдарға арналған Күйгенкөл ауылдық округінің бюджеті тиісінше 1, 2 және 3-қосымшаларға сәйкес, соның ішінде 2025 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 37 698 мың теңге:
+   1) кірістер – 38 098 мың теңге:
 
       салықтық түсімдер – 4 126 мың теңге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 
       негізгі капиталды сатудан түсетін түсімдер – 0 теңге;
 
-      трансферттер түсімі – 33 502 мың теңге;
+      трансферттер түсімі – 33 902 мың теңге;
 
-   2) шығындар – 44 432 мың теңге;
+   2) шығындар – 44 832 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 теңге:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 
       бюджет қаражатының пайдаланылатын қалдықтары – 6 734 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-5 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-5 (01.01.2025 бастап қолданысқа енгізіледі); 18.06.2025 № 35-5 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2025 жылға арналған Күйгенкөл ауылдық округінің бюджет түсімдері Қазақстан Республикасының Бюджет кодексіне, Жәнібек аудандық мәслихатының 2024 жылғы 23 желтоқсандағы № 29-2 «2025 – 2027 жылдарға арналған аудандық бюджет туралы» шешіміне сәйкес қалыптасады.
 
@@ -58,13 +58,11 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 
 **Т.Кадимов**
 
-> *Жәнібек аудандық мәслихатының*  
-> *2024 жылғы 26 желтоқсандағы № 30-5*  
-> *шешіміне 1-қосымша*
+> ************************
 
 ## 2025 жылға арналған Куйгенкөл ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-5 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Жәнібек аудандық мәслихатының 31.03.2025 № 32-5 (01.01.2025 бастап қолданысқа енгізіледі); 18.06.2025 № 35-5 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 > *мың теңге*
 
@@ -95,12 +93,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -108,7 +106,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>1) Кірістер</td>
-<td>37 698</td>
+<td>38 098</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -228,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>33 505</td>
+<td>33 902</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -236,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>33 502</td>
+<td>33 902</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -244,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>33 502</td>
+<td>33 902</td>
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
@@ -272,12 +270,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -285,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td>44 432</td>
+<td>44 832</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -293,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>36 923</td>
+<td>37 323</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -301,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>36 923</td>
+<td>37 323</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -309,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>36 923</td>
+<td>37 323</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -317,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>36 923</td>
+<td>37 323</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -467,12 +465,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -533,12 +531,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -575,12 +573,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -674,12 +672,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -724,12 +722,12 @@ source: https://zan.gov.kz/client/#!/doc/204979/kaz/31.03.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
