@@ -1,5 +1,5 @@
 ---
-version_id: '205041_750679'
+version_id: '205041_763119'
 act_code: '205041'
 language: rus
 title: О бюджете Акобинского сельского округа Жанибекского района на 2025-2027 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159007000002'
 approval_date: 2024-12-26
-version_date: 2025-03-31
+version_date: 2025-06-18
 registry_number: '205041'
 caused_by:
-  code: '208709'
+  code: '211556'
   title: О внесении изменений в решение Жанибекского районного маслихата от 26 декабря 2024 года № 30-1 «О бюджете Акобинского сельского округа Жанибекского района на 2025–2027 годы»
-  link: https://zan.gov.kz/client/#!/doc/208709/rus
-source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
+  link: https://zan.gov.kz/client/#!/doc/211556/rus
+source: https://zan.gov.kz/client/#!/doc/205041/rus/18.06.2025
 ---
 
 # О бюджете Акобинского сельского округа Жанибекского района на 2025 – 2027 годы
@@ -27,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 
 1. Утвердить бюджет Акобинского сельского округа Жанибекского района на 2025-2027 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2025 год в следующих объемах:
 
-   1) доходы – 38 510 тысяч тенге:
+   1) доходы – 41 800 тысяч тенге:
 
       налоговые поступления – 3 148 тысяч тенге;
 
@@ -35,9 +35,9 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 
       поступления от продажи основного капитала – 0 тенге;
 
-      поступления трансфертов – 35 322 тысячи тенге;
+      поступления трансфертов – 38 612 тысячи тенге;
 
-   2) затраты – 42 548 тысяч тенге;
+   2) затраты – 45 838 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0 тенге:
 
@@ -61,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 
       используемые остатки бюджетных средств – 4038 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения Жанибекского районного маслихата Западно-Казахстанской области от 31.03.2025 № 32-1 (вводится в действие с 01.01.2025).*
+> *Сноска. Пункт 1 в редакции решений Жанибекского районного маслихата Западно-Казахстанской области от 31.03.2025 № 32-1 (вводится в действие с 01.01.2025); от 18.06.2025 № 35-1 (вводится в действие с 01.01.2025).*
 
 2. Поступления в бюджет Акобинского сельского округа Жанибекского района на 2025 год формируются в соответствии с Бюджетным кодексом Республики Казахстан, решением Жанибекского районного маслихата от 23 декабря 2024 года №29-2 «О районном бюджете на 2025 – 2027 годы».
 
@@ -75,14 +75,13 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 
 **Т.Кадимов**
 
-> *Приложение 1 к решению*  
-> *Жанибекского районного*  
-> *маслихата*  
-> *от 26 декабря 2024 года № 30-1*
+> *Приложение 1*  
+> *к решению Жанибекского районного*  
+> *маслихата от 26 декабря 2024 года №30-1*
 
 ## Бюджет Акобинского сельского округа Жанибекского района на 2025 год
 
-> *Сноска. Приложение 1 в редакции решения Жанибекского районного маслихата Западно-Казахстанской области от 31.03.2025 № 32-1 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 1 в редакции решений Жанибекского районного маслихата Западно-Казахстанской области от 31.03.2025 № 32-1 (вводится в действие с 01.01.2025); от 18.06.2025 № 35-1 (вводится в действие с 01.01.2025).*
 
 > *тысяч тенге*
 
@@ -114,12 +113,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="4">Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th colspan="3">4</th>
-<th colspan="4">5</th>
-<th>6</th>
+<td colspan="3">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td colspan="3">4</td>
+<td colspan="4">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -127,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">1) Доходы</td>
-<td>38 510</td>
+<td>41 800</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -247,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td>35 322</td>
+<td>38 612</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -255,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td>35 322</td>
+<td>38 612</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -263,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td>3</td>
 <td colspan="3"></td>
 <td colspan="4">Трансферты из районного (города областного бюджета) бюджета</td>
-<td>35 322</td>
+<td>38 612</td>
 </tr>
 <tr>
 <td colspan="13">Функциональная группа</td>
@@ -292,12 +291,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th colspan="4">4</th>
-<th colspan="3">5</th>
-<th>6</th>
+<td colspan="3">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+<td colspan="4">4</td>
+<td colspan="3">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -305,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">2) Затраты</td>
-<td>42 548</td>
+<td>45 838</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -313,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>36 410</td>
+<td>36 760</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -321,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36 410</td>
+<td>36 760</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -329,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td>124</td>
 <td colspan="4"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 410</td>
+<td>36 760</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -337,7 +336,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36 410</td>
+<td>36 760</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
@@ -345,7 +344,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>5 838</td>
+<td>8 778</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -353,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">коммунальное хозяйство</td>
-<td>1000</td>
+<td>3 290</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -361,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td>124</td>
 <td colspan="4"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1000</td>
+<td>3 290</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -369,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4">014</td>
 <td colspan="3">Организация водоснабжения населенных пунктах</td>
-<td>1000</td>
+<td>3 290</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -377,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>0</td>
+<td>4 350</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -385,7 +384,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td>124</td>
 <td colspan="4"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>0</td>
+<td>4 350</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -393,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4">008</td>
 <td colspan="3">Освещение улиц в населенных пунктах</td>
-<td>1 538</td>
+<td>1 500</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -409,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td></td>
 <td colspan="4">011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td>3 000</td>
+<td>2 550</td>
 </tr>
 <tr>
 <td colspan="3">12</td>
@@ -477,10 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -498,12 +494,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="5">Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="4">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -539,10 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 </tr>
 <tr>
 <td colspan="13">Функциональная подгруппа</td>
-<td rowspan="5">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -567,12 +560,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="4">4</th>
-<th>5</th>
-<th>6</th>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -584,10 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -612,12 +602,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="4">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>6</td>
@@ -685,10 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 </tr>
 <tr>
 <td colspan="13">Функциональная группа</td>
-<td rowspan="3">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -714,12 +701,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="4">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -739,10 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 </tr>
 <tr>
 <td colspan="13">Категория</td>
-<td rowspan="5">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -767,12 +751,12 @@ source: https://zan.gov.kz/client/#!/doc/205041/rus/31.03.2025
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th colspan="4">4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="3">2</td>
+<td colspan="3">3</td>
+<td colspan="4">4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>8</td>
