@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205106/rus/03.06.2025
+source: https://zan.gov.kz/client/#!/doc/205106/rus/05.08.2025
 ---
 
 # О районном бюджете на 2025-2027 годы
