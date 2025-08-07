@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
+source: https://zan.gov.kz/client/#!/doc/205826/kaz/07.08.2025
 ---
 
 # 2025-2027 жылдарға арналған Бұлан ауылдық округінің бюджеті туралы
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 
 ## 2025 жылға арналған Бұлан ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 27.03.2025 № 30-8 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Батыс Қазақстан облысы Сырым аудандық мәслихатының 27.03.2025 № 30-8 (01.01.2025 бастап қолданысқа енгізіледі); 07.08.2025 № 35-2 (01.01.2025 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td>1</td>
 <td colspan="3">2</td>
 <td colspan="2">3</td>
-<td colspan="2">4</td>
+<td colspan="2">4ь</td>
 <td>5</td>
 </tr>
 <tr>
@@ -216,10 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 </tr>
 <tr>
 <td colspan="8">Функционалдық топ</td>
-<td rowspan="3">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -244,12 +241,12 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -265,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td></td>
@@ -273,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td></td>
@@ -281,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td>07</td>
@@ -297,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td></td>
@@ -305,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Елдi- мекендердi көркейту</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td></td>
@@ -313,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/kaz/27.03.2025
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елдi мекендердің санитариясын қамтамасыз ету</td>
-<td>1000</td>
+<td>939</td>
 </tr>
 <tr>
 <td></td>
