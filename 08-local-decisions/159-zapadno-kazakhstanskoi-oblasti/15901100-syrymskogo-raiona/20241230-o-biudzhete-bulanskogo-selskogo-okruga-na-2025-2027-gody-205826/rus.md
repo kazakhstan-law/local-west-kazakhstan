@@ -1,5 +1,5 @@
 ---
-version_id: '205826_750333'
+version_id: '205826_769254'
 act_code: '205826'
 language: rus
 title: О бюджете Буланского сельского округа на 2025-2027 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '159011000002'
 approval_date: 2024-12-30
-version_date: 2025-03-27
+version_date: 2025-08-07
 registry_number: '205826'
 caused_by:
-  code: '208636'
-  title: О внесении изменений в решение Сырымского районного маслихата от 30 декабря 2024 года № 28-3 «О бюджете Буланского сельского округа на 2025-2027 годы»
-  link: https://zan.gov.kz/client/#!/doc/208636/rus
-source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
+  code: '213132'
+  title: Об внесении изменений в решение Сырымского районного маслихата № 28-3 от 30 декабря 2024 года «О бюджете Буланского сельского округа на 2025-2027 годы»
+  link: https://zan.gov.kz/client/#!/doc/213132/rus
+source: https://zan.gov.kz/client/#!/doc/205826/rus/07.08.2025
 ---
 
 # О бюджете Буланского сельского округа на 2025-2027 годы
@@ -77,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 
 ## Бюджет Буланского сельского округа на 2025 год
 
-> *Сноска. Приложение 1 в редакции решения Сырымского районного маслихата Западно-Казахстанской области от 27.03.2025 № 30-8 (вводится в действие с 01.01.2025).*
+> *Сноска. Приложение 1 в редакции решений Сырымского районного маслихата Западно-Казахстанской области от 27.03.2025 № 30-8 (вводится в действие с 01.01.2025); от 07.08.2025 № 35-2 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -106,11 +106,11 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -233,10 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 </tr>
 <tr>
 <td colspan="10">Функциональная группа</td>
-<td rowspan="5">
-Сумма,
-тысяч тенге
-</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -260,12 +257,12 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -281,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -289,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -297,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -305,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>38581</td>
+<td>38642</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -313,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -321,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -329,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5527</td>
+<td>5466</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -345,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/205826/rus/27.03.2025
 <td colspan="3"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1000</td>
+<td>939</td>
 </tr>
 <tr>
 <td colspan="2"></td>
