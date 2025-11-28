@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204850/kaz/15.09.2025
+source: https://zan.gov.kz/client/#!/doc/204850/kaz/28.11.2025
 ---
 
 > *Ақжайық аудандық мәслихатының*  
