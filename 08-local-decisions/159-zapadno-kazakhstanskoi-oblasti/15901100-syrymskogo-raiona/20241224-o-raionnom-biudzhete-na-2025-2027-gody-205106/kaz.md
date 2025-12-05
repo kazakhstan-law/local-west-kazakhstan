@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205106/kaz/12.09.2025
+source: https://zan.gov.kz/client/#!/doc/205106/kaz/05.12.2025
 ---
 
 # 2025-2027 жылдарға арналған аудандық бюджет туралы
