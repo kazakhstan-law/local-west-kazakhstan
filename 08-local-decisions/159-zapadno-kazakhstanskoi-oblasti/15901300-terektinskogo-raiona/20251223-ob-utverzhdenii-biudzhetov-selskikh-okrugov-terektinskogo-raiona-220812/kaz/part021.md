@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
+source: https://zan.gov.kz/client/#!/doc/220812/kaz/06.03.2026
 ---
 
 > *Теректі аудандық мәслихатының*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *21-қосымша*
 
 ## 2028 жылға арналған Құмақсай ауылдық округінің бюджеті
+
+> *Ескерту. 21-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -158,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -317,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -442,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -548,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -640,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -671,6 +673,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *22-қосымша*
 
 ## 2026 жылға арналған Подстепный ауылдық округінің бюджеті
+
+> *Ескерту. 22-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -705,7 +709,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>111 159</td>
+<td>113 869</td>
 </tr>
 <tr>
 <td>1</td>
@@ -820,12 +824,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>18 209</td>
+<td>20 919</td>
 </tr>
 <tr>
 <td></td>
@@ -833,7 +837,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>18 209</td>
+<td>20 919</td>
 </tr>
 <tr>
 <td></td>
@@ -841,7 +845,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>18 209</td>
+<td>20 919</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -875,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>111 159</td>
+<td>172 856</td>
 </tr>
 <tr>
 <td>01</td>
@@ -883,7 +887,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>81 399</td>
+<td>83 399</td>
 </tr>
 <tr>
 <td></td>
@@ -891,7 +895,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>81 399</td>
+<td>83 399</td>
 </tr>
 <tr>
 <td></td>
@@ -899,7 +903,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>81 399</td>
+<td>83 399</td>
 </tr>
 <tr>
 <td></td>
@@ -907,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>81 399</td>
+<td>83 399</td>
 </tr>
 <tr>
 <td>05</td>
@@ -947,7 +951,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>12 760</td>
+<td>72 457</td>
 </tr>
 <tr>
 <td></td>
@@ -955,7 +959,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>12 760</td>
+<td>72 457</td>
 </tr>
 <tr>
 <td></td>
@@ -963,7 +967,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>12 760</td>
+<td>72 457</td>
 </tr>
 <tr>
 <td></td>
@@ -971,7 +975,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>12 760</td>
+<td>36 760</td>
 </tr>
 <tr>
 <td></td>
@@ -979,7 +983,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>6 000</td>
 </tr>
 <tr>
 <td></td>
@@ -987,7 +991,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td></td>
+<td>29 697</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1104,7 +1108,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1170,7 +1174,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1199,7 +1203,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-58 987</td>
 </tr>
 <tr>
 <td></td>
@@ -1207,10 +1211,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>58 987</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1302,12 +1306,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>58 987</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,7 +1319,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>58 987</td>
 </tr>
 <tr>
 <td></td>
@@ -1323,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>58 987</td>
 </tr>
 </table>
 
@@ -1333,6 +1337,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *23-қосымша*
 
 ## 2027 жылға арналған Подстепный ауылдық округінің бюджеті
+
+> *Ескерту. 23-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1482,7 +1488,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1641,7 +1647,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1766,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1832,7 +1838,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1872,7 +1878,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1964,7 +1970,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1995,6 +2001,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *24-қосымша*
 
 ## 2028 жылға арналған Подстепный ауылдық округінің бюджеті
+
+> *Ескерту. 24-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2144,7 +2152,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2303,7 +2311,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2311,7 +2319,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2428,7 +2436,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2494,7 +2502,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2534,7 +2542,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2626,7 +2634,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2657,6 +2665,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *25-қосымша*
 
 ## 2026 жылға арналған Покатиловка ауылдық округінің бюджеті
+
+> *Ескерту. 25-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2779,7 +2789,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>5</td>
 <td></td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2806,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2861,7 +2871,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>51 372</td>
+<td>54 303</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2933,7 +2943,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4 850</td>
+<td>7 781</td>
 </tr>
 <tr>
 <td></td>
@@ -2941,7 +2951,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4 850</td>
+<td>7 781</td>
 </tr>
 <tr>
 <td></td>
@@ -2949,7 +2959,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 850</td>
+<td>7 781</td>
 </tr>
 <tr>
 <td></td>
@@ -2957,7 +2967,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 850</td>
+<td>2 281</td>
 </tr>
 <tr>
 <td></td>
@@ -2965,7 +2975,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2973,7 +2983,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>3 000</td>
+<td>5 500</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3090,7 +3100,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3156,7 +3166,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3185,7 +3195,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-2 931</td>
 </tr>
 <tr>
 <td></td>
@@ -3193,10 +3203,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2 931</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3288,12 +3298,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2 931</td>
 </tr>
 <tr>
 <td></td>
@@ -3301,7 +3311,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>2 931</td>
 </tr>
 <tr>
 <td></td>
@@ -3309,7 +3319,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>2 931</td>
 </tr>
 </table>
 
@@ -3319,6 +3329,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *26-қосымша*
 
 ## 2027 жылға арналған Покатиловка ауылдық округінің бюджеті
+
+> *Ескерту. 26-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -3468,7 +3480,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3627,7 +3639,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3752,7 +3764,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3818,7 +3830,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3858,7 +3870,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3950,7 +3962,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3981,6 +3993,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *27-қосымша*
 
 ## 2028 жылға арналған Покатиловка ауылдық округінің бюджеті
+
+> *Ескерту. 27-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -4130,7 +4144,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4289,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4414,7 +4428,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4480,7 +4494,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4520,7 +4534,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4612,7 +4626,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4643,6 +4657,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *28-қосымша*
 
 ## 2026 жылға арналған Приречный ауылдық округінің бюджеті
+
+> *Ескерту. 28-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -4792,7 +4808,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4847,7 +4863,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>58 652</td>
+<td>65 732</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4855,7 +4871,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>52 352</td>
+<td>47 852</td>
 </tr>
 <tr>
 <td></td>
@@ -4863,7 +4879,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>52 352</td>
+<td>47 852</td>
 </tr>
 <tr>
 <td></td>
@@ -4871,7 +4887,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>52 352</td>
+<td>47 852</td>
 </tr>
 <tr>
 <td></td>
@@ -4879,7 +4895,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>52 352</td>
+<td>47 852</td>
 </tr>
 <tr>
 <td>05</td>
@@ -4919,7 +4935,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4 000</td>
+<td>15 580</td>
 </tr>
 <tr>
 <td></td>
@@ -4927,7 +4943,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4 000</td>
+<td>15 580</td>
 </tr>
 <tr>
 <td></td>
@@ -4935,7 +4951,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 000</td>
+<td>15 580</td>
 </tr>
 <tr>
 <td></td>
@@ -4943,7 +4959,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 000</td>
+<td>15 080</td>
 </tr>
 <tr>
 <td></td>
@@ -4951,7 +4967,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4959,7 +4975,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>3 000</td>
+<td>500</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5047,7 +5063,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>048</td>
 <td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -5076,7 +5092,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5142,7 +5158,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5171,7 +5187,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-7 080</td>
 </tr>
 <tr>
 <td></td>
@@ -5179,10 +5195,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>7 080</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5274,12 +5290,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>7 080</td>
 </tr>
 <tr>
 <td></td>
@@ -5287,7 +5303,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>7 080</td>
 </tr>
 <tr>
 <td></td>
@@ -5295,7 +5311,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>7 080</td>
 </tr>
 </table>
 
@@ -5305,6 +5321,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *29-қосымша*
 
 ## 2027 жылға арналған Приречный ауылдық округінің бюджеті
+
+> *Ескерту. 29-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -5454,7 +5472,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5613,7 +5631,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5738,7 +5756,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5804,7 +5822,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5844,7 +5862,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5936,7 +5954,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5967,6 +5985,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 > *30-қосымша*
 
 ## 2028 жылға арналған Приречный ауылдық округінің бюджеті
+
+> *Ескерту. 30-қосымша жаңа редакцияда - Батыс Қазақстан облысы Теректі аудандық мәслихатының 06.03.2026 № 30-2 ( 01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -6116,7 +6136,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6275,7 +6295,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -6400,7 +6420,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6466,7 +6486,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6506,7 +6526,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6598,7 +6618,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/kaz/23.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>

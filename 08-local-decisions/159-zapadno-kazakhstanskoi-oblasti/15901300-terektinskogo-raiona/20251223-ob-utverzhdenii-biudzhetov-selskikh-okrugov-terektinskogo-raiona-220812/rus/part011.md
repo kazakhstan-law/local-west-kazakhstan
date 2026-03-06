@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
+source: https://zan.gov.kz/client/#!/doc/220812/rus/06.03.2026
 ---
 
 > *Приложение 11*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Анкатинского сельского округа на 2027 год
+
+> *Сноска. Приложение 11 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -158,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -442,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -548,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -640,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -671,6 +673,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Анкатинского сельского округа на 2028 год
+
+> *Сноска. Приложение 12 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -820,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1104,7 +1108,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1170,7 +1174,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1210,7 +1214,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1302,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1333,6 +1337,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Богдановского сельского округа на 2026 год
+
+> *Сноска. Приложение 13 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -1482,7 +1488,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1537,7 +1543,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>65 121</td>
+<td>67 794</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1545,7 +1551,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>52 076</td>
+<td>52 682</td>
 </tr>
 <tr>
 <td></td>
@@ -1553,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>52 076</td>
+<td>52 682</td>
 </tr>
 <tr>
 <td></td>
@@ -1561,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>52 076</td>
+<td>52 682</td>
 </tr>
 <tr>
 <td></td>
@@ -1569,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>52 076</td>
+<td>52 682</td>
 </tr>
 <tr>
 <td>05</td>
@@ -1609,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7 708</td>
+<td>8 935</td>
 </tr>
 <tr>
 <td></td>
@@ -1617,7 +1623,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>7 708</td>
+<td>8 935</td>
 </tr>
 <tr>
 <td></td>
@@ -1625,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 708</td>
+<td>8 935</td>
 </tr>
 <tr>
 <td></td>
@@ -1641,7 +1647,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>4 500</td>
+<td>5 727</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1657,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>5 337</td>
+<td>6 177</td>
 </tr>
 <tr>
 <td></td>
@@ -1665,7 +1671,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>5 337</td>
+<td>6 177</td>
 </tr>
 <tr>
 <td></td>
@@ -1673,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 337</td>
+<td>6 177</td>
 </tr>
 <tr>
 <td></td>
@@ -1681,7 +1687,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>5 337</td>
+<td>6 177</td>
 </tr>
 <tr>
 <td></td>
@@ -1766,7 +1772,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1832,7 +1838,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1861,7 +1867,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-2 673</td>
 </tr>
 <tr>
 <td></td>
@@ -1869,10 +1875,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>2 673</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1964,12 +1970,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>2 673</td>
 </tr>
 <tr>
 <td></td>
@@ -1977,7 +1983,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>2 673</td>
 </tr>
 <tr>
 <td></td>
@@ -1985,7 +1991,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>2 673</td>
 </tr>
 </table>
 
@@ -1995,6 +2001,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Богдановского сельского округа на 2027 год
+
+> *Сноска. Приложение 14 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -2144,7 +2152,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2303,7 +2311,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2428,7 +2436,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2494,7 +2502,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2534,7 +2542,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2626,7 +2634,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2657,6 +2665,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Богдановского сельского округа на 2028 год
+
+> *Сноска. Приложение 15 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -2806,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2965,7 +2975,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3090,7 +3100,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3156,7 +3166,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3196,7 +3206,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3288,7 +3298,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3319,6 +3329,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Долинского сельского округа на 2026 год
+
+> *Сноска. Приложение 16 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -3468,7 +3480,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3523,7 +3535,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>75 021</td>
+<td>82 809</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3595,7 +3607,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>10 000</td>
+<td>17 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3603,7 +3615,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>10 000</td>
+<td>17 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3611,7 +3623,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>10 000</td>
+<td>17 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3627,7 +3639,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3635,7 +3647,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>5 000</td>
+<td>12 788</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3752,7 +3764,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3818,7 +3830,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3847,7 +3859,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-7 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3855,10 +3867,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>7 788</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3950,12 +3962,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>7 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3963,7 +3975,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>7 788</td>
 </tr>
 <tr>
 <td></td>
@@ -3971,7 +3983,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>7 788</td>
 </tr>
 </table>
 
@@ -3981,6 +3993,8 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Долинского сельского округа на 2027 год
+
+> *Сноска. Приложение 17 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -4130,7 +4144,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4289,7 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4414,7 +4428,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4480,7 +4494,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4520,7 +4534,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4612,7 +4626,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4638,10 +4652,13 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 </table>
 
 > *Приложение 18*  
-> *к решению Теректинского районного маслихата*  
+> *к решению Теректинского*  
+> *районного маслихата*  
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет Долинского сельского округа на 2028 год
+
+> *Сноска. Приложение 18 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -4791,7 +4808,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4950,7 +4967,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5075,7 +5092,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5141,7 +5158,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5181,7 +5198,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5273,7 +5290,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5299,10 +5316,13 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 </table>
 
 > *Приложение 19*  
-> *к решению Теректинского районного маслихата*  
+> *к решению Теректинского*  
+> *районного маслихата*  
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет сельского округа Құмақсай на 2026 год
+
+> *Сноска. Приложение 19 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -5385,7 +5405,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>3</td>
 <td></td>
 <td>Земельный налог</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5452,7 +5472,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5507,7 +5527,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>51 948</td>
+<td>72 991</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5579,7 +5599,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 050</td>
+<td>26 093</td>
 </tr>
 <tr>
 <td></td>
@@ -5587,7 +5607,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 050</td>
+<td>26 093</td>
 </tr>
 <tr>
 <td></td>
@@ -5595,7 +5615,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 050</td>
+<td>26 093</td>
 </tr>
 <tr>
 <td></td>
@@ -5611,7 +5631,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5619,7 +5639,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 000</td>
+<td>24 043</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5736,7 +5756,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5802,7 +5822,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5831,7 +5851,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-21 043</td>
 </tr>
 <tr>
 <td></td>
@@ -5839,10 +5859,10 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>21 043</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5934,12 +5954,12 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>21 043</td>
 </tr>
 <tr>
 <td></td>
@@ -5947,7 +5967,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>21 043</td>
 </tr>
 <tr>
 <td></td>
@@ -5955,15 +5975,18 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>21 043</td>
 </tr>
 </table>
 
 > *Приложение 20*  
-> *к решению Теректинского районного маслихата*  
+> *к решению Теректинского*  
+> *районного маслихата*  
 > *от 23 декабря 2025 года № 29-3*
 
 ## Бюджет сельского округа Құмақсай на 2027 год
+
+> *Сноска. Приложение 20 в редакции решения Теректинского районного маслихата Западно-Казахстанской области от 06.03.2026 № 30-2 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
@@ -6113,7 +6136,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6272,7 +6295,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -6397,7 +6420,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6463,7 +6486,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6503,7 +6526,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>0</td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6595,7 +6618,7 @@ source: https://zan.gov.kz/client/#!/doc/220812/rus/23.12.2025
 <td>Наименование</td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td></td>
 <td></td>
 <td></td>
