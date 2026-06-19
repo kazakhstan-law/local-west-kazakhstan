@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219860/kaz/28.04.2026
+source: https://zan.gov.kz/client/#!/doc/219860/kaz/19.06.2026
 ---
 
 > *2025 жылғы 24 желтоқсандағы № 37-1*  
