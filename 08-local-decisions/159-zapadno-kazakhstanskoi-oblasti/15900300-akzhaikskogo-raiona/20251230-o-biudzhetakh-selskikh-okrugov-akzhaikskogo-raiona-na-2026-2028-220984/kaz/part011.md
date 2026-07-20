@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
+source: https://zan.gov.kz/client/#!/doc/220984/kaz/20.07.2026
 ---
 
 > *Ақжайық аудандық мәслихатының*  
@@ -1381,28 +1381,30 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 
 ## 2026 жылға арналған Базартөбе ауылдық округінің бюджеті
 
+> *Ескерту. 13-қосымша жаңа редакцияда -Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 20.07.2026 № 43-1 (01.01.2026 бастап қолданысқа енгізіледі ) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1633,25 +1635,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1675,7 +1677,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>46015</td>
+<td>48207</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1683,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>42835</td>
+<td>43033</td>
 </tr>
 <tr>
 <td></td>
@@ -1691,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>42835</td>
+<td>43033</td>
 </tr>
 <tr>
 <td></td>
@@ -1699,7 +1701,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>42835</td>
+<td>43033</td>
 </tr>
 <tr>
 <td></td>
@@ -1707,7 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>42835</td>
+<td>43033</td>
 </tr>
 <tr>
 <td></td>
@@ -1723,7 +1725,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1680</td>
+<td>3674</td>
 </tr>
 <tr>
 <td></td>
@@ -1731,7 +1733,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>1680</td>
+<td>3674</td>
 </tr>
 <tr>
 <td></td>
@@ -1739,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1680</td>
+<td>3674</td>
 </tr>
 <tr>
 <td></td>
@@ -1755,7 +1757,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>0</td>
+<td>1994</td>
 </tr>
 <tr>
 <td></td>
@@ -1831,25 +1833,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1885,25 +1887,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1927,7 +1929,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>- 2192</td>
 </tr>
 <tr>
 <td></td>
@@ -1935,11 +1937,11 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2192</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
+<td>
 Сомасы,
 мың теңге
 </td>
@@ -1947,17 +1949,20 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -1969,25 +1974,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2007,25 +2012,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы
-мың теңге
-</td>
+<td>Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2041,7 +2046,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2192</td>
 </tr>
 <tr>
 <td></td>
@@ -2049,7 +2054,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>2192</td>
 </tr>
 <tr>
 <td></td>
@@ -2057,7 +2062,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>2192</td>
 </tr>
 </table>
 
@@ -3439,28 +3444,30 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 
 ## 2026 жылға арналған Базаршолан ауылдық округінің бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда -Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 20.07.2026 № 43-1 (01.01.2026 бастап қолданысқа енгізіледі ) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3691,25 +3698,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3733,7 +3740,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>50144</td>
+<td>50763</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3741,7 +3748,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>46344</td>
+<td>46963</td>
 </tr>
 <tr>
 <td></td>
@@ -3749,7 +3756,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>46344</td>
+<td>46963</td>
 </tr>
 <tr>
 <td></td>
@@ -3757,7 +3764,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>46344</td>
+<td>46963</td>
 </tr>
 <tr>
 <td></td>
@@ -3765,7 +3772,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>46344</td>
+<td>46963</td>
 </tr>
 <tr>
 <td></td>
@@ -3889,25 +3896,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3943,25 +3950,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3985,7 +3992,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>5) Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>- 619</td>
 </tr>
 <tr>
 <td></td>
@@ -3993,11 +4000,11 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>6) Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>619</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
+<td>
 Сомасы,
 мың теңге
 </td>
@@ -4005,17 +4012,20 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -4027,25 +4037,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4065,25 +4075,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы
-мың теңге
-</td>
+<td>Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4099,7 +4109,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>619</td>
 </tr>
 <tr>
 <td></td>
@@ -4107,7 +4117,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>619</td>
 </tr>
 <tr>
 <td></td>
@@ -4115,7 +4125,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>619</td>
 </tr>
 </table>
 

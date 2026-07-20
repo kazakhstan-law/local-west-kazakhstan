@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
+source: https://zan.gov.kz/client/#!/doc/220984/kaz/20.07.2026
 ---
 
 > *Ақжайық аудандық мәслихатының*  
@@ -5475,34 +5475,34 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 
 > *Ақжайық аудандық мәслихатының*  
 > *2025 жылғы 30 желтоқсандағы*  
-> *№ 38-1 шешіміне 49- қосымша*
+> *№38-1 шешіміне 49- қосымша*
 
-# 2026 жылға арналған Тайпақ ауылдық округінің бюджеті
+## 2026 жылға арналған Тайпақ ауылдық округінің бюджеті
 
-> *Ескерту. 49-қосымша жаңа редакцияда -Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 26.05.2026 № 41-1 (01.01.2026 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 49-қосымша жаңа редакцияда -Батыс Қазақстан облысы Ақжайық аудандық мәслихатының 26.05.2026 № 41-1 (01.01.2026 бастап қолданысқа енгізіледі); 20.07.2026 № 43-1 (01.01.2026 бастап қолданысқа енгізіледі ) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5526,7 +5526,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>109266</td>
+<td>110259</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5710,7 +5710,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>59406</td>
+<td>60399</td>
 </tr>
 <tr>
 <td></td>
@@ -5718,7 +5718,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>59406</td>
+<td>60399</td>
 </tr>
 <tr>
 <td></td>
@@ -5726,32 +5726,32 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>3</td>
 <td></td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>59406</td>
+<td>60399</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5775,7 +5775,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>112309</td>
+<td>113302</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5783,7 +5783,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>84727</td>
+<td>85720</td>
 </tr>
 <tr>
 <td></td>
@@ -5791,7 +5791,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>84727</td>
+<td>85720</td>
 </tr>
 <tr>
 <td></td>
@@ -5799,7 +5799,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>84727</td>
+<td>85720</td>
 </tr>
 <tr>
 <td></td>
@@ -5807,7 +5807,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>84727</td>
+<td>85720</td>
 </tr>
 <tr>
 <td></td>
@@ -5931,7 +5931,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
+<td>
 Сомасы,
 мың теңге
 </td>
@@ -5939,17 +5939,20 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5985,25 +5988,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6039,25 +6042,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы,
-мың теңге
-</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -6069,7 +6072,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">
+<td>
 Сомасы,
 мың теңге
 </td>
@@ -6077,17 +6080,20 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 <tr>
 <td></td>
 <td colspan="4">Функционалдық кіші топ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6107,25 +6113,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/kaz/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">
-Сомасы
-мың теңге
-</td>
+<td>Сомасы мың теңге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Iшкi сыныбы</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td></td>

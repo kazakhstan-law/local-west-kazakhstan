@@ -1,38 +1,38 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
+source: https://zan.gov.kz/client/#!/doc/220984/rus/20.07.2026
 ---
 
 > *Приложение 1 к решению*  
 > *Акжаикского районного маслихата*  
 > *от 30 декабря 2025 года № 38-1*
 
-# Бюджет Акжолского сельского округа на 2026 год
+## Бюджет Акжолского сельского округа на 2026 год
 
-> *Сноска. Приложение 1 в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 21.05.2026 № 41-1 (вводится в действие с 01.01.2026).*
+> *Сноска. Приложение 1 в редакции решений Акжаикского районного маслихата Западно-Казахстанской области от 21.05.2026 № 41-1 (вводится в действие с 01.01.2026); от 20.07.2026 № 43-1 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -263,25 +263,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -313,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>48924</td>
+<td>49122</td>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>48924</td>
+<td>49122</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>48924</td>
+<td>49122</td>
 </tr>
 <tr>
 <td></td>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>48924</td>
+<td>49122</td>
 </tr>
 <tr>
 <td></td>
@@ -401,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>2000</td>
+<td>1802</td>
 </tr>
 <tr>
 <td></td>
@@ -409,7 +409,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>2000</td>
+<td>1802</td>
 </tr>
 <tr>
 <td></td>
@@ -417,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2000</td>
+<td>1802</td>
 </tr>
 <tr>
 <td></td>
@@ -425,7 +425,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>2000</td>
+<td>1802</td>
 </tr>
 <tr>
 <td>13</td>
@@ -461,25 +461,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -515,25 +515,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -561,25 +561,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -591,25 +591,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -637,25 +637,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4129,28 +4129,30 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 
 ## Бюджет Алгабасского сельского округа на 2026 год
 
+> *Сноска. Приложение 7 в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 20.07.2026 № 43-1 (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4229,7 +4231,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>4</td>
 <td></td>
-<td>Налог на транспортные средства</td>
+<td>Налог на транспортные средства с физических лиц</td>
 <td>5000</td>
 </tr>
 <tr>
@@ -4381,25 +4383,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4423,7 +4425,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>51293</td>
+<td>54378</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4431,7 +4433,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>46993</td>
+<td>48621</td>
 </tr>
 <tr>
 <td></td>
@@ -4439,7 +4441,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>46993</td>
+<td>48621</td>
 </tr>
 <tr>
 <td></td>
@@ -4447,7 +4449,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>46993</td>
+<td>48621</td>
 </tr>
 <tr>
 <td></td>
@@ -4455,7 +4457,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>46993</td>
+<td>48621</td>
 </tr>
 <tr>
 <td></td>
@@ -4471,7 +4473,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>3300</td>
+<td>4757</td>
 </tr>
 <tr>
 <td></td>
@@ -4479,7 +4481,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>3300</td>
+<td>4757</td>
 </tr>
 <tr>
 <td></td>
@@ -4487,7 +4489,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3300</td>
+<td>4757</td>
 </tr>
 <tr>
 <td></td>
@@ -4503,7 +4505,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>0</td>
+<td>1457</td>
 </tr>
 <tr>
 <td></td>
@@ -4579,25 +4581,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4633,25 +4635,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -4667,7 +4669,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-3085</td>
 </tr>
 <tr>
 <td></td>
@@ -4675,29 +4677,29 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3085</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -4709,25 +4711,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4755,25 +4757,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4789,7 +4791,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3085</td>
 </tr>
 <tr>
 <td></td>
@@ -4797,7 +4799,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>0</td>
+<td>3085</td>
 </tr>
 <tr>
 <td></td>
@@ -4805,7 +4807,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0</td>
+<td>3085</td>
 </tr>
 </table>
 
@@ -6185,32 +6187,32 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 > *Акжаикского районного маслихата*  
 > *от 30 декабря 2025 года № 38-1*
 
-# Бюджет Алмалинского сельского округа на 2026 год
+## Бюджет Алмалинского сельского округа на 2026 год
 
-> *Сноска. Приложение 10 в редакции решения Акжаикского районного маслихата Западно-Казахстанской области от 21.05.2026 № 41-1 (вводится в действие с 01.01.2026).*
+> *Сноска. Приложение 10 в редакции решений Акжаикского районного маслихата Западно-Казахстанской области от 21.05.2026 № 41-1 (вводится в действие с 01.01.2026); от 20.07.2026 № 43-1 (вводится в действие с 01.01.2026).*
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6441,25 +6443,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6483,7 +6485,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>2) Затраты</td>
-<td>55375</td>
+<td>64894</td>
 </tr>
 <tr>
 <td>01</td>
@@ -6491,7 +6493,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>47360</td>
+<td>50658</td>
 </tr>
 <tr>
 <td></td>
@@ -6499,7 +6501,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>47360</td>
+<td>50658</td>
 </tr>
 <tr>
 <td></td>
@@ -6507,7 +6509,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>47360</td>
+<td>50658</td>
 </tr>
 <tr>
 <td></td>
@@ -6515,7 +6517,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>47360</td>
+<td>50658</td>
 </tr>
 <tr>
 <td></td>
@@ -6531,7 +6533,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7015</td>
+<td>13236</td>
 </tr>
 <tr>
 <td></td>
@@ -6539,7 +6541,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>7015</td>
+<td>13236</td>
 </tr>
 <tr>
 <td></td>
@@ -6547,7 +6549,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7015</td>
+<td>13236</td>
 </tr>
 <tr>
 <td></td>
@@ -6571,7 +6573,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>5883</td>
+<td>12104</td>
 </tr>
 <tr>
 <td>12</td>
@@ -6639,25 +6641,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6693,25 +6695,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -6727,7 +6729,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>5) Дефицит (профицит) бюджета</td>
-<td>-5283</td>
+<td>-14802</td>
 </tr>
 <tr>
 <td></td>
@@ -6735,29 +6737,29 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
-<td>5283</td>
+<td>14802</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -6769,25 +6771,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6815,25 +6817,25 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
-Сумма,
-тысяч тенге
-</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Специфика</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6849,7 +6851,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>5283</td>
+<td>14802</td>
 </tr>
 <tr>
 <td></td>
@@ -6857,7 +6859,7 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td></td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td>5283</td>
+<td>14802</td>
 </tr>
 <tr>
 <td></td>
@@ -6865,6 +6867,6 @@ source: https://zan.gov.kz/client/#!/doc/220984/rus/21.05.2026
 <td>1</td>
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
-<td>5283</td>
+<td>14802</td>
 </tr>
 </table>
